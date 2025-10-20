@@ -1,0 +1,21 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/netherlands/amsterdam/xo-blue-square?SearchType=1&Hotel=14868&P=1&CheckIn=2026-04-10&Night=3&HpCode=AMSUSK26KT&ClId=295",
+    "title": "XO BLUE SQUARE",
+    "location": "NETHERLANDS - AMSTERDAM",
+    "stars_raw": "6",
+    "departure_date_raw": "10.04.2026",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1598,
+        "price_rsd": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/cesme/design-plus-seya-beach-hotel?SearchType=1&Hotel=15472&P=1&CheckIn=2026-06-10&Night=7&HpCode=CESWOTS26K&ClId=302",
+    "title": "Design Plus Seya Beach Hotel",
+    "location": "TURSKA - CEŠME",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Superior Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 332489.96,
+        "price_eur": null,
+        "price_rsd": 297350.05
+      },
+      {
+        "room_type": "Double Superior Room (LateralSeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 358501.66,
+        "price_eur": null,
+        "price_rsd": 319851.04
+      },
+      {
+        "room_type": "Double Superior Room (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 386383.33,
+        "price_eur": null,
+        "price_rsd": 343959.52
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 416102.19,
+        "price_eur": null,
+        "price_rsd": 369675.51
+      },
+      {
+        "room_type": "Double Superior Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 425401.54,
+        "price_eur": null,
+        "price_rsd": 377711.67
+      },
+      {
+        "room_type": "Double Superior Room (LateralSeaView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 451413.24,
+        "price_eur": null,
+        "price_rsd": 400212.66
+      },
+      {
+        "room_type": "Double Superior Room (SeaView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 479294.92,
+        "price_eur": null,
+        "price_rsd": 424321.14
+      },
+      {
+        "room_type": "Suite (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 484872.05,
+        "price_eur": null,
+        "price_rsd": 429143.64
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 509013.78,
+        "price_eur": null,
+        "price_rsd": 450037.13
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 525742.51,
+        "price_eur": null,
+        "price_rsd": 464501.95
+      }
+    ]
+  }
+]

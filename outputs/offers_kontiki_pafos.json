@@ -1,0 +1,556 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/pafos/amavi--madefortwo?SearchType=1&Hotel=19017&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=185",
+    "title": "AMAVI, MADEFORTWO HOTELS",
+    "location": "KIPARSKA REPUBLIKA - PAFOS",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM SEA VIEW",
+        "board": "HALF BOARD PREMIUM",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4530,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE SEA VIEW",
+        "board": "HALF BOARD PREMIUM",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/pafos/cynthiana-beach-hotel?SearchType=1&Hotel=4617&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=185",
+    "title": "CYNTHIANA BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - PAFOS",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1558,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1670,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/pafos/cap-st-georges-hotel---resort?SearchType=1&Hotel=18358&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=185",
+    "title": "CAP ST GEORGES HOTEL & RESORT",
+    "location": "KIPARSKA REPUBLIKA - PAFOS",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "CAP THALASSA ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4538,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CAP SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5050,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CAP DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5550,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CAP FAMILY SUITE",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 8290,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/pafos/ivi-mare?SearchType=1&Hotel=19036&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=185",
+    "title": "IVI MARE",
+    "location": "KIPARSKA REPUBLIKA - PAFOS",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2898,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3370,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3518,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/pafos/louis-phaethon-beach?SearchType=1&Hotel=19035&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=185",
+    "title": "LOUIS PHAETHON BEACH",
+    "location": "KIPARSKA REPUBLIKA - PAFOS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DOUBLE/TWIN ROOM INLAND VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2278,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DOUBLE/TWIN ROOM SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2410,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/pafos/anassa?SearchType=1&Hotel=18396&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=185",
+    "title": "ANASSA",
+    "location": "KIPARSKA REPUBLIKA - PAFOS",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "GARDEN ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4450,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STUDIO SUITE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5090,
+        "price_rsd": null
+      },
+      {
+        "room_type": "INTERCONNECTING STUDIO SUITES",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 7290,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/pafos/athena-beach-hotel?SearchType=1&Hotel=4614&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=185",
+    "title": "ATHENA BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - PAFOS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "CLASSIC LAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2750,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLASSIC ROOM SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2898,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLASSIC SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3070,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR LAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3098,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3470,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/pafos/annabelle?SearchType=1&Hotel=18999&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=185",
+    "title": "ANNABELLE",
+    "location": "KIPARSKA REPUBLIKA - PAFOS",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "INLAND VIEW ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2750,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TERRACE GARDEN VIEW ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3038,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3118,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SEA VIEW ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3218,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TERRACE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3570,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/pafos/cali-resort---spa?SearchType=1&Hotel=19033&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=185",
+    "title": "CALI RESORT & SPA",
+    "location": "KIPARSKA REPUBLIKA - PAFOS",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2818,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3070,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3318,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/pafos/akti-beach-hotel---village-resort?SearchType=1&Hotel=19019&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=185",
+    "title": "AKTI BEACH HOTEL & VILLAGE RESORT",
+    "location": "KIPARSKA REPUBLIKA - PAFOS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STUDIO",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1738,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1890,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR DOUBLE HOTEL ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2058,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/pafos/aquamare-beach-hotel---spa?SearchType=1&Hotel=19037&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=185",
+    "title": "AQUAMARE BEACH HOTEL & SPA",
+    "location": "KIPARSKA REPUBLIKA - PAFOS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1790,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1930,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1990,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2090,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY SUITE INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2210,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/pafos/asimina-suites-hotel?SearchType=1&Hotel=4615&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=185",
+    "title": "ASIMINA SUITES HOTEL",
+    "location": "KIPARSKA REPUBLIKA - PAFOS",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "JUNIOR SUITE LAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3658,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM SUITE",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4090,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM SUITE SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4490,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM SUITE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4858,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/pafos/elysium-beach?SearchType=1&Hotel=4618&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=185",
+    "title": "ELYSIUM BEACH - PAFOS",
+    "location": "KIPARSKA REPUBLIKA - PAFOS",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3350,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SIDE SEA VIEW ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3518,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3878,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY DUPLEX SUITE",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4330,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/pafos/coral-beach-hotel---resort?SearchType=1&Hotel=7222&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=185",
+    "title": "CORAL BEACH HOTEL & RESORT - PAFOS",
+    "location": "KIPARSKA REPUBLIKA - PAFOS",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "MOUNTAIN VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2398,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2570,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SEA VIEW ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2630,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STUDIO SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2930,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2998,
+        "price_rsd": null
+      }
+    ]
+  }
+]

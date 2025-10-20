@@ -1,0 +1,906 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/pirin-hotel?SearchType=2&Hotel=1062&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "PIRIN HOTEL",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": 114,
+        "old_price_rsd": null,
+        "price_eur": 102.9,
+        "price_rsd": null
+      },
+      {
+        "room_type": "LUX ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": 126,
+        "old_price_rsd": null,
+        "price_eur": 113.7,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "HALF BOARD",
+        "old_price_eur": 176,
+        "old_price_rsd": null,
+        "price_eur": 158.7,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/perun-lodge-hotel?SearchType=2&Hotel=1061&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "PERUN LODGE HOTEL",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STUDIO",
+        "board": "Bed & Breakfast",
+        "old_price_eur": 94,
+        "old_price_rsd": null,
+        "price_eur": 80.35,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "Bed & Breakfast",
+        "old_price_eur": 106,
+        "old_price_rsd": null,
+        "price_eur": 90.55,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STUDIO",
+        "board": "HALF BOARD",
+        "old_price_eur": 140,
+        "old_price_rsd": null,
+        "price_eur": 119.45,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "HALF BOARD",
+        "old_price_eur": 152,
+        "old_price_rsd": null,
+        "price_eur": 129.65,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/regnum-apart-hotel---spa-bansko?SearchType=2&Hotel=2178&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "REGNUM APART HOTEL & SPA BANSKO",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "10",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "JUNIOR SUITE",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 154,
+        "old_price_rsd": null,
+        "price_eur": 131.35,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 170,
+        "old_price_rsd": null,
+        "price_eur": 144.95,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART MOUNTAIN",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 176,
+        "old_price_rsd": null,
+        "price_eur": 150.05,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM DELUXE APARTMENT",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 182,
+        "old_price_rsd": null,
+        "price_eur": 155.15,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/ores-boutique-hotel?SearchType=2&Hotel=13504&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "ORES BOUTIQUE HOTEL",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "10",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 164,
+        "old_price_rsd": null,
+        "price_eur": 131.8,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 176,
+        "old_price_rsd": null,
+        "price_eur": 141.4,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": 206,
+        "old_price_rsd": null,
+        "price_eur": 165.4,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "HALF BOARD",
+        "old_price_eur": 218,
+        "old_price_rsd": null,
+        "price_eur": 175,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/grand-royale-apartments?SearchType=2&Hotel=7733&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "GRAND ROYALE APARTMENTS",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STUDIO",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 76,
+        "old_price_rsd": null,
+        "price_eur": 72.35,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 82,
+        "old_price_rsd": null,
+        "price_eur": 78.05,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/lion-bansko-hotel?SearchType=2&Hotel=1057&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "LION BANSKO HOTEL",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": 126,
+        "old_price_rsd": null,
+        "price_eur": 113.7,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STUDIO",
+        "board": "HALF BOARD",
+        "old_price_eur": 158,
+        "old_price_rsd": null,
+        "price_eur": 142.5,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/st-george-ski---holiday?SearchType=2&Hotel=2177&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "ST GEORGE SKI & HOLIDAY",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 114,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STUDIO",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 118,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 126,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/three-mountains-boutique-hotel?SearchType=2&Hotel=14923&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "THREE MOUNTAINS BOUTIQUE HOTEL",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STUDIO",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 108,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 114,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/olymp-hotel?SearchType=2&Hotel=1088&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "OLYMP HOTEL",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "6",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 62,
+        "old_price_rsd": null,
+        "price_eur": 50.2,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 84,
+        "old_price_rsd": null,
+        "price_eur": 67.8,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/four-points-by-sheraton-bansko-(ex--strazhite)?SearchType=2&Hotel=1071&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "FOUR POINTS BY SHERATON BANSKO (ex. STRAZHITE)",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 156,
+        "old_price_rsd": null,
+        "price_eur": 125.4,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 282,
+        "old_price_rsd": null,
+        "price_eur": 226.2,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/casa-karina-hotel?SearchType=2&Hotel=1051&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "CASA KARINA HOTEL",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 62,
+        "old_price_rsd": null,
+        "price_eur": 50.2,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 72,
+        "old_price_rsd": null,
+        "price_eur": 65.1,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 72,
+        "old_price_rsd": null,
+        "price_eur": 65.1,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 84,
+        "old_price_rsd": null,
+        "price_eur": 67.8,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STUDIO",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 76,
+        "old_price_rsd": null,
+        "price_eur": 72.35,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SMALL",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 92,
+        "old_price_rsd": null,
+        "price_eur": 74,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 84,
+        "old_price_rsd": null,
+        "price_eur": 75.9,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 82,
+        "old_price_rsd": null,
+        "price_eur": 78.05,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STUDIO",
+        "board": "Bed & Breakfast",
+        "old_price_eur": 94,
+        "old_price_rsd": null,
+        "price_eur": 80.35,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 102,
+        "old_price_rsd": null,
+        "price_eur": 82,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/premier-luxury-resort?SearchType=2&Hotel=1024&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "PREMIER LUXURY RESORT",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED&BREAKFAST",
+        "old_price_eur": 146,
+        "old_price_rsd": null,
+        "price_eur": 131.7,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE MOUNTAIN VIEW",
+        "board": "BED&BREAKFAST",
+        "old_price_eur": 160,
+        "old_price_rsd": null,
+        "price_eur": 144.3,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM DELUXE APARTMENT",
+        "board": "BED&BREAKFAST",
+        "old_price_eur": 168,
+        "old_price_rsd": null,
+        "price_eur": 151.5,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ALPINE GARDEN ROOM",
+        "board": "BED&BREAKFAST",
+        "old_price_eur": 184,
+        "old_price_rsd": null,
+        "price_eur": 165.9,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ALPINE MOUNTAIN ROOM",
+        "board": "BED&BREAKFAST",
+        "old_price_eur": 202,
+        "old_price_rsd": null,
+        "price_eur": 182.1,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART ALPIINE",
+        "board": "BED&BREAKFAST",
+        "old_price_eur": 230,
+        "old_price_rsd": null,
+        "price_eur": 207.3,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/mpm-sport-hotel?SearchType=2&Hotel=1997&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "MPM SPORT HOTEL",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 190,
+        "old_price_rsd": null,
+        "price_eur": 133.9,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD LUX",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 236,
+        "old_price_rsd": null,
+        "price_eur": 166.1,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 336,
+        "old_price_rsd": null,
+        "price_eur": 236.1,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART LUX",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 352,
+        "old_price_rsd": null,
+        "price_eur": 247.3,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/kralev-dvor?SearchType=2&Hotel=7737&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "KRALEV DVOR",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "6",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 72,
+        "old_price_rsd": null,
+        "price_eur": 65.1,
+        "price_rsd": null
+      },
+      {
+        "room_type": "MAISONETTE STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 108,
+        "old_price_rsd": null,
+        "price_eur": 97.5,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/murite-park-hotel?SearchType=2&Hotel=3675&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "MURITE PARK HOTEL",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 84,
+        "old_price_rsd": null,
+        "price_eur": 75.9,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": 108,
+        "old_price_rsd": null,
+        "price_eur": 97.5,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 108,
+        "old_price_rsd": null,
+        "price_eur": 97.5,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 108,
+        "old_price_rsd": null,
+        "price_eur": 97.5,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": 130,
+        "old_price_rsd": null,
+        "price_eur": 117.3,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM DELUXE APARTMENT",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 130,
+        "old_price_rsd": null,
+        "price_eur": 117.3,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "HALF BOARD",
+        "old_price_eur": 130,
+        "old_price_rsd": null,
+        "price_eur": 117.3,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM DELUXE APARTMENT",
+        "board": "HALF BOARD",
+        "old_price_eur": 154,
+        "old_price_rsd": null,
+        "price_eur": 138.9,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/evelina-palace-hotel?SearchType=2&Hotel=2093&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "EVELINA PALACE HOTEL",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 96,
+        "old_price_rsd": null,
+        "price_eur": 82.05,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STUDIO",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 108,
+        "old_price_rsd": null,
+        "price_eur": 92.25,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/grand-hotel-bansko?SearchType=2&Hotel=2059&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "GRAND HOTEL BANSKO",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD LUX",
+        "board": "HALF BOARD",
+        "old_price_eur": 194,
+        "old_price_rsd": null,
+        "price_eur": 155.8,
+        "price_rsd": null
+      },
+      {
+        "room_type": "EXECUTIVE ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": 204,
+        "old_price_rsd": null,
+        "price_eur": 163.8,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "HALF BOARD",
+        "old_price_eur": 310,
+        "old_price_rsd": null,
+        "price_eur": 248.6,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/club-hotel-martin?SearchType=2&Hotel=7724&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "CLUB HOTEL MARTIN",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "6",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 84,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 116,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/lucky-bansko?SearchType=2&Hotel=1058&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "LUCKY BANSKO",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "10",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STUDIO",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 118,
+        "old_price_rsd": null,
+        "price_eur": 106.5,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STUDIO LUX",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 140,
+        "old_price_rsd": null,
+        "price_eur": 126.3,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 148,
+        "old_price_rsd": null,
+        "price_eur": 133.5,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART PLUS",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 182,
+        "old_price_rsd": null,
+        "price_eur": 164.1,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART EXECUTIVE",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 236,
+        "old_price_rsd": null,
+        "price_eur": 212.7,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/mura-bansko?SearchType=2&Hotel=11128&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "MURA BANSKO",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "6",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 72,
+        "old_price_rsd": null,
+        "price_eur": 65.1,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/mpm-guinness-hotel?SearchType=2&Hotel=2062&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "MPM GUINNESS HOTEL",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STUDIO",
+        "board": "HALF BOARD",
+        "old_price_eur": 144,
+        "old_price_rsd": null,
+        "price_eur": 108.75,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "HALF BOARD",
+        "old_price_eur": 158,
+        "old_price_rsd": null,
+        "price_eur": 119.25,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/terra-complex?SearchType=2&Hotel=7749&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "TERRA COMPLEX",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": 132,
+        "old_price_rsd": null,
+        "price_eur": 112.65,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "HALF BOARD",
+        "old_price_eur": 148,
+        "old_price_rsd": null,
+        "price_eur": 126.25,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/vihren-royal-palace-hotel?SearchType=2&Hotel=1076&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "VIHREN ROYAL PALACE HOTEL",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STUDIO",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 96,
+        "old_price_rsd": null,
+        "price_eur": 82.05,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": 108,
+        "old_price_rsd": null,
+        "price_eur": 92.25,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bugarska/bansko/platinum-hotel---casino?SearchType=2&Hotel=12478&P=1&CheckIn=2025-12-01&Night=1&HpCode=BAZI2526&ClId=290",
+    "title": "PLATINUM HOTEL & CASINO",
+    "location": "BUGARSKA - BANSKO",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD WITHOUT BALCONY",
+        "board": "HALF BOARD",
+        "old_price_eur": 144,
+        "old_price_rsd": null,
+        "price_eur": 129.9,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD WITH BALCONY",
+        "board": "HALF BOARD",
+        "old_price_eur": 146,
+        "old_price_rsd": null,
+        "price_eur": 131.7,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE",
+        "board": "HALF BOARD",
+        "old_price_eur": 198,
+        "old_price_rsd": null,
+        "price_eur": 178.5,
+        "price_rsd": null
+      }
+    ]
+  }
+]

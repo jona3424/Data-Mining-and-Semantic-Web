@@ -1,0 +1,21 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/spanija/barselona/catalonia-park-guell?SearchId=dc3956c9-a90a-4348-bf64-41a906032bac&SearchType=1&Hotel=19454&P=1&CheckIn=2026-02-13&Night=3&HpCode=BCN26KT",
+    "title": "CATALONIA PARK GUELL",
+    "location": "SPANIJA - BARSELONA",
+    "stars_raw": "6",
+    "departure_date_raw": "13.02.2026",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1438,
+        "price_rsd": null
+      }
+    ]
+  }
+]

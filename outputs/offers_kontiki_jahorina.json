@@ -1,0 +1,177 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bosnia-and-herzegovina/jahorina/lavina-hotel",
+    "title": "LAVINA HOTEL",
+    "location": "BOSNIA AND HERZEGOVINA - JAHORINA",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 140,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 150,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SUITE",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 160,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bosnia-and-herzegovina/jahorina/lavina-hotel?SearchType=2&Hotel=2855&P=1&CheckIn=2025-12-01&Night=1&HpCode=JAHZIM2526&ClId=291",
+    "title": "LAVINA HOTEL",
+    "location": "BOSNIA AND HERZEGOVINA - JAHORINA",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 140,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 150,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SUITE",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 160,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bosnia-and-herzegovina/jahorina/board-hotel?SearchType=2&Hotel=1012&P=1&CheckIn=2025-12-01&Night=1&HpCode=JAHZIM2526&ClId=291",
+    "title": "BOARD HOTEL",
+    "location": "BOSNIA AND HERZEGOVINA - JAHORINA",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "POLUPANSION",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 140,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bosnia-and-herzegovina/jahorina/rajska-dolina-hotel",
+    "title": "RAJSKA DOLINA HOTEL",
+    "location": "BOSNIA AND HERZEGOVINA - JAHORINA",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "EKONONIK SOBA POGLED BRDO",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 152,
+        "price_rsd": null
+      },
+      {
+        "room_type": "EKONONIK SOBA POGLED DOLINA",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 158,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD PLUS POGLED BRDO",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 166,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD PLUS POGLED DOLINA",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 172,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/bosnia-and-herzegovina/jahorina/rajska-dolina-hotel?SearchType=2&Hotel=15112&P=1&CheckIn=2025-12-01&Night=1&HpCode=JAHZIM2526&ClId=291",
+    "title": "RAJSKA DOLINA HOTEL",
+    "location": "BOSNIA AND HERZEGOVINA - JAHORINA",
+    "stars_raw": "8",
+    "departure_date_raw": "01.12.2025",
+    "nights": "1",
+    "rooms": [
+      {
+        "room_type": "EKONONIK SOBA POGLED BRDO",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 152,
+        "price_rsd": null
+      },
+      {
+        "room_type": "EKONONIK SOBA POGLED DOLINA",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 158,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD PLUS POGLED BRDO",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 166,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD PLUS POGLED DOLINA",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 172,
+        "price_rsd": null
+      }
+    ]
+  }
+]

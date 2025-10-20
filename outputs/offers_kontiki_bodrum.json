@@ -1,0 +1,2171 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/roseira-beach-resort?SearchType=1&Hotel=18477&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "ROSEIRA BEACH RESORT",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (GardenView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 164435.27,
+        "price_eur": null,
+        "price_rsd": 147701.98
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 173609.46,
+        "price_eur": null,
+        "price_rsd": 154792.71
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/bitez-garden-life-hotel---suites?SearchType=1&Hotel=3952&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Bitez Garden Life Hotel & Suites",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "6",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 199207.05,
+        "price_eur": null,
+        "price_rsd": 159047.15
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 253322.51,
+        "price_eur": null,
+        "price_rsd": 193082.66
+      },
+      {
+        "room_type": "2 Rooms Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 307437.97,
+        "price_eur": null,
+        "price_rsd": 227118.18
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/voyage-torba?SearchType=1&Hotel=1887&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Voyage Torba",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 595040.19,
+        "price_eur": null,
+        "price_rsd": 503724.24
+      },
+      {
+        "room_type": "Double Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 622750.52,
+        "price_eur": null,
+        "price_rsd": 526414.58
+      },
+      {
+        "room_type": "Double Executive Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 650460.84,
+        "price_eur": null,
+        "price_rsd": 549104.92
+      },
+      {
+        "room_type": "Double Executive Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 668934.39,
+        "price_eur": null,
+        "price_rsd": 564231.81
+      },
+      {
+        "room_type": "Lagoon Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 742828.6,
+        "price_eur": null,
+        "price_rsd": 624739.38
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 828598.66,
+        "price_eur": null,
+        "price_rsd": 694971.39
+      },
+      {
+        "room_type": "Superior FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 865545.77,
+        "price_eur": null,
+        "price_rsd": 725225.19
+      },
+      {
+        "room_type": "Executive FamilyRoom (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 903812.41,
+        "price_eur": null,
+        "price_rsd": 756559.46
+      },
+      {
+        "room_type": "Executive FamilyRoom (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 959233.07,
+        "price_eur": null,
+        "price_rsd": 801940.14
+      },
+      {
+        "room_type": "Executive FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1139350.2,
+        "price_eur": null,
+        "price_rsd": 949427.36
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/vogue-hotel-supreme-bodrum?SearchType=1&Hotel=3984&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Vogue Hotel Supreme Bodrum",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Annex Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 569882.88,
+        "price_eur": null,
+        "price_rsd": 389163.35
+      },
+      {
+        "room_type": "Annex Superior Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 623094.74,
+        "price_eur": null,
+        "price_rsd": 422295.26
+      },
+      {
+        "room_type": "Superior Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 676306.6,
+        "price_eur": null,
+        "price_rsd": 455427.18
+      },
+      {
+        "room_type": "Corner Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 729518.47,
+        "price_eur": null,
+        "price_rsd": 488559.1
+      },
+      {
+        "room_type": "Superior Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 756124.39,
+        "price_eur": null,
+        "price_rsd": 505125.05
+      },
+      {
+        "room_type": "Annex FamilyRoom (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 955668.87,
+        "price_eur": null,
+        "price_rsd": 629369.72
+      },
+      {
+        "room_type": "Standard FamilySuite (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1042138.15,
+        "price_eur": null,
+        "price_rsd": 683209.09
+      },
+      {
+        "room_type": "2 ConnectingRooms Annex FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1088698.53,
+        "price_eur": null,
+        "price_rsd": 712199.51
+      },
+      {
+        "room_type": "Standard FamilySuite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1354757.83,
+        "price_eur": null,
+        "price_rsd": 877859.08
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/natur-garden-hotel?SearchType=1&Hotel=3971&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWFG26K&ClId=296",
+    "title": "NATUR GARDEN HOTEL",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "6",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1439.26,
+        "old_price_rsd": null,
+        "price_eur": 1310.68,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1760.7,
+        "old_price_rsd": null,
+        "price_eur": 1567.84,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/salmakis-resort---spa?SearchType=1&Hotel=3949&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Salmakis Resort & Spa",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (GardenView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 279844.94,
+        "price_eur": null,
+        "price_rsd": 235928.26
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 297833.22,
+        "price_eur": null,
+        "price_rsd": 249733.21
+      },
+      {
+        "room_type": "Standard Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 333809.8,
+        "price_eur": null,
+        "price_rsd": 277343.15
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 351798.08,
+        "price_eur": null,
+        "price_rsd": 291148.11
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 374295.1,
+        "price_eur": null,
+        "price_rsd": 308403.67
+      },
+      {
+        "room_type": "Standard FamilyRoom (SeaView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 401270.61,
+        "price_eur": null,
+        "price_rsd": 329112.4
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 428259.96,
+        "price_eur": null,
+        "price_rsd": 349818.56
+      },
+      {
+        "room_type": "Standard FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 455235.47,
+        "price_eur": null,
+        "price_rsd": 370527.29
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/bodrium-hotel---spa?SearchType=1&Hotel=15267&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "BODRIUM HOTEL SPA BOUTIQUE",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 247085.01,
+        "price_eur": null,
+        "price_rsd": 211518.56
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 265449.79,
+        "price_eur": null,
+        "price_rsd": 225700.03
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/kefaluka-resort?SearchType=1&Hotel=3959&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWFG26K&ClId=296",
+    "title": "Kefaluka Resort",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 2842.62,
+        "old_price_rsd": null,
+        "price_eur": 2331.06,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 3083.42,
+        "old_price_rsd": null,
+        "price_eur": 2511.66,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD LARGE SEA VIEW",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 3355.58,
+        "old_price_rsd": null,
+        "price_eur": 2715.78,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY SUITE",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 4477.82,
+        "old_price_rsd": null,
+        "price_eur": 3557.46,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/bodrum-park-resort?SearchType=1&Hotel=3974&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Bodrum Park Resort",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 257888.31,
+        "price_eur": null,
+        "price_rsd": 211991.28
+      },
+      {
+        "room_type": "Double Club Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 263368.66,
+        "price_eur": null,
+        "price_rsd": 215962.36
+      },
+      {
+        "room_type": "Bunkbed Club Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 315082.89,
+        "price_eur": null,
+        "price_rsd": 253459.15
+      },
+      {
+        "room_type": "Club FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 349556.05,
+        "price_eur": null,
+        "price_rsd": 278454.8
+      },
+      {
+        "room_type": "Deluxe Club FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 371108.8,
+        "price_eur": null,
+        "price_rsd": 294078.25
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/the-norm-collection-doora?SearchType=1&Hotel=13765&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "THE NORM COLLECTION DOOR A",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Bungalow",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 374772.73,
+        "price_eur": null,
+        "price_rsd": 267679.67
+      },
+      {
+        "room_type": "Double Superior Bungalow",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 383641.37,
+        "price_eur": null,
+        "price_rsd": 273201.66
+      },
+      {
+        "room_type": "Superior MainBuilding Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 401378.65,
+        "price_eur": null,
+        "price_rsd": 284245.62
+      },
+      {
+        "room_type": "Deluxe Bungalow",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 419115.94,
+        "price_eur": null,
+        "price_rsd": 295289.6
+      },
+      {
+        "room_type": "Deluxe Bungalow (With Jacuzzi)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 436853.23,
+        "price_eur": null,
+        "price_rsd": 306333.57
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/shark-club?SearchType=1&Hotel=18476&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "SHARK CLUB HOTEL",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Promotion)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 172734.79,
+        "price_eur": null,
+        "price_rsd": 161694.1
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 174588.36,
+        "price_eur": null,
+        "price_rsd": 163301.59
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/nagi-gumbet-beach?SearchType=1&Hotel=3993&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "NAGI BEACH HOTEL",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "6",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "MainBuilding Room (Without Balcony-Terrace Economy)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 187044.49,
+        "price_eur": null,
+        "price_rsd": 169636.24
+      },
+      {
+        "room_type": "MainBuilding Room (Without Balcony-Terrace Economy)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 187044.49,
+        "price_eur": null,
+        "price_rsd": 169636.24
+      },
+      {
+        "room_type": "Standard Room (SeaView, FrenchBalcony)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 196281.27,
+        "price_eur": null,
+        "price_rsd": 177199.7
+      },
+      {
+        "room_type": "Standard Room (SeaView, FrenchBalcony)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 196281.27,
+        "price_eur": null,
+        "price_rsd": 177199.7
+      },
+      {
+        "room_type": "Standard Room (Garden-Pool View, Terrace)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 214754.82,
+        "price_eur": null,
+        "price_rsd": 192326.59
+      },
+      {
+        "room_type": "Standard Room (Garden-Pool View, Terrace)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 214754.82,
+        "price_eur": null,
+        "price_rsd": 192326.59
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/bodrum-beach-resort?SearchType=1&Hotel=14129&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Bodrum Beach Resort",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 158784.2,
+        "price_eur": null,
+        "price_rsd": 140138.53
+      },
+      {
+        "room_type": "Bunkbed Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 175733.87,
+        "price_eur": null,
+        "price_rsd": 152429.13
+      },
+      {
+        "room_type": "1 Bedroom Apartment",
+        "board": "Self Catering",
+        "old_price_eur": null,
+        "old_price_rsd": 206380.26,
+        "price_eur": null,
+        "price_rsd": 174646.77
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/la-blanche-island-bodrum?SearchType=1&Hotel=4554&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "La Blanche Island Bodrum",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 362055.43,
+        "price_eur": null,
+        "price_rsd": 311855.56
+      },
+      {
+        "room_type": "Standard Room (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 371091.4,
+        "price_eur": null,
+        "price_rsd": 319218.2
+      },
+      {
+        "room_type": "Superior Room (LateralSeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 429825.25,
+        "price_eur": null,
+        "price_rsd": 367075.42
+      },
+      {
+        "room_type": "Standard FamilyRoom (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 497595.07,
+        "price_eur": null,
+        "price_rsd": 422295.26
+      },
+      {
+        "room_type": "Standard Room (SeaView, SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 578918.86,
+        "price_eur": null,
+        "price_rsd": 488559.1
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/bellazure-hotel?SearchType=1&Hotel=14125&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Bellazure Hotel",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 242462.8,
+        "price_eur": null,
+        "price_rsd": 215016.92
+      },
+      {
+        "room_type": "Double Club Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 248001.32,
+        "price_eur": null,
+        "price_rsd": 219554.73
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 251699.58,
+        "price_eur": null,
+        "price_rsd": 222580.37
+      },
+      {
+        "room_type": "Double Club Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 259078.36,
+        "price_eur": null,
+        "price_rsd": 228630.33
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/baia-bodrum?SearchType=1&Hotel=2807&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Baia Bodrum",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 364401.67,
+        "price_eur": null,
+        "price_rsd": 327468.9
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 373701.03,
+        "price_eur": null,
+        "price_rsd": 335505.07
+      },
+      {
+        "room_type": "Deluxe Room (Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 382983.99,
+        "price_eur": null,
+        "price_rsd": 343541.23
+      },
+      {
+        "room_type": "Premium Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 391746.54,
+        "price_eur": null,
+        "price_rsd": 351117.93
+      },
+      {
+        "room_type": "Premium Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 401965.81,
+        "price_eur": null,
+        "price_rsd": 359959.16
+      },
+      {
+        "room_type": "Premium Room (GardenView, Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 411248.76,
+        "price_eur": null,
+        "price_rsd": 367995.32
+      },
+      {
+        "room_type": "Quad Premium Room (GardenView, Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 635204.06,
+        "price_eur": null,
+        "price_rsd": 561694.77
+      },
+      {
+        "room_type": "Premium Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 790698.24,
+        "price_eur": null,
+        "price_rsd": 696185.62
+      },
+      {
+        "room_type": "SeniorSuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 868448.34,
+        "price_eur": null,
+        "price_rsd": 763431.71
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/the-plaza-bodrum?SearchType=1&Hotel=11530&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWFG26K&ClId=296",
+    "title": "THE PLAZA BODRUM (EX BE PREMIUM BODRUM)",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STUDIO GARDEN VIEW",
+        "board": "PREMIUM ALL INCLUSIVE",
+        "old_price_eur": 4794.78,
+        "old_price_rsd": null,
+        "price_eur": 3595.26,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STUDIO SEA VIEW",
+        "board": "PREMIUM ALL INCLUSIVE",
+        "old_price_eur": 4896.7,
+        "old_price_rsd": null,
+        "price_eur": 3666.6,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "PREMIUM ALL INCLUSIVE",
+        "old_price_eur": 5116.22,
+        "old_price_rsd": null,
+        "price_eur": 3820.27,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM SEA VIEW",
+        "board": "PREMIUM ALL INCLUSIVE",
+        "old_price_eur": 5806.14,
+        "old_price_rsd": null,
+        "price_eur": 4303.21,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM SWIM UP SEA VIEW",
+        "board": "PREMIUM ALL INCLUSIVE",
+        "old_price_eur": 6205.98,
+        "old_price_rsd": null,
+        "price_eur": 4583.1,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/blue-dreams-resort?SearchType=1&Hotel=14177&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Blue Dreams Resort",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Club Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 273536.32,
+        "price_eur": null,
+        "price_rsd": 223336.45
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 328304.38,
+        "price_eur": null,
+        "price_rsd": 263044.55
+      },
+      {
+        "room_type": "Club FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 351124.4,
+        "price_eur": null,
+        "price_rsd": 279589.58
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/petunya-beach-resort?SearchType=1&Hotel=5055&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Petunya Beach Resort",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 186168.23,
+        "price_eur": null,
+        "price_rsd": 159992.59
+      },
+      {
+        "room_type": "Bunkbed FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 219485.51,
+        "price_eur": null,
+        "price_rsd": 184148.74
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/lujo-hotel-bodrum?SearchType=1&Hotel=10260&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Lujo Hotel Bodrum",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Indigo Clubber Room (Terrace Adults Only)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1203154.23,
+        "price_eur": null,
+        "price_rsd": 728765.47
+      },
+      {
+        "room_type": "Superior Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1203154.23,
+        "price_eur": null,
+        "price_rsd": 728765.47
+      },
+      {
+        "room_type": "Indigo Laguna Room Club (Adults Only)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1259649.35,
+        "price_eur": null,
+        "price_rsd": 761161.37
+      },
+      {
+        "room_type": "Superior Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1259649.35,
+        "price_eur": null,
+        "price_rsd": 761161.37
+      },
+      {
+        "room_type": "Deluxe Room (LateralSeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1314376.7,
+        "price_eur": null,
+        "price_rsd": 792544.14
+      },
+      {
+        "room_type": "Terrace Room (Partial Sea View)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1314376.7,
+        "price_eur": null,
+        "price_rsd": 792544.14
+      },
+      {
+        "room_type": "Terrace Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1370855.42,
+        "price_eur": null,
+        "price_rsd": 824940.05
+      },
+      {
+        "room_type": "Deluxe Room (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1370855.42,
+        "price_eur": null,
+        "price_rsd": 824940.05
+      },
+      {
+        "room_type": "FamilyRoom (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1759243.28,
+        "price_eur": null,
+        "price_rsd": 1047660.13
+      },
+      {
+        "room_type": "2 Bedroom Corner FamilySuite (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1870457.56,
+        "price_eur": null,
+        "price_rsd": 1111438.82
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/samara-hotel?SearchType=1&Hotel=3981&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Samara Hotel",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 306039.45,
+        "price_eur": null,
+        "price_rsd": 266207.66
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 316875.54,
+        "price_eur": null,
+        "price_rsd": 275042.32
+      },
+      {
+        "room_type": "Double Deluxe GardenRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 316875.54,
+        "price_eur": null,
+        "price_rsd": 275042.32
+      },
+      {
+        "room_type": "Double Superior GardenRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 325911.52,
+        "price_eur": null,
+        "price_rsd": 282404.96
+      },
+      {
+        "room_type": "Double Deluxe Room (SwimUp-PoolTerrace Adults Only)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 359337.55,
+        "price_eur": null,
+        "price_rsd": 309646.24
+      },
+      {
+        "room_type": "Junior Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 456933.18,
+        "price_eur": null,
+        "price_rsd": 389163.35
+      },
+      {
+        "room_type": "SeniorSuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 578918.86,
+        "price_eur": null,
+        "price_rsd": 488559.1
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/mirada-exclusive-bodrum?SearchType=1&Hotel=5074&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Mirada Exclusive Bodrum",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 492032.54,
+        "price_eur": null,
+        "price_rsd": 379591.39
+      },
+      {
+        "room_type": "Superior Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 511734.7,
+        "price_eur": null,
+        "price_rsd": 393765.01
+      },
+      {
+        "room_type": "Serenity Room (SeaView, Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 552918.86,
+        "price_eur": null,
+        "price_rsd": 423399.92
+      },
+      {
+        "room_type": "FamilyRoom (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 752548.3,
+        "price_eur": null,
+        "price_rsd": 567063.06
+      },
+      {
+        "room_type": "GrandDeluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 772777.88,
+        "price_eur": null,
+        "price_rsd": 581624.66
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 792833.69,
+        "price_eur": null,
+        "price_rsd": 596053.49
+      },
+      {
+        "room_type": "FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 852821.25,
+        "price_eur": null,
+        "price_rsd": 639217.53
+      },
+      {
+        "room_type": "FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1043498.38,
+        "price_eur": null,
+        "price_rsd": 776438.35
+      },
+      {
+        "room_type": "Royal Suite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1695228.96,
+        "price_eur": null,
+        "price_rsd": 1245439.77
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/arin-resort-bodrum?SearchType=1&Hotel=15764&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Arin Resort Bodrum",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 283108.16,
+        "price_eur": null,
+        "price_rsd": 248296.36
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 292344.94,
+        "price_eur": null,
+        "price_rsd": 255859.81
+      },
+      {
+        "room_type": "Double Select Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 301581.71,
+        "price_eur": null,
+        "price_rsd": 263423.25
+      },
+      {
+        "room_type": "Standard FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 393019.81,
+        "price_eur": null,
+        "price_rsd": 338300.31
+      },
+      {
+        "room_type": "Select FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 406874.98,
+        "price_eur": null,
+        "price_rsd": 349645.48
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/ambrosia-hotel?SearchType=1&Hotel=3956&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Hotel Ambrosia",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 203122.64,
+        "price_eur": null,
+        "price_rsd": 193082.66
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/xanadu-island?SearchType=1&Hotel=2796&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Xanadu Island",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 390352.61,
+        "price_eur": null,
+        "price_rsd": 320730.17
+      },
+      {
+        "room_type": "1 Bedroom Standard Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 427097.77,
+        "price_eur": null,
+        "price_rsd": 348931.74
+      },
+      {
+        "room_type": "Double Deluxe Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 451129.73,
+        "price_eur": null,
+        "price_rsd": 367371.88
+      },
+      {
+        "room_type": "Romantic Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 451129.73,
+        "price_eur": null,
+        "price_rsd": 367371.88
+      },
+      {
+        "room_type": "2 Bedroom Standard Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 661077.43,
+        "price_eur": null,
+        "price_rsd": 528494.23
+      },
+      {
+        "room_type": "2 Bedroom Deluxe Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 720823.13,
+        "price_eur": null,
+        "price_rsd": 574347.08
+      },
+      {
+        "room_type": "2 Bedroom Executive Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 780571.06,
+        "price_eur": null,
+        "price_rsd": 620198.64
+      },
+      {
+        "room_type": "3 Bedroom Royal Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1216014.96,
+        "price_eur": null,
+        "price_rsd": 954378.02
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/yasmin-bodrum-resort?SearchType=1&Hotel=6974&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWFG26K&ClId=296",
+    "title": "Yasmin Bodrum Resort",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLUB LAND VIEW",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 2176.22,
+        "old_price_rsd": null,
+        "price_eur": 1831.26,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLUB SEA VIEW",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 2254.62,
+        "old_price_rsd": null,
+        "price_eur": 1890.06,
+        "price_rsd": null
+      },
+      {
+        "room_type": "MAIN BUILDING LAND VIEW",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 2364.38,
+        "old_price_rsd": null,
+        "price_eur": 1972.38,
+        "price_rsd": null
+      },
+      {
+        "room_type": "MAIN BUILDING SEA VIEW",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 2450.62,
+        "old_price_rsd": null,
+        "price_eur": 2037.06,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLUB FAMILY ROOM",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 3132.7,
+        "old_price_rsd": null,
+        "price_eur": 2548.62,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY MAIN BUILDING",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 3438.46,
+        "old_price_rsd": null,
+        "price_eur": 2777.94,
+        "price_rsd": null
+      },
+      {
+        "room_type": "MAIN BUILDING SUPERIOR SUITE",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 3681.5,
+        "old_price_rsd": null,
+        "price_eur": 2960.22,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/hapimag-sea-garden-resort-bodrum?SearchType=1&Hotel=12847&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Hapimag Sea Garden Resort Bodrum",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 291792.34,
+        "price_eur": null,
+        "price_rsd": 236572.48
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 310048.36,
+        "price_eur": null,
+        "price_rsd": 249808.51
+      },
+      {
+        "room_type": "FamilyRoom (GardenView, Balcony or Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 412280.96,
+        "price_eur": null,
+        "price_rsd": 323930.83
+      },
+      {
+        "room_type": "FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 441488.15,
+        "price_eur": null,
+        "price_rsd": 345107.68
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/mandarin-resort?SearchType=1&Hotel=11531&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Mandarin Resort",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Balcony or Terrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 183887.72,
+        "price_eur": null,
+        "price_rsd": 171337.75
+      },
+      {
+        "room_type": "Standard FamilyRoom (Balcony or Terrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 230343.51,
+        "price_eur": null,
+        "price_rsd": 211518.56
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/club-marma-hotel?SearchType=1&Hotel=15808&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Club Marma Hotel",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (GardenView, Balcony)",
+        "board": "Full Board Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 249440.34,
+        "price_eur": null,
+        "price_rsd": 213341.9
+      },
+      {
+        "room_type": "Club Deluxe Room (GardenView, Balcony)",
+        "board": "Full Board Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 267805.12,
+        "price_eur": null,
+        "price_rsd": 227523.36
+      },
+      {
+        "room_type": "Junior Suite",
+        "board": "Full Board Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 368282.05,
+        "price_eur": null,
+        "price_rsd": 305116.23
+      },
+      {
+        "room_type": "Duplex Suite",
+        "board": "Full Board Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 709868.23,
+        "price_eur": null,
+        "price_rsd": 568891.44
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/duja-bodrum?SearchType=1&Hotel=15269&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "DUJA HOTEL BODRUM",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Club Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 264981.09,
+        "price_eur": null,
+        "price_rsd": 255859.81
+      },
+      {
+        "room_type": "Standard Bungalow (GardenView, Balcony or Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 268169.46,
+        "price_eur": null,
+        "price_rsd": 258884.12
+      },
+      {
+        "room_type": "Bungalow (GardenView, Balcony or Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 268169.46,
+        "price_eur": null,
+        "price_rsd": 258884.12
+      },
+      {
+        "room_type": "Double MainBuilding Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 280944.64,
+        "price_eur": null,
+        "price_rsd": 270986.7
+      },
+      {
+        "room_type": "Deluxe FamilySuite (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 489663.11,
+        "price_eur": null,
+        "price_rsd": 468771.1
+      },
+      {
+        "room_type": "Grand Suite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 660872.15,
+        "price_eur": null,
+        "price_rsd": 631006.51
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/my-ella-resort-hotel---spa?SearchType=1&Hotel=15270&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "My Ella Bodrum Resort & Spa",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 238764.55,
+        "price_eur": null,
+        "price_rsd": 211991.28
+      },
+      {
+        "room_type": "Double Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 244303.07,
+        "price_eur": null,
+        "price_rsd": 216529.09
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 249841.58,
+        "price_eur": null,
+        "price_rsd": 221066.88
+      },
+      {
+        "room_type": "Double Superior Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 255397.83,
+        "price_eur": null,
+        "price_rsd": 225606.01
+      },
+      {
+        "room_type": "SingleUse Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 329292.04,
+        "price_eur": null,
+        "price_rsd": 286113.59
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/suum-bodrum-hotel---beach?SearchType=1&Hotel=16745&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "SUUM HOTEL BODRUM BOUTIQUE",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Loft (GardenView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 272448.66,
+        "price_eur": null,
+        "price_rsd": 213882.14
+      },
+      {
+        "room_type": "Deluxe Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 290595.91,
+        "price_eur": null,
+        "price_rsd": 226172.74
+      },
+      {
+        "room_type": "Loft (PoolView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 299669.53,
+        "price_eur": null,
+        "price_rsd": 232318.04
+      },
+      {
+        "room_type": "Deluxe Room (GardenView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 326890.42,
+        "price_eur": null,
+        "price_rsd": 250753.95
+      },
+      {
+        "room_type": "Deluxe Room (Pool-Sea View)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 345037.67,
+        "price_eur": null,
+        "price_rsd": 263044.55
+      },
+      {
+        "room_type": "Loft (GardenView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 451745.85,
+        "price_eur": null,
+        "price_rsd": 317879.54
+      },
+      {
+        "room_type": "Deluxe Suite (GardenView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 435773.93,
+        "price_eur": null,
+        "price_rsd": 324497.56
+      },
+      {
+        "room_type": "Deluxe Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 469784.34,
+        "price_eur": null,
+        "price_rsd": 329224.71
+      },
+      {
+        "room_type": "Loft (PoolView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 478803.59,
+        "price_eur": null,
+        "price_rsd": 334897.3
+      },
+      {
+        "room_type": "Deluxe Room (GardenView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 505861.31,
+        "price_eur": null,
+        "price_rsd": 351915.05
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/titanic-luxury-collection-bodrum?SearchType=1&Hotel=8782&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Titanic Luxury Collection Bodrum",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 676491.39,
+        "price_eur": null,
+        "price_rsd": 540328.35
+      },
+      {
+        "room_type": "Superior Room (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 748989.54,
+        "price_eur": null,
+        "price_rsd": 595961.97
+      },
+      {
+        "room_type": "Deluxe Room (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 812535.85,
+        "price_eur": null,
+        "price_rsd": 610227.1
+      },
+      {
+        "room_type": "Standard FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 788018.77,
+        "price_eur": null,
+        "price_rsd": 625919.13
+      },
+      {
+        "room_type": "Double Standard Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 815912.28,
+        "price_eur": null,
+        "price_rsd": 647316.18
+      },
+      {
+        "room_type": "Double SuperiorClub Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 843790.66,
+        "price_eur": null,
+        "price_rsd": 668714.52
+      },
+      {
+        "room_type": "FamilyRoom (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 895793.46,
+        "price_eur": null,
+        "price_rsd": 670140.13
+      },
+      {
+        "room_type": "Double Deluxe Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 923540.96,
+        "price_eur": null,
+        "price_rsd": 690111.57
+      },
+      {
+        "room_type": "Exclusive Room (SeaView, SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1228810.06,
+        "price_eur": null,
+        "price_rsd": 909794.82
+      },
+      {
+        "room_type": "2 Rooms Standard FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1289900.17,
+        "price_eur": null,
+        "price_rsd": 1011077.63
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/bodrum-holiday-resort---spa?SearchType=1&Hotel=8959&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Bodrum Holiday Resort & Spa",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Club Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 223202.59,
+        "price_eur": null,
+        "price_rsd": 193082.66
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 228703.82,
+        "price_eur": null,
+        "price_rsd": 197337.1
+      },
+      {
+        "room_type": "Club FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 289315.81,
+        "price_eur": null,
+        "price_rsd": 244135.93
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 297584.73,
+        "price_eur": null,
+        "price_rsd": 250518.25
+      },
+      {
+        "room_type": "2 Bedroom Club FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 355429.04,
+        "price_eur": null,
+        "price_rsd": 295189.2
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 366447.92,
+        "price_eur": null,
+        "price_rsd": 303698.08
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/selectum-collection-bodrum?SearchType=1&Hotel=13849&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "SELECTUM COLLECTION BODRUM (EX KAIRABA BODRUM IMPERIAL)",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 302526,
+        "price_eur": null,
+        "price_rsd": 234249.96
+      },
+      {
+        "room_type": "Bunkbed Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 366749.67,
+        "price_eur": null,
+        "price_rsd": 277750.37
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 419287.56,
+        "price_eur": null,
+        "price_rsd": 313331.15
+      },
+      {
+        "room_type": "Standard Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 499913.26,
+        "price_eur": null,
+        "price_rsd": 367937.06
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/sianji-well-being-resort?SearchType=1&Hotel=3982&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Sianji Well-Being Resort",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 404306.98,
+        "price_eur": null,
+        "price_rsd": 316457.21
+      },
+      {
+        "room_type": "Loft Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 484877.77,
+        "price_eur": null,
+        "price_rsd": 374438.06
+      },
+      {
+        "room_type": "2 Bedroom Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 513976.24,
+        "price_eur": null,
+        "price_rsd": 395374.94
+      },
+      {
+        "room_type": "Villa (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 548661.25,
+        "price_eur": null,
+        "price_rsd": 420339.89
+      },
+      {
+        "room_type": "Villa (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 583353.18,
+        "price_eur": null,
+        "price_rsd": 445303.54
+      },
+      {
+        "room_type": "3 Bedroom Penthouse",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 936969.43,
+        "price_eur": null,
+        "price_rsd": 699775.05
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/armonia-holiday-village---spa?SearchType=1&Hotel=3978&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWFG26K&ClId=296",
+    "title": "ARMONIA HOLIDAY VILLAGE & SPA HOLIDAY VILLAGE HV1",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": null,
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD *",
+        "board": "ALL INCLUSIVE PLUS",
+        "old_price_eur": 2019.42,
+        "old_price_rsd": null,
+        "price_eur": 1591.36,
+        "price_rsd": null
+      },
+      {
+        "room_type": "LARGE ROOM *",
+        "board": "ALL INCLUSIVE PLUS",
+        "old_price_eur": 2513.34,
+        "old_price_rsd": null,
+        "price_eur": 1912.4,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/jasmin-beach-hotel?SearchType=1&Hotel=3977&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Jasmin Beach Hotel",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Club Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 207355.96,
+        "price_eur": null,
+        "price_rsd": 186275.3
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 214752.48,
+        "price_eur": null,
+        "price_rsd": 192326.59
+      },
+      {
+        "room_type": "Club FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 265554.74,
+        "price_eur": null,
+        "price_rsd": 233925.54
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 276631.78,
+        "price_eur": null,
+        "price_rsd": 243001.14
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/bendis-beach-hotel?SearchType=1&Hotel=3962&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Bendis Beach Hotel",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 203390,
+        "price_eur": null,
+        "price_rsd": 183031.17
+      },
+      {
+        "room_type": "Large Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 259604.49,
+        "price_eur": null,
+        "price_rsd": 229058.03
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/sami-beach-hotel?SearchType=1&Hotel=3992&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Sami Beach Hotel",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Annex Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 195480.11,
+        "price_eur": null,
+        "price_rsd": 176550.86
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 201018.63,
+        "price_eur": null,
+        "price_rsd": 181088.67
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 206574.88,
+        "price_eur": null,
+        "price_rsd": 185627.8
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/the-marmara-bodrum?SearchType=1&Hotel=15285&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "The Marmara Bodrum",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 396729
+      },
+      {
+        "room_type": "Double Luxury Room (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 424523.88
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/dragut-point-south?SearchType=1&Hotel=3988&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Dragut Point South",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 210033.69,
+        "price_eur": null,
+        "price_rsd": 165854.52
+      },
+      {
+        "room_type": "Suite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 329083.04,
+        "price_eur": null,
+        "price_rsd": 240732.91
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/bodrum/selectum-colours-bodrum?SearchType=1&Hotel=14120&P=1&CheckIn=2026-06-03&Night=7&HpCode=BODWOTS26K&ClId=296",
+    "title": "Selectum Colours Bodrum",
+    "location": "TURSKA - BODRUM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 288911.73,
+        "price_eur": null,
+        "price_rsd": 253050
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 325858.83,
+        "price_eur": null,
+        "price_rsd": 283303.78
+      },
+      {
+        "room_type": "Bunkbed Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 368081.75,
+        "price_eur": null,
+        "price_rsd": 317879.54
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 437357.58,
+        "price_eur": null,
+        "price_rsd": 374605.4
+      }
+    ]
+  }
+]

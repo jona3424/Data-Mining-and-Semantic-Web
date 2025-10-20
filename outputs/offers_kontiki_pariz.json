@@ -1,0 +1,59 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/francuska/pariz/ibis-paris-la-defense-esplenade?SearchId=d5b3bfc0-cf13-45ec-a205-cfdbf5dd0649&SearchType=1&Hotel=3614&P=1&CheckIn=2025-12-30&Night=4&HpCode=DECPAR25",
+    "title": "IBIS PARIS LA DEFENSE ESPLENADE",
+    "location": "FRANCUSKA - PARIZ",
+    "stars_raw": "6",
+    "departure_date_raw": "30.12.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1598,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/francuska/pariz/ibis-paris-la-defense-esplenade?SearchId=b65f6273-2f82-4340-ac6d-b1669f98f98c&SearchType=1&Hotel=3614&P=1&CheckIn=2026-01-14&Night=4&HpCode=JANPAR26",
+    "title": "IBIS PARIS LA DEFENSE ESPLENADE",
+    "location": "FRANCUSKA - PARIZ",
+    "stars_raw": "6",
+    "departure_date_raw": "14.01.2026",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1478,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/francuska/pariz/ibis-paris-la-defense-esplenade?SearchType=1&Hotel=3614&P=1&CheckIn=2025-11-08&Night=4&HpCode=8NOVPARIZ&ClId=261",
+    "title": "IBIS PARIS LA DEFENSE ESPLENADE",
+    "location": "FRANCUSKA - PARIZ",
+    "stars_raw": "6",
+    "departure_date_raw": "08.11.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1518,
+        "price_rsd": null
+      }
+    ]
+  }
+]

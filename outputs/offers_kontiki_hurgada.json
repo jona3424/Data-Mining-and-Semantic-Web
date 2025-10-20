@@ -1,0 +1,1537 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/jaz-casa-del-mar-beach?SearchType=1&Hotel=2233&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "JAZ CASA DEL MAR BEACH",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2818,
+        "old_price_rsd": null,
+        "price_eur": 2100.42,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR 1/3",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2910,
+        "old_price_rsd": null,
+        "price_eur": 2213.4,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3030,
+        "old_price_rsd": null,
+        "price_eur": 2305.7,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY SUITE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3398,
+        "old_price_rsd": null,
+        "price_eur": 2665.34,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/marlin-inn-resort?SearchType=1&Hotel=17396&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "MARLIN INN RESORT",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "6",
+    "departure_date_raw": "26.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1690,
+        "old_price_rsd": null,
+        "price_eur": 1201.16,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/rewaja-majestic-resort?SearchType=1&Hotel=19357&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "REWAJA MAJESTIC RESORT",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": "26.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2010,
+        "old_price_rsd": null,
+        "price_eur": 1383.48,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2178,
+        "old_price_rsd": null,
+        "price_eur": 1551.5,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/pickalbatros-blu-spa?SearchType=1&Hotel=15273&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "PICKALBATROS BLU SPA",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM POOL VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2370,
+        "old_price_rsd": null,
+        "price_eur": 1990,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2478,
+        "old_price_rsd": null,
+        "price_eur": 2098,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ELITE ROOM SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2718,
+        "old_price_rsd": null,
+        "price_eur": 2338,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/royal-star-beach-resort?SearchType=1&Hotel=14375&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "ROYAL STAR BEACH RESORT",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1630,
+        "old_price_rsd": null,
+        "price_eur": 1109.54,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/tropitel-sahl-hashees?SearchType=1&Hotel=2681&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "TROPITEL SAHL HASHEES",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": "26.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "DELUXE GARDEN VIEW",
+        "board": "ELITE ALL INCLUSIVE",
+        "old_price_eur": 2130,
+        "old_price_rsd": null,
+        "price_eur": 1750,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SIDE SEA VIEW",
+        "board": "ELITE ALL INCLUSIVE",
+        "old_price_eur": 2178,
+        "old_price_rsd": null,
+        "price_eur": 1798,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "ELITE ALL INCLUSIVE",
+        "old_price_eur": 2750,
+        "old_price_rsd": null,
+        "price_eur": 2370,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/steigenberger-pure-lifestyle-resort?SearchType=1&Hotel=11921&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "STEIGENBERGER PURE LIFESTYLE RESORT",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "JACUZZI SUITE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3078,
+        "old_price_rsd": null,
+        "price_eur": 2698,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SWIM UP SUITE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3610,
+        "old_price_rsd": null,
+        "price_eur": 3230,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/pyramisa-beach-resort-sahl-hasheesh?SearchType=1&Hotel=17694&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "PYRAMISA BEACH RESORT SAHL HASHEESH",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": "26.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM POOL VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1830,
+        "old_price_rsd": null,
+        "price_eur": 1381.06,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1918,
+        "old_price_rsd": null,
+        "price_eur": 1458.42,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SIDE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1950,
+        "old_price_rsd": null,
+        "price_eur": 1458.42,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1998,
+        "old_price_rsd": null,
+        "price_eur": 1506.8,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2278,
+        "old_price_rsd": null,
+        "price_eur": 1767.78,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/serry-beach-resort?SearchType=1&Hotel=15985&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "SERRY BEACH RESORT",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DELUXE KING GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3098,
+        "old_price_rsd": null,
+        "price_eur": 2718,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE TWIN GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3138,
+        "old_price_rsd": null,
+        "price_eur": 2758,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWO BEDROOM CHALET SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3370,
+        "old_price_rsd": null,
+        "price_eur": 2990,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/eagles-downtown?SearchType=1&Hotel=17412&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "EAGLES DOWNTOWN",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1678,
+        "old_price_rsd": null,
+        "price_eur": 1100.82,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/premier-le-reve?SearchType=1&Hotel=559&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "PREMIER LE REVE",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD GARDEN VIEW",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 2778,
+        "old_price_rsd": null,
+        "price_eur": 2398,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/steigenberger-aqua-magic?SearchType=1&Hotel=3180&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "STEIGENBERGER AQUA MAGIC",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2050,
+        "old_price_rsd": null,
+        "price_eur": 1642.56,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2098,
+        "old_price_rsd": null,
+        "price_eur": 1693.7,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2210,
+        "old_price_rsd": null,
+        "price_eur": 1805.72,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY SUITE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2330,
+        "old_price_rsd": null,
+        "price_eur": 1917.74,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/minamark-beach-resort?SearchType=1&Hotel=1649&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "MINAMARK BEACH RESORT",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1650,
+        "old_price_rsd": null,
+        "price_eur": 1270,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/pickalbatros-beach-resort?SearchType=1&Hotel=15464&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "PICKALBATROS BEACH RESORT",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "BUNGALOW GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2238,
+        "old_price_rsd": null,
+        "price_eur": 1858,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2318,
+        "old_price_rsd": null,
+        "price_eur": 1938,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2858,
+        "old_price_rsd": null,
+        "price_eur": 2478,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/fort-arabesque-west-bay?SearchType=1&Hotel=18145&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "FORT ARABESQUE WEST BAY",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "COMFORT ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2090,
+        "old_price_rsd": null,
+        "price_eur": 1694.26,
+        "price_rsd": null
+      },
+      {
+        "room_type": "PREMIUM ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2198,
+        "old_price_rsd": null,
+        "price_eur": 1807.24,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/palm-royale-soma-bay?SearchType=1&Hotel=1650&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "PALM ROYALE SOMA BAY",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2038,
+        "old_price_rsd": null,
+        "price_eur": 1658,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2150,
+        "old_price_rsd": null,
+        "price_eur": 1770,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR BEACH FRONT",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2318,
+        "old_price_rsd": null,
+        "price_eur": 1938,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2378,
+        "old_price_rsd": null,
+        "price_eur": 1998,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/sunny-days-resort-spa---aqua-park?SearchType=1&Hotel=2567&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "SUNNY DAYS RESORT SPA & AQUA PARK",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "POOL VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1818,
+        "old_price_rsd": null,
+        "price_eur": 1314.92,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1878,
+        "old_price_rsd": null,
+        "price_eur": 1370.44,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/sentido-naga-bay?SearchType=1&Hotel=19377&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "SENTIDO NAGA BAY",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": "26.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "DOUBLE ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2378,
+        "old_price_rsd": null,
+        "price_eur": 1998,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2510,
+        "old_price_rsd": null,
+        "price_eur": 2130,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUITE FAMILY SIDE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2818,
+        "old_price_rsd": null,
+        "price_eur": 2438,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/amarina-abu-soma-resort?SearchType=1&Hotel=16417&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "AMARINA ABU SOMA RESORT",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1850,
+        "old_price_rsd": null,
+        "price_eur": 1470,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1898,
+        "old_price_rsd": null,
+        "price_eur": 1518,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/sentido-caribbean-world-soma-bay?SearchType=1&Hotel=2604&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "SENTIDO CARIBBEAN WORLD SOMA BAY",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1878,
+        "old_price_rsd": null,
+        "price_eur": 1457,
+        "price_rsd": null
+      },
+      {
+        "room_type": "EXECUTIVE ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2030,
+        "old_price_rsd": null,
+        "price_eur": 1650,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY SELECTED ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2030,
+        "old_price_rsd": null,
+        "price_eur": 1650,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/movenpick-soma-bay-hotel?SearchType=1&Hotel=3181&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "MOVENPICK SOMA BAY HOTEL",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "CLASSIC ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1950,
+        "old_price_rsd": null,
+        "price_eur": 1570,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1998,
+        "old_price_rsd": null,
+        "price_eur": 1618,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLASSIC POOL VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2130,
+        "old_price_rsd": null,
+        "price_eur": 1750,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE POOL ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2178,
+        "old_price_rsd": null,
+        "price_eur": 1798,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/hilton-plaza-hotel?SearchType=1&Hotel=2558&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "HILTON PLAZA HOTEL",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2470,
+        "old_price_rsd": null,
+        "price_eur": 2090,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2590,
+        "old_price_rsd": null,
+        "price_eur": 2210,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW BALCONY",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2738,
+        "old_price_rsd": null,
+        "price_eur": 2358,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/sheraton-soma-bay?SearchType=1&Hotel=2237&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "SHERATON SOMA BAY HOTEL",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": "26.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "STANDARD DESERT VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2730,
+        "old_price_rsd": null,
+        "price_eur": 2350,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2838,
+        "old_price_rsd": null,
+        "price_eur": 2458,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2958,
+        "old_price_rsd": null,
+        "price_eur": 2578,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3758,
+        "old_price_rsd": null,
+        "price_eur": 3378,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/dana-beach-resort-hotel?SearchType=1&Hotel=8569&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "DANA BEACH RESORT HOTEL",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": "26.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2358,
+        "old_price_rsd": null,
+        "price_eur": 1978,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY POOL VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3078,
+        "old_price_rsd": null,
+        "price_eur": 2698,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/royal-lagoons-aqua-park-resort?SearchType=1&Hotel=8595&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "ROYAL LAGOONS AQUA PARK RESORT",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1638,
+        "old_price_rsd": null,
+        "price_eur": 1258,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/steigenberger-ras-soma?SearchType=1&Hotel=13905&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "STEIGENBERGER RAS SOMA",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3230,
+        "old_price_rsd": null,
+        "price_eur": 2530.56,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR GRAND SIDE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3458,
+        "old_price_rsd": null,
+        "price_eur": 2725.88,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE FAMILY",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3630,
+        "old_price_rsd": null,
+        "price_eur": 2872.36,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/continental-resort?SearchType=1&Hotel=2235&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "CONTINENTAL RESORT",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": "26.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "CLASSIC LAND VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1918,
+        "old_price_rsd": null,
+        "price_eur": 1538,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLASSIC SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2038,
+        "old_price_rsd": null,
+        "price_eur": 1658,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2210,
+        "old_price_rsd": null,
+        "price_eur": 1830,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLASSIC PARTIAL SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2218,
+        "old_price_rsd": null,
+        "price_eur": 1838,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/sea-gull-hotel?SearchType=1&Hotel=553&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "SEA GULL HOTEL",
+    "location": "EGIPAT - HURGADASHERATON ROAD",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1810,
+        "old_price_rsd": null,
+        "price_eur": 1424.44,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR BEACH FRONT",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1958,
+        "old_price_rsd": null,
+        "price_eur": 1539.34,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/titanic-royal?SearchType=1&Hotel=12177&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "TITANIC ROYAL",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2390,
+        "old_price_rsd": null,
+        "price_eur": 2012.34,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SWIM UP ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2578,
+        "old_price_rsd": null,
+        "price_eur": 2190.42,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2818,
+        "old_price_rsd": null,
+        "price_eur": 2443.2,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/golden-beach-resort?SearchType=1&Hotel=10501&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "GOLDEN BEACH RESORT",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1738,
+        "old_price_rsd": null,
+        "price_eur": 1358,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/steigenberger-al-dau-beach?SearchType=1&Hotel=556&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "STEIGENBERGER AL DAU BEACH",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2518,
+        "old_price_rsd": null,
+        "price_eur": 2138,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SUITE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2718,
+        "old_price_rsd": null,
+        "price_eur": 2338,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ELITE SUITE ONE BEDROOM SV",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2838,
+        "old_price_rsd": null,
+        "price_eur": 2458,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ELITE FAMILY ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2958,
+        "old_price_rsd": null,
+        "price_eur": 2578,
+        "price_rsd": null
+      },
+      {
+        "room_type": "EXECUTIVE SUITE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3230,
+        "old_price_rsd": null,
+        "price_eur": 2850,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SUITE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3450,
+        "old_price_rsd": null,
+        "price_eur": 3070,
+        "price_rsd": null
+      },
+      {
+        "room_type": "THE VIEW SUITE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3498,
+        "old_price_rsd": null,
+        "price_eur": 3118,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/rixos-premium-magawish-suites-villas?SearchType=1&Hotel=13665&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "RIXOS PREMIUM MAGAWISH SUITES VILLAS",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUITE GARDEN VIEW",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 4530,
+        "old_price_rsd": null,
+        "price_eur": 3146.02,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUITE SEA VIEW",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 4798,
+        "old_price_rsd": null,
+        "price_eur": 3399.1,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SWIM UP SUITE",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 5858,
+        "old_price_rsd": null,
+        "price_eur": 4411.42,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/the-v-luxury-resort-sahl-hasheesh?SearchType=1&Hotel=15986&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "THE V LUXURY RESORT SAHL HASHEESH",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": "26.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "DELUXE GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2378,
+        "old_price_rsd": null,
+        "price_eur": 1632.42,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM POOL VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2378,
+        "old_price_rsd": null,
+        "price_eur": 1632.42,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2418,
+        "old_price_rsd": null,
+        "price_eur": 1709.78,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SWIM UP",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2698,
+        "old_price_rsd": null,
+        "price_eur": 1854.78,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE JACUZZI ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2650,
+        "old_price_rsd": null,
+        "price_eur": 1903.14,
+        "price_rsd": null
+      },
+      {
+        "room_type": "PANORAMA SUITE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2770,
+        "old_price_rsd": null,
+        "price_eur": 2048.14,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/jaz-makadina?SearchType=1&Hotel=16171&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "JAZ MAKADINA",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2358,
+        "old_price_rsd": null,
+        "price_eur": 1960.82,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2478,
+        "old_price_rsd": null,
+        "price_eur": 2073.8,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2590,
+        "old_price_rsd": null,
+        "price_eur": 2186.78,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/swiss-inn-resort?SearchType=1&Hotel=555&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "SWISS INN RESORT",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": "26.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "PREMIUM GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1898,
+        "old_price_rsd": null,
+        "price_eur": 1521.94,
+        "price_rsd": null
+      },
+      {
+        "room_type": "PREMIUM ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1958,
+        "old_price_rsd": null,
+        "price_eur": 1575.42,
+        "price_rsd": null
+      },
+      {
+        "room_type": "PREMIUM SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2070,
+        "old_price_rsd": null,
+        "price_eur": 1690.02,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/gravity-hotel---aqua-park?SearchType=1&Hotel=14934&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "GRAVITY HOTEL & AQUA PARK",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1930,
+        "old_price_rsd": null,
+        "price_eur": 1550,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2018,
+        "old_price_rsd": null,
+        "price_eur": 1638,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2098,
+        "old_price_rsd": null,
+        "price_eur": 1718,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/kaisol-romance-resort-(ex-sunrise-romance)?SearchType=1&Hotel=582&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "KAISOL ROMANCE RESORT (EX SUNRISE ROMANCE)",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": "26.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2410,
+        "old_price_rsd": null,
+        "price_eur": 1990.12,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2498,
+        "old_price_rsd": null,
+        "price_eur": 2078.98,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2578,
+        "old_price_rsd": null,
+        "price_eur": 2156.72,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SWIM UP",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3038,
+        "old_price_rsd": null,
+        "price_eur": 2600.98,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/flow-spectrum-sahl-hasheesh?SearchType=1&Hotel=17865&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "FLOW SPECTRUM SAHL HASHEESH",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "8",
+    "departure_date_raw": "26.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM MOUNTAIN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1918,
+        "old_price_rsd": null,
+        "price_eur": 1303.7,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2078,
+        "old_price_rsd": null,
+        "price_eur": 1526.06,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/baron-palace?SearchType=1&Hotel=4862&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "BARON PALACE",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": "26.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ALL INCLUSIVE PREMIUM",
+        "old_price_eur": 4798,
+        "old_price_rsd": null,
+        "price_eur": 2726.62,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/bella-vista-hotel?SearchType=1&Hotel=2571&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "BELLA VISTA HOTEL",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1590,
+        "old_price_rsd": null,
+        "price_eur": 1210,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1710,
+        "old_price_rsd": null,
+        "price_eur": 1330,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1758,
+        "old_price_rsd": null,
+        "price_eur": 1378,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1818,
+        "old_price_rsd": null,
+        "price_eur": 1438,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/pickalbatros-white-beach?SearchType=1&Hotel=7864&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "PICKALBATROS WHITE BEACH",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2410,
+        "old_price_rsd": null,
+        "price_eur": 2030,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM SEA SIDE VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2470,
+        "old_price_rsd": null,
+        "price_eur": 2090,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2530,
+        "old_price_rsd": null,
+        "price_eur": 2150,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3070,
+        "old_price_rsd": null,
+        "price_eur": 2690,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/marriott-beach-resort?SearchType=1&Hotel=557&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "MARRIOTT BEACH RESORT",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2258,
+        "old_price_rsd": null,
+        "price_eur": 1613.62,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2378,
+        "old_price_rsd": null,
+        "price_eur": 1728.22,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/fort-arabesque-beach-resort?SearchType=1&Hotel=16041&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "FORT ARABESQUE BEACH RESORT",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2090,
+        "old_price_rsd": null,
+        "price_eur": 1710,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2258,
+        "old_price_rsd": null,
+        "price_eur": 1878,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/jaz-soma-beach?SearchType=1&Hotel=16752&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "JAZ SOMA BEACH",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "8",
+    "departure_date_raw": "26.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2130,
+        "old_price_rsd": null,
+        "price_eur": 1719.54,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM POOL VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2210,
+        "old_price_rsd": null,
+        "price_eur": 1802.84,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR FAMILY",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2238,
+        "old_price_rsd": null,
+        "price_eur": 1831.58,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2278,
+        "old_price_rsd": null,
+        "price_eur": 1868.62,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR FAMILY POOL VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2358,
+        "old_price_rsd": null,
+        "price_eur": 1945.2,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR FAMILY SIDE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2478,
+        "old_price_rsd": null,
+        "price_eur": 2058.86,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/egipat/hurgada/mercure-hurghada?SearchType=1&Hotel=13258&P=1&CheckIn=2025-10-26&Night=7&HpCode=HRZ2526&ClId=293",
+    "title": "MERCURE HURGHADA",
+    "location": "EGIPAT - HURGADA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1998,
+        "old_price_rsd": null,
+        "price_eur": 1511.38,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2178,
+        "old_price_rsd": null,
+        "price_eur": 1680.86,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2398,
+        "old_price_rsd": null,
+        "price_eur": 1906.82,
+        "price_rsd": null
+      }
+    ]
+  }
+]

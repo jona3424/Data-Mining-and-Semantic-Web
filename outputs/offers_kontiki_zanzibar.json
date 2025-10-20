@@ -1,0 +1,458 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/essque-zalu-zanzibar?SearchId=78c74fe2-4641-45c0-bbaf-3dd0a5732eac&SearchType=1&Hotel=17069&P=1&CheckIn=2025-11-04&Night=7&HpCode=ZANNOVO",
+    "title": "ESSQUE ZALU ZANZIBAR",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "10",
+    "departure_date_raw": "04.11.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "SUITE ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4810,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/riu-jambo?SearchType=1&Hotel=14940&P=1&CheckIn=2025-10-22&Night=7&HpCode=ZANNOVO&ClId=167",
+    "title": "RIU JAMBO",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4530,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/my-blue-hotel?SearchType=1&Hotel=15280&P=1&CheckIn=2025-10-22&Night=7&HpCode=ZANNOVO&ClId=167",
+    "title": "MY BLUE HOTEL",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3058,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/melia-zanzibar?SearchId=78c74fe2-4641-45c0-bbaf-3dd0a5732eac&SearchType=1&Hotel=13598&P=1&CheckIn=2025-11-04&Night=7&HpCode=ZANNOVO",
+    "title": "MELIA ZANZIBAR",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "10",
+    "departure_date_raw": "04.11.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "MELIA ROOM GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4830,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/gold-zanzibar-beach-house-spa?SearchId=78c74fe2-4641-45c0-bbaf-3dd0a5732eac&SearchType=1&Hotel=10015&P=1&CheckIn=2025-11-04&Night=7&HpCode=ZANNOVO",
+    "title": "GOLD ZANZIBAR BEACH HOUSE SPA",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "10",
+    "departure_date_raw": "04.11.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 6110,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/melia-zanzibar?SearchType=1&Hotel=13598&P=1&CheckIn=2025-10-22&Night=7&HpCode=ZANNOVO&ClId=167",
+    "title": "MELIA ZANZIBAR",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "MELIA ROOM GARDEN VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4590,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/moonshine-uroa-boutique-hotel?SearchId=78c74fe2-4641-45c0-bbaf-3dd0a5732eac&SearchType=1&Hotel=13233&P=1&CheckIn=2025-11-04&Night=7&HpCode=ZANNOVO",
+    "title": "MOONSHINE UROA BOUTIQUE HOTEL BOUTIQUE HOTEL",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": null,
+    "departure_date_raw": "04.11.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "BUNGALOW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2378,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/riu-jambo?SearchId=78c74fe2-4641-45c0-bbaf-3dd0a5732eac&SearchType=1&Hotel=14940&P=1&CheckIn=2025-11-04&Night=7&HpCode=ZANNOVO",
+    "title": "RIU JAMBO",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "8",
+    "departure_date_raw": "04.11.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4530,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/sultan-sands-island-resort?SearchId=78c74fe2-4641-45c0-bbaf-3dd0a5732eac&SearchType=1&Hotel=8169&P=1&CheckIn=2025-11-04&Night=7&HpCode=ZANNOVO",
+    "title": "SULTAN SANDS ISLAND RESORT",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "8",
+    "departure_date_raw": "04.11.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4138,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/my-blue-hotel?SearchId=78c74fe2-4641-45c0-bbaf-3dd0a5732eac&SearchType=1&Hotel=15280&P=1&CheckIn=2025-11-04&Night=7&HpCode=ZANNOVO",
+    "title": "MY BLUE HOTEL",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "8",
+    "departure_date_raw": "04.11.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3058,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/nungwi-beach-resort-by-turaco?SearchType=1&Hotel=17068&P=1&CheckIn=2025-10-22&Night=7&HpCode=ZANNOVO&ClId=167",
+    "title": "NUNGWI BEACH RESORT BY TURACO",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3750,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/riu-palace-zanzibar?SearchType=1&Hotel=8174&P=1&CheckIn=2025-10-22&Night=7&HpCode=ZANNOVO&ClId=167",
+    "title": "RIU PALACE ZANZIBAR",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "JUNIOR SUITE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/sultan-sands-island-resort?SearchType=1&Hotel=8169&P=1&CheckIn=2025-10-22&Night=7&HpCode=ZANNOVO&ClId=167",
+    "title": "SULTAN SANDS ISLAND RESORT",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4138,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/neptune-pwani-beach-resort?SearchId=78c74fe2-4641-45c0-bbaf-3dd0a5732eac&SearchType=1&Hotel=8171&P=1&CheckIn=2025-11-04&Night=7&HpCode=ZANNOVO",
+    "title": "NEPTUNE PWANI BEACH RESORT",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "8",
+    "departure_date_raw": "04.11.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "DELUXE DOUBLE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 10658,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/moonshine-uroa-boutique-hotel?SearchType=1&Hotel=13233&P=1&CheckIn=2025-10-22&Night=7&HpCode=ZANNOVO&ClId=167",
+    "title": "MOONSHINE UROA BOUTIQUE HOTEL BOUTIQUE HOTEL",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": null,
+    "departure_date_raw": "22.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "BUNGALOW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2378,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/riu-palace-zanzibar?SearchId=78c74fe2-4641-45c0-bbaf-3dd0a5732eac&SearchType=1&Hotel=8174&P=1&CheckIn=2025-11-04&Night=7&HpCode=ZANNOVO",
+    "title": "RIU PALACE ZANZIBAR",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "10",
+    "departure_date_raw": "04.11.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "JUNIOR SUITE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/gold-zanzibar-beach-house-spa?SearchType=1&Hotel=10015&P=1&CheckIn=2025-10-22&Night=7&HpCode=ZANNOVO&ClId=167",
+    "title": "GOLD ZANZIBAR BEACH HOUSE SPA",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 6110,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/neptune-pwani-beach-resort?SearchType=1&Hotel=8171&P=1&CheckIn=2025-10-22&Night=7&HpCode=ZANNOVO&ClId=167",
+    "title": "NEPTUNE PWANI BEACH RESORT",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "DELUXE DOUBLE",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/royal-zanzibar-beach-resort?SearchType=1&Hotel=8173&P=1&CheckIn=2025-10-22&Night=7&HpCode=ZANNOVO&ClId=167",
+    "title": "ROYAL ZANZIBAR BEACH RESORT",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4070,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/nungwi-beach-resort-by-turaco?SearchId=78c74fe2-4641-45c0-bbaf-3dd0a5732eac&SearchType=1&Hotel=17068&P=1&CheckIn=2025-11-04&Night=7&HpCode=ZANNOVO",
+    "title": "NUNGWI BEACH RESORT BY TURACO",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "8",
+    "departure_date_raw": "04.11.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4018,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/essque-zalu-zanzibar?SearchType=1&Hotel=17069&P=1&CheckIn=2025-10-22&Night=7&HpCode=ZANNOVO&ClId=167",
+    "title": "ESSQUE ZALU ZANZIBAR",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "SUITE ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4810,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/royal-zanzibar-beach-resort?SearchId=78c74fe2-4641-45c0-bbaf-3dd0a5732eac&SearchType=1&Hotel=8173&P=1&CheckIn=2025-11-04&Night=7&HpCode=ZANNOVO",
+    "title": "ROYAL ZANZIBAR BEACH RESORT",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "10",
+    "departure_date_raw": "04.11.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4690,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/bluebay-beach-resort---spa?SearchId=78c74fe2-4641-45c0-bbaf-3dd0a5732eac&SearchType=1&Hotel=8168&P=1&CheckIn=2025-11-04&Night=7&HpCode=ZANNOVO",
+    "title": "BLUEBAY BEACH RESORT & SPA",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "8",
+    "departure_date_raw": "04.11.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4270,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/tanzanija/zanzibar/bluebay-beach-resort---spa?SearchType=1&Hotel=8168&P=1&CheckIn=2025-10-22&Night=7&HpCode=ZANNOVO&ClId=167",
+    "title": "BLUEBAY BEACH RESORT & SPA",
+    "location": "TANZANIJA - ZANZIBAR",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "6",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4270,
+        "price_rsd": null
+      }
+    ]
+  }
+]

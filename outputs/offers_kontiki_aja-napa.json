@@ -1,0 +1,1299 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/asterias-beach?SearchType=1&Hotel=3381&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "ASTERIAS BEACH",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "GARDEN VIEW ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2210,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2458,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM GARDEN VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2470,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SEA VIEW ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2710,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR FRONT SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3430,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/margadina-lounge-hotel?SearchType=1&Hotel=16291&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "MARGADINA LOUNGE HOTEL",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1790,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1830,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1830,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1890,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1890,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1930,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1990,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1990,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2058,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/nestor-hotel?SearchType=1&Hotel=4611&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "NESTOR HOTEL",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1930,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2030,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA/POOL VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/melissi-beach?SearchType=1&Hotel=4610&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "MELISSI BEACH",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2298,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2390,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA POOL VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2478,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/milea-hotel?SearchType=1&Hotel=18348&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "MILEA HOTEL",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1410,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD POOL VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1470,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/tasia-maris-sands-beach---adults-only?SearchType=1&Hotel=16361&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "TASIA MARIS SANDS",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DELUXE INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2078,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SIDE SEA VIEW ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2158,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2298,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/limanaki-beach-hotel?SearchType=1&Hotel=13224&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "LIMANAKI BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR SEA VIEW ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1610,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1690,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2030,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2110,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE SEA VIEW ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2130,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE SEA VIEW ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2550,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/adams-beach?SearchType=1&Hotel=3385&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "ADAMS BEACH",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "ELEGANCE STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2410,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ELEGANCE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2578,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE WING POOL/SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2750,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2750,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE WING SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2918,
+        "price_rsd": null
+      },
+      {
+        "room_type": "PREMIUM ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3050,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3138,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3218,
+        "price_rsd": null
+      },
+      {
+        "room_type": "PREMIUM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3218,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3310,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/faros-hotel?SearchType=1&Hotel=17143&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "FAROS HOTEL",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "INALND VIEW ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1778,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SEA VIEW ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1978,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2058,
+        "price_rsd": null
+      },
+      {
+        "room_type": "GARDEN SUITE POOLFRONT",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2058,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/eleana-hotel?SearchType=1&Hotel=18345&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "ELEANA HOTEL",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1470,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DIRECT POOL ACCESS ROOMS ADULTS ONLY",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1558,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1810,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DIRECT POOL ACCESS ROOMS ADULTS ONLY",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1890,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/gaia-sun-n-blue?SearchType=1&Hotel=16334&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "GAIA SUN N BLUE",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DOUBLE/TWIN ROOM INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1510,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DOUBLE/TWIN ROOM SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1570,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DOUBLE/TWIN ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1630,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DOUBLE/TWIN ROOM INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1838,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DOUBLE/TWIN ROOM SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1910,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DOUBLE/TWIN ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1958,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/okeanos-beach-boutique?SearchType=1&Hotel=5474&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "OKEANOS BEACH BOUTIQUE",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1930,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2090,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2138,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY SUITE",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2470,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/christofinia-hotel?SearchType=1&Hotel=5579&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "CHRISTOFINIA HOTEL",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1838,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1930,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR FAMILY SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2010,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/fedrania-gardens?SearchType=1&Hotel=5676&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "FEDRANIA GARDENS",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "4",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR INLAND VIEW",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1270,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM POOL VIEW",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1310,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SWIM UP ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1390,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/liquid-hotel-apartments?SearchType=1&Hotel=18342&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "LIQUID HOTEL APARTMENTS",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "ONE BEDROOM APARTMENT",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1430,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/melpo-antia-hotel---suites?SearchType=1&Hotel=17104&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "MELPO ANTIA HOTEL & SUITES",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "LUXURY ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1710,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY DELUXE ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "LUXURY STUDIO",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "ONE BEDROOM APART",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/anonymous-beach?SearchType=1&Hotel=4608&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "ANONYMOUS BEACH",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1738,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1838,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/napa-plaza?SearchType=1&Hotel=8406&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "NAPA PLAZA",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM POOL VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1878,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1950,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM POOL VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2058,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2158,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM POOL VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2310,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2378,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM POOL VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2498,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/euronapa-hotel?SearchType=1&Hotel=17458&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "EURONAPA HOTEL",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR STUDIO",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1410,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR APARTMENT",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1478,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR STUDIO",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1578,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR APARTMENT",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1650,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR STUDIO",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1750,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR APARTMENT",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1810,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/grecian-bay?SearchType=1&Hotel=3384&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "GRECIAN BAY",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "TWIN INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2618,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2870,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3118,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3238,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3370,
+        "price_rsd": null
+      },
+      {
+        "room_type": "EXECUTIVE STUDIO",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3878,
+        "price_rsd": null
+      },
+      {
+        "room_type": "EXECUTIVE STUDIO",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4378,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/tasia-maris-seasons---adults-only?SearchType=1&Hotel=16363&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "TASIA MARIS SEASONS -ADULTS ONLY",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DELUXE INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1838,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM POOL VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1890,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1978,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/new-famagusta-hotel---suites?SearchType=1&Hotel=18350&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "NEW FAMAGUSTA HOTEL & SUITES",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1510,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1710,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/grecian-sands?SearchType=1&Hotel=3382&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "GRECIAN SANDS",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2258,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2378,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2478,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD STUDIO SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3438,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/nissiblu-beach?SearchType=1&Hotel=13223&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "NISSIBLU BEACH",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2470,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2718,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3018,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR FAMILY SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3138,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3270,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR FAMILY SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3690,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/vassos-nissi-plage?SearchType=1&Hotel=8006&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "VASSOS NISSI PLAGE",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "CITY VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1978,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SIDE SEA VIEW ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2050,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2130,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CITY VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2350,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SIDE SEA VIEW ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2410,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2498,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SUITE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2998,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SUITE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3370,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/tasia-maris-oasis?SearchType=1&Hotel=18346&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "TASIA MARIS OASIS",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1778,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD POOL VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1830,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1990,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/aja-napa/stamatia-hotel?SearchType=1&Hotel=9135&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=263",
+    "title": "STAMATIA HOTEL - AJA NAPA",
+    "location": "KIPARSKA REPUBLIKA - AJA NAPA",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1638,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1810,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE FAMILY SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2058,
+        "price_rsd": null
+      }
+    ]
+  }
+]

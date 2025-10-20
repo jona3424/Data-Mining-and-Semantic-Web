@@ -1,0 +1,230 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/grcka/atina/boss-boutique?SearchId=3d80bb32-db56-4b76-b88f-85ad2f5dea18&SearchType=1&Hotel=13999&P=1&CheckIn=2025-11-07&Night=4&HpCode=ATH25NOV",
+    "title": "BOSS BOUTIQUE",
+    "location": "GRČKA - ATINAChalkokondili 33, Athina 104 32, Грчка",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1158,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/grcka/atina/breeze-boutique-hotel?SearchType=1&Hotel=11488&P=1&CheckIn=2025-11-07&Night=4&HpCode=ATH25NOV&ClId=285",
+    "title": "BREEZE BOUTIQUE HOTEL",
+    "location": "GRČKA - ATINA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1158,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/grcka/atina/boss-boutique?SearchType=1&Hotel=13999&P=1&CheckIn=2025-11-07&Night=4&HpCode=ATH25NOV&ClId=285",
+    "title": "BOSS BOUTIQUE",
+    "location": "GRČKA - ATINAChalkokondili 33, Athina 104 32, Грчка",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1158,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/grcka/atina/international-atene?SearchId=3d80bb32-db56-4b76-b88f-85ad2f5dea18&SearchType=1&Hotel=15437&P=1&CheckIn=2025-11-07&Night=4&HpCode=ATH25NOV",
+    "title": "INTERNATIONAL ATENE",
+    "location": "GRČKA - ATINA",
+    "stars_raw": "8",
+    "departure_date_raw": "07.11.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1158,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/grcka/atina/great-athens?SearchType=1&Hotel=19502&P=1&CheckIn=2025-11-07&Night=4&HpCode=ATH25NOV&ClId=285",
+    "title": "GREAT ATHENS",
+    "location": "GRČKA - ATINA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1218,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/grcka/atina/great-athens?SearchId=3d80bb32-db56-4b76-b88f-85ad2f5dea18&SearchType=1&Hotel=19502&P=1&CheckIn=2025-11-07&Night=4&HpCode=ATH25NOV",
+    "title": "GREAT ATHENS",
+    "location": "GRČKA - ATINA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1218,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/grcka/atina/titania-hotel?SearchType=1&Hotel=6534&P=1&CheckIn=2025-11-07&Night=4&HpCode=ATH25NOV&ClId=285",
+    "title": "TITANIA HOTEL",
+    "location": "GRČKA - ATINA",
+    "stars_raw": "8",
+    "departure_date_raw": "07.11.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1378,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/grcka/atina/breeze-boutique-hotel?SearchId=3d80bb32-db56-4b76-b88f-85ad2f5dea18&SearchType=1&Hotel=11488&P=1&CheckIn=2025-11-07&Night=4&HpCode=ATH25NOV",
+    "title": "BREEZE BOUTIQUE HOTEL",
+    "location": "GRČKA - ATINA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1158,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/grcka/atina/titania-hotel?SearchId=3d80bb32-db56-4b76-b88f-85ad2f5dea18&SearchType=1&Hotel=6534&P=1&CheckIn=2025-11-07&Night=4&HpCode=ATH25NOV",
+    "title": "TITANIA HOTEL",
+    "location": "GRČKA - ATINA",
+    "stars_raw": "8",
+    "departure_date_raw": "07.11.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1378,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/grcka/atina/achillion-hotel-(atina)?SearchType=1&Hotel=6530&P=1&CheckIn=2025-11-07&Night=4&HpCode=ATH25NOV&ClId=285",
+    "title": "ACHILLION HOTEL (ATINA)",
+    "location": "GRČKA - ATINAAgiou Konstantinou 32, Athina 104 37",
+    "stars_raw": "6",
+    "departure_date_raw": "07.11.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1058,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/grcka/atina/international-atene?SearchType=1&Hotel=15437&P=1&CheckIn=2025-11-07&Night=4&HpCode=ATH25NOV&ClId=285",
+    "title": "INTERNATIONAL ATENE",
+    "location": "GRČKA - ATINA",
+    "stars_raw": "8",
+    "departure_date_raw": "07.11.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1158,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/grcka/atina/achillion-hotel-(atina)?SearchId=3d80bb32-db56-4b76-b88f-85ad2f5dea18&SearchType=1&Hotel=6530&P=1&CheckIn=2025-11-07&Night=4&HpCode=ATH25NOV",
+    "title": "ACHILLION HOTEL (ATINA)",
+    "location": "GRČKA - ATINAAgiou Konstantinou 32, Athina 104 37",
+    "stars_raw": "6",
+    "departure_date_raw": "07.11.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1058,
+        "price_rsd": null
+      }
+    ]
+  }
+]

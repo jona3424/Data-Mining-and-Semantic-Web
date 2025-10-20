@@ -1,0 +1,21 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/spanija/madrid/porcel-torre-garden?SearchType=1&Hotel=19457&P=1&CheckIn=2025-11-09&Night=4&HpCode=MADKT9&ClId=282",
+    "title": "PORCEL TORRE GARDEN",
+    "location": "SPANIJA - MADRID",
+    "stars_raw": "6",
+    "departure_date_raw": "09.11.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1598,
+        "price_rsd": null
+      }
+    ]
+  }
+]

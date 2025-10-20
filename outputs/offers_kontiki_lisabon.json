@@ -1,0 +1,40 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/portugal/lisabon/masa-hotel-campo-grande?SearchId=8234ed70-7ef6-42b5-9515-14a58d50e1d5&SearchType=1&Hotel=16717&P=1&CheckIn=2025-12-28&Night=4&HpCode=DECLISAB25",
+    "title": "MASA HOTEL CAMPO GRANDE",
+    "location": "PORTUGAL - LISABON",
+    "stars_raw": "8",
+    "departure_date_raw": "28.12.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1798,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/portugal/lisabon/masa-hotel-campo-grande?SearchType=1&Hotel=16717&P=1&CheckIn=2025-10-21&Night=4&HpCode=OKT25LISAB&ClId=38",
+    "title": "MASA HOTEL CAMPO GRANDE",
+    "location": "PORTUGAL - LISABON",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1598,
+        "price_rsd": null
+      }
+    ]
+  }
+]

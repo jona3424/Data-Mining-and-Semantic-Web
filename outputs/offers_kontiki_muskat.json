@@ -1,0 +1,3945 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-waha-shangrila?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=13539&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "AL WAHA SHANGRILA",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3610,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-millenium-muscat?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=18729&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "GRAND MILLENIUM MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLUB ROOM WITH EXECUTIVE LOUNGE ACCESS",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3190,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jumeirah-muscat-bay?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=18727&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "JUMEIRAH MUSCAT BAY",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE GARDEN",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5258,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/radisson-blu-hotel-muscat?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=6340&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "RADISSON BLU HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROH",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2130,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-hyatt-muscat?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=6336&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "GRAND HYATT MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/kempinski-hotel-muscat?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=18723&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "KEMPINSKI HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3830,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jw-marriott-hotel-muscat?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=18738&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "JW MARRIOTT HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3058,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/kempinski-hotel-muscat?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=18723&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "KEMPINSKI HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3830,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/radisson-blu-hotel-muscat?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=6340&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "RADISSON BLU HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROH",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2130,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-millenium-muscat?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=18729&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "GRAND MILLENIUM MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLUB ROOM WITH EXECUTIVE LOUNGE ACCESS",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2770,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/intercontinental-muscat?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=13424&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "INTERCONTINENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3950,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/sheraton-oman?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=18724&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "SHERATON OMAN HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2350,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-hyatt-muscat?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=6336&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "GRAND HYATT MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-waha-shangrila?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=13539&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "AL WAHA SHANGRILA",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3610,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/shangri-la-al-husn-muscat?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=13425&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "SHANGRI LA AL HUSN MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jumeirah-muscat-bay?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=18727&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "JUMEIRAH MUSCAT BAY",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE GARDEN",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5258,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-chedi-muscat?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=6332&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "THE CHEDI MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "15.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-chedi-muscat?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=6332&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "THE CHEDI MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/kempinski-hotel-muscat?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=18723&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "KEMPINSKI HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/w-muscat-hotel?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=18726&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "W MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "WONDERFUL ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/radisson-blu-hotel-muscat?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=6340&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "RADISSON BLU HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROH",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2130,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-millenium-muscat?SearchType=1&Hotel=18729&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "GRAND MILLENIUM MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLUB ROOM WITH EXECUTIVE LOUNGE ACCESS",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2770,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-st-regis-al-mouj-muscat-resort?SearchType=1&Hotel=18737&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "THE ST REGIS AL MOUJ MUSCAT RESORT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jumeirah-muscat-bay?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=18727&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "JUMEIRAH MUSCAT BAY",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE GARDEN",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4710,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-chedi-muscat?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=6332&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "THE CHEDI MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/shangri-la-al-husn-muscat?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=13425&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "SHANGRI LA AL HUSN MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-bustan-palace---a-ritz-carlton-hotel?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=6329&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "AL BUSTAN PALACE - A RITZ CARLTON HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4370,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/intercontinental-muscat?SearchType=1&Hotel=13424&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "INTERCONTINENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3950,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/kempinski-hotel-muscat?SearchType=1&Hotel=18723&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "KEMPINSKI HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/crown-plaza-muscat-an-ihg?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=6339&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "CROWN PLAZA MUSCAT AN IHG",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3578,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/intercontinental-muscat?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=13424&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "INTERCONTINENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3478,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jumeirah-muscat-bay?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=18727&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "JUMEIRAH MUSCAT BAY",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "15.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE GARDEN",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5258,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-st-regis-al-mouj-muscat-resort?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=18737&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "THE ST REGIS AL MOUJ MUSCAT RESORT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/sheraton-oman?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=18724&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "SHERATON OMAN HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2350,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/mandarin-oriental-muscat?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=18736&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "MANDARIN ORIENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 6030,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/intercontinental-muscat?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=13424&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "INTERCONTINENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3950,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/mandarin-oriental-muscat?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=18736&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "MANDARIN ORIENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5478,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-millenium-muscat?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=18729&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "GRAND MILLENIUM MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLUB ROOM WITH EXECUTIVE LOUNGE ACCESS",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2770,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/intercontinental-muscat?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=13424&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "INTERCONTINENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3950,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jumeirah-muscat-bay?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=18727&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "JUMEIRAH MUSCAT BAY",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE GARDEN",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4498,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/crown-plaza-muscat-an-ihg?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=6339&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "CROWN PLAZA MUSCAT AN IHG",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3530,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/mandarin-oriental-muscat?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=18736&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "MANDARIN ORIENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5730,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-millenium-muscat?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=18729&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "GRAND MILLENIUM MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLUB ROOM WITH EXECUTIVE LOUNGE ACCESS",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2770,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/w-muscat-hotel?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=18726&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "W MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "WONDERFUL ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4078,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/sheraton-oman?SearchType=1&Hotel=18724&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "SHERATON OMAN HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2318,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-hyatt-muscat?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=6336&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "GRAND HYATT MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/radisson-blu-hotel-muscat?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=6340&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "RADISSON BLU HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROH",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2130,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jumeirah-muscat-bay?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=18727&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "JUMEIRAH MUSCAT BAY",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE GARDEN",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5258,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/mandarin-oriental-muscat?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=18736&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "MANDARIN ORIENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5730,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/mandarin-oriental-muscat?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=18736&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "MANDARIN ORIENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 6030,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/mandarin-oriental-muscat?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=18736&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "MANDARIN ORIENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 6030,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-millenium-muscat?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=18729&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "GRAND MILLENIUM MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLUB ROOM WITH EXECUTIVE LOUNGE ACCESS",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3190,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-millenium-muscat?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=18729&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "GRAND MILLENIUM MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLUB ROOM WITH EXECUTIVE LOUNGE ACCESS",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3190,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/crown-plaza-muscat-an-ihg?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=6339&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "CROWN PLAZA MUSCAT AN IHG",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3578,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/radisson-blu-hotel-muscat?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=6340&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "RADISSON BLU HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROH",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2390,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jumeirah-muscat-bay?SearchType=1&Hotel=18727&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "JUMEIRAH MUSCAT BAY",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE GARDEN",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4710,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/intercontinental-muscat?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=13424&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "INTERCONTINENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3950,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jw-marriott-hotel-muscat?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=18738&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "JW MARRIOTT HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3238,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-st-regis-al-mouj-muscat-resort?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=18737&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "THE ST REGIS AL MOUJ MUSCAT RESORT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/radisson-blu-hotel-muscat?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=6340&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "RADISSON BLU HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROH",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2130,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-waha-shangrila?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=13539&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "AL WAHA SHANGRILA",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3610,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/intercontinental-muscat?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=13424&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "INTERCONTINENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3478,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-chedi-muscat?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=6332&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "THE CHEDI MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-hyatt-muscat?SearchType=1&Hotel=6336&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "GRAND HYATT MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-st-regis-al-mouj-muscat-resort?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=18737&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "THE ST REGIS AL MOUJ MUSCAT RESORT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/crown-plaza-muscat-an-ihg?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=6339&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "CROWN PLAZA MUSCAT AN IHG",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3530,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/kempinski-hotel-muscat?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=18723&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "KEMPINSKI HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-chedi-muscat?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=6332&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "THE CHEDI MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/radisson-blu-hotel-muscat?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=6340&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "RADISSON BLU HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROH",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2130,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-waha-shangrila?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=13539&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "AL WAHA SHANGRILA",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3610,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/radisson-blu-hotel-muscat?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=6340&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "RADISSON BLU HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROH",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2130,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-chedi-muscat?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=6332&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "THE CHEDI MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/crown-plaza-muscat-an-ihg?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=6339&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "CROWN PLAZA MUSCAT AN IHG",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-chedi-muscat?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=6332&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "THE CHEDI MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-millenium-muscat?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=18729&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "GRAND MILLENIUM MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLUB ROOM WITH EXECUTIVE LOUNGE ACCESS",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2770,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/mandarin-oriental-muscat?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=18736&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "MANDARIN ORIENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5478,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-waha-shangrila?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=13539&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "AL WAHA SHANGRILA",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3610,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/shangri-la-al-husn-muscat?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=13425&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "SHANGRI LA AL HUSN MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/sheraton-oman?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=18724&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "SHERATON OMAN HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2350,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-bustan-palace---a-ritz-carlton-hotel?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=6329&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "AL BUSTAN PALACE - A RITZ CARLTON HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4598,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jw-marriott-hotel-muscat?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=18738&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "JW MARRIOTT HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3238,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/sheraton-oman?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=18724&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "SHERATON OMAN HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2318,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-st-regis-al-mouj-muscat-resort?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=18737&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "THE ST REGIS AL MOUJ MUSCAT RESORT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-hyatt-muscat?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=6336&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "GRAND HYATT MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-hyatt-muscat?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=6336&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "GRAND HYATT MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/w-muscat-hotel?SearchType=1&Hotel=18726&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "W MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "WONDERFUL ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4078,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/shangri-la-al-husn-muscat?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=13425&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "SHANGRI LA AL HUSN MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jumeirah-muscat-bay?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=18727&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "JUMEIRAH MUSCAT BAY",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE GARDEN",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5258,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/w-muscat-hotel?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=18726&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "W MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "WONDERFUL ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-bustan-palace---a-ritz-carlton-hotel?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=6329&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "AL BUSTAN PALACE - A RITZ CARLTON HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4598,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/shangri-la-al-husn-muscat?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=13425&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "SHANGRI LA AL HUSN MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/kempinski-hotel-muscat?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=18723&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "KEMPINSKI HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jw-marriott-hotel-muscat?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=18738&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "JW MARRIOTT HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3238,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-bustan-palace---a-ritz-carlton-hotel?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=6329&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "AL BUSTAN PALACE - A RITZ CARLTON HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4598,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-st-regis-al-mouj-muscat-resort?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=18737&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "THE ST REGIS AL MOUJ MUSCAT RESORT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/shangri-la-al-husn-muscat?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=13425&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "KonTiki Travel",
+    "location": null,
+    "stars_raw": null,
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jumeirah-muscat-bay?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=18727&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "JUMEIRAH MUSCAT BAY",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE GARDEN",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4498,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/shangri-la-al-husn-muscat?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=13425&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "SHANGRI LA AL HUSN MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-bustan-palace---a-ritz-carlton-hotel?SearchType=1&Hotel=6329&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "AL BUSTAN PALACE - A RITZ CARLTON HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4598,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/shangri-la-al-husn-muscat?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=13425&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "SHANGRI LA AL HUSN MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/w-muscat-hotel?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=18726&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "W MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "WONDERFUL ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4078,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/shangri-la-al-husn-muscat?SearchType=1&Hotel=13425&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "SHANGRI LA AL HUSN MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/intercontinental-muscat?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=13424&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "INTERCONTINENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3478,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/kempinski-hotel-muscat?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=18723&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "KEMPINSKI HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/w-muscat-hotel?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=18726&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "W MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "WONDERFUL ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4078,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/sheraton-oman?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=18724&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "SHERATON OMAN HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2350,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/shangri-la-al-husn-muscat?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=13425&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "SHANGRI LA AL HUSN MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-chedi-muscat?SearchType=1&Hotel=6332&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "THE CHEDI MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/sheraton-oman?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=18724&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "SHERATON OMAN HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2318,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-bustan-palace---a-ritz-carlton-hotel?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=6329&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "AL BUSTAN PALACE - A RITZ CARLTON HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4598,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-waha-shangrila?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=13539&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "AL WAHA SHANGRILA",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3610,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/kempinski-hotel-muscat?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=18723&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "KEMPINSKI HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jumeirah-muscat-bay?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=18727&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "JUMEIRAH MUSCAT BAY",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE GARDEN",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4710,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/intercontinental-muscat?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=13424&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "INTERCONTINENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3950,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jw-marriott-hotel-muscat?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=18738&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "JW MARRIOTT HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3238,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-chedi-muscat?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=6332&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "THE CHEDI MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-millenium-muscat?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=18729&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "GRAND MILLENIUM MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLUB ROOM WITH EXECUTIVE LOUNGE ACCESS",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3190,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/shangri-la-al-husn-muscat?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=13425&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "SHANGRI LA AL HUSN MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-chedi-muscat?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=6332&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "THE CHEDI MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/sheraton-oman?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=18724&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "SHERATON OMAN HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2350,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-waha-shangrila?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=13539&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "AL WAHA SHANGRILA",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3610,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-waha-shangrila?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=13539&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "AL WAHA SHANGRILA",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3610,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-hyatt-muscat?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=6336&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "GRAND HYATT MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-hyatt-muscat?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=6336&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "GRAND HYATT MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jw-marriott-hotel-muscat?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=18738&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "JW MARRIOTT HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3058,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-bustan-palace---a-ritz-carlton-hotel?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=6329&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "AL BUSTAN PALACE - A RITZ CARLTON HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "15.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4598,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/mandarin-oriental-muscat?SearchType=1&Hotel=18736&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "MANDARIN ORIENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5478,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/mandarin-oriental-muscat?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=18736&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "MANDARIN ORIENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5730,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/w-muscat-hotel?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=18726&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "W MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "WONDERFUL ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-bustan-palace---a-ritz-carlton-hotel?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=6329&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "AL BUSTAN PALACE - A RITZ CARLTON HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4370,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-millenium-muscat?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=18729&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "GRAND MILLENIUM MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLUB ROOM WITH EXECUTIVE LOUNGE ACCESS",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3190,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-chedi-muscat?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=6332&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "THE CHEDI MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/crown-plaza-muscat-an-ihg?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=6339&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "CROWN PLAZA MUSCAT AN IHG",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/crown-plaza-muscat-an-ihg?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=6339&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "CROWN PLAZA MUSCAT AN IHG",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3578,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jumeirah-muscat-bay?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=18727&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "JUMEIRAH MUSCAT BAY",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE GARDEN",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4710,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-waha-shangrila?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=13539&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "AL WAHA SHANGRILA",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3610,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-waha-shangrila?SearchType=1&Hotel=13539&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "AL WAHA SHANGRILA",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3610,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/mandarin-oriental-muscat?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=18736&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "MANDARIN ORIENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "15.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5730,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/crown-plaza-muscat-an-ihg?SearchType=1&Hotel=6339&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "CROWN PLAZA MUSCAT AN IHG",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3578,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/radisson-blu-hotel-muscat?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=6340&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "RADISSON BLU HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROH",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2390,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-bustan-palace---a-ritz-carlton-hotel?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=6329&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "AL BUSTAN PALACE - A RITZ CARLTON HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4598,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-st-regis-al-mouj-muscat-resort?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=18737&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "THE ST REGIS AL MOUJ MUSCAT RESORT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-bustan-palace---a-ritz-carlton-hotel?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=6329&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "AL BUSTAN PALACE - A RITZ CARLTON HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4598,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/sheraton-oman?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=18724&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "SHERATON OMAN HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2318,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/w-muscat-hotel?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=18726&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "W MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "WONDERFUL ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4078,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/w-muscat-hotel?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=18726&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "W MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "WONDERFUL ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4078,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/shangri-la-al-husn-muscat?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=13425&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "SHANGRI LA AL HUSN MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-st-regis-al-mouj-muscat-resort?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=18737&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "THE ST REGIS AL MOUJ MUSCAT RESORT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/crown-plaza-muscat-an-ihg?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=6339&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "CROWN PLAZA MUSCAT AN IHG",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3578,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/w-muscat-hotel?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=18726&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "W MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "WONDERFUL ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4078,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/intercontinental-muscat?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=13424&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "INTERCONTINENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3950,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-hyatt-muscat?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=6336&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "GRAND HYATT MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-st-regis-al-mouj-muscat-resort?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=18737&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "THE ST REGIS AL MOUJ MUSCAT RESORT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/kempinski-hotel-muscat?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=18723&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "KEMPINSKI HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jw-marriott-hotel-muscat?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=18738&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "JW MARRIOTT HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3238,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/w-muscat-hotel?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=18726&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "W MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "WONDERFUL ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4078,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/w-muscat-hotel?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=18726&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "W MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "WONDERFUL ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4078,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/mandarin-oriental-muscat?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=18736&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "MANDARIN ORIENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5730,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-hyatt-muscat?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=6336&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "GRAND HYATT MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/sheraton-oman?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=18724&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "SHERATON OMAN HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2318,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/radisson-blu-hotel-muscat?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=6340&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "RADISSON BLU HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROH",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2390,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/kempinski-hotel-muscat?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=18723&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "KEMPINSKI HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-chedi-muscat?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=6332&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "THE CHEDI MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jw-marriott-hotel-muscat?SearchType=1&Hotel=18738&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "JW MARRIOTT HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3238,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/kempinski-hotel-muscat?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=18723&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "KEMPINSKI HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "15.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-hyatt-muscat?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=6336&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "GRAND HYATT MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "15.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/mandarin-oriental-muscat?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=18736&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "MANDARIN ORIENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5478,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/crown-plaza-muscat-an-ihg?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=6339&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "CROWN PLAZA MUSCAT AN IHG",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-bustan-palace---a-ritz-carlton-hotel?SearchId=ea49409b-beb0-410e-9bb6-3ed67a99a56f&SearchType=1&Hotel=6329&P=1&CheckIn=2025-12-03&Night=7&HpCode=OMANINDI",
+    "title": "AL BUSTAN PALACE - A RITZ CARLTON HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "03.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4370,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/w-muscat-hotel?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=18726&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "W MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "15.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "WONDERFUL ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4078,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/radisson-blu-hotel-muscat?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=6340&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "RADISSON BLU HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "15.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROH",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2130,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-bustan-palace---a-ritz-carlton-hotel?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=6329&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "AL BUSTAN PALACE - A RITZ CARLTON HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4598,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/intercontinental-muscat?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=13424&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "INTERCONTINENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "15.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3950,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/crown-plaza-muscat-an-ihg?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=6339&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "CROWN PLAZA MUSCAT AN IHG",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/sheraton-oman?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=18724&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "SHERATON OMAN HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "15.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2350,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/sheraton-oman?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=18724&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "SHERATON OMAN HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2350,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/intercontinental-muscat?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=13424&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "INTERCONTINENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3950,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-st-regis-al-mouj-muscat-resort?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=18737&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "THE ST REGIS AL MOUJ MUSCAT RESORT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/radisson-blu-hotel-muscat?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=6340&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "RADISSON BLU HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROH",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2130,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jumeirah-muscat-bay?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=18727&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "JUMEIRAH MUSCAT BAY",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE GARDEN",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4710,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-hyatt-muscat?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=6336&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "GRAND HYATT MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-st-regis-al-mouj-muscat-resort?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=18737&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "THE ST REGIS AL MOUJ MUSCAT RESORT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-waha-shangrila?SearchId=2790e3a4-d42a-4976-b069-8e56471c5477&SearchType=1&Hotel=13539&P=1&CheckIn=2025-12-17&Night=7&HpCode=OMANINDI",
+    "title": "AL WAHA SHANGRILA",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3610,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jw-marriott-hotel-muscat?SearchId=3929b9db-bf9a-4158-bedc-3b93a7eee307&SearchType=1&Hotel=18738&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI",
+    "title": "JW MARRIOTT HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3238,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-hyatt-muscat?SearchId=43187290-4b3f-4225-903a-91a6afe5b576&SearchType=1&Hotel=6336&P=1&CheckIn=2025-10-21&Night=7&HpCode=OMANINDI",
+    "title": "GRAND HYATT MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "21.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-chedi-muscat?SearchId=ee5f339e-6bb3-4c0a-a4cc-91a08fccb63b&SearchType=1&Hotel=6332&P=1&CheckIn=2025-11-17&Night=7&HpCode=OMANINDI",
+    "title": "THE CHEDI MUSCAT HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "17.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-waha-shangrila?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=13539&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "AL WAHA SHANGRILA",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3610,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jw-marriott-hotel-muscat?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=18738&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "JW MARRIOTT HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3058,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-st-regis-al-mouj-muscat-resort?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=18737&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "THE ST REGIS AL MOUJ MUSCAT RESORT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "15.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-bustan-palace---a-ritz-carlton-hotel?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=6329&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "AL BUSTAN PALACE - A RITZ CARLTON HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4598,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/intercontinental-muscat?SearchId=8ad2edac-de92-4b71-a978-94dde77fdc85&SearchType=1&Hotel=13424&P=1&CheckIn=2025-11-10&Night=7&HpCode=OMANINDI",
+    "title": "INTERCONTINENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "10.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3950,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-millenium-muscat?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=18729&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "GRAND MILLENIUM MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLUB ROOM WITH EXECUTIVE LOUNGE ACCESS",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3190,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-millenium-muscat?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=18729&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "GRAND MILLENIUM MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLUB ROOM WITH EXECUTIVE LOUNGE ACCESS",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3190,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/crown-plaza-muscat-an-ihg?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=6339&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "CROWN PLAZA MUSCAT AN IHG",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3530,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/kempinski-hotel-muscat?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=18723&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "KEMPINSKI HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3830,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/mandarin-oriental-muscat?SearchId=c60a87ca-8bfd-45ea-a510-6570aa5ccfcd&SearchType=1&Hotel=18736&P=1&CheckIn=2025-10-23&Night=7&HpCode=OMANINDI",
+    "title": "MANDARIN ORIENTAL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "23.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5478,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/grand-millenium-muscat?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=18729&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "GRAND MILLENIUM MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "15.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLUB ROOM WITH EXECUTIVE LOUNGE ACCESS",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3190,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/al-waha-shangrila?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=13539&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "AL WAHA SHANGRILA",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "15.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3610,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/shangri-la-al-husn-muscat?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=13425&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "SHANGRI LA AL HUSN MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jumeirah-muscat-bay?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=18727&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "JUMEIRAH MUSCAT BAY",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE GARDEN",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4498,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/crown-plaza-muscat-an-ihg?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=6339&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "CROWN PLAZA MUSCAT AN IHG",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "15.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/sheraton-oman?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=18724&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "SHERATON OMAN HOTEL",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2350,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/kempinski-hotel-muscat?SearchId=c3b646cc-a16f-4ea6-aa08-63cf5bea0b77&SearchType=1&Hotel=18723&P=1&CheckIn=2025-11-20&Night=7&HpCode=OMANINDI",
+    "title": "KEMPINSKI HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jw-marriott-hotel-muscat?SearchId=d08c3189-dbcb-4b44-b427-34ece57af20f&SearchType=1&Hotel=18738&P=1&CheckIn=2025-11-15&Night=7&HpCode=OMANINDI",
+    "title": "JW MARRIOTT HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "15.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3238,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jw-marriott-hotel-muscat?SearchId=ed279fc0-fe13-48ea-bfb0-e577ce251eaf&SearchType=1&Hotel=18738&P=1&CheckIn=2025-10-20&Night=7&HpCode=OMANINDI",
+    "title": "JW MARRIOTT HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "20.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3238,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/the-st-regis-al-mouj-muscat-resort?SearchId=0cdef557-b87b-4bbd-8915-1112383d9bf9&SearchType=1&Hotel=18737&P=1&CheckIn=2025-12-09&Night=7&HpCode=OMANINDI",
+    "title": "THE ST REGIS AL MOUJ MUSCAT RESORT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "09.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/radisson-blu-hotel-muscat?SearchType=1&Hotel=6340&P=1&CheckIn=2025-10-22&Night=7&HpCode=OMANINDI&ClId=255",
+    "title": "RADISSON BLU HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROH",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2130,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/oman/muskat/jw-marriott-hotel-muscat?SearchId=e39cdd78-46f1-4d87-9ad1-eaf263c10039&SearchType=1&Hotel=18738&P=1&CheckIn=2025-11-14&Night=7&HpCode=OMANINDI",
+    "title": "JW MARRIOTT HOTEL MUSCAT",
+    "location": "OMAN - MUSKAT",
+    "stars_raw": "10",
+    "departure_date_raw": "14.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3238,
+        "price_rsd": null
+      }
+    ]
+  }
+]

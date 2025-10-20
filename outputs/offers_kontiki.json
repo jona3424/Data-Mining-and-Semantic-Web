@@ -1,0 +1,3752 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/eftalia-aqua-resort?SearchType=1&Hotel=4517&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Eftalia Aqua Resort",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 209326.87,
+        "price_eur": null,
+        "price_rsd": 188909.45
+      },
+      {
+        "room_type": "Large Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 227800.42,
+        "price_eur": null,
+        "price_rsd": 204036.34
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 293842.23,
+        "price_eur": null,
+        "price_rsd": 258115.25
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/mc-arancia?SearchType=1&Hotel=28&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Mc Arancia",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 207955.67,
+        "price_eur": null,
+        "price_rsd": 166652.1
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 211564.45,
+        "price_eur": null,
+        "price_rsd": 168920.34
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 310392.01,
+        "price_eur": null,
+        "price_rsd": 231076.45
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/blue-diamond-alya-hotel?SearchType=1&Hotel=9746&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Blue Diamond Alya Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 204979.96,
+        "price_eur": null,
+        "price_rsd": 180306.56
+      },
+      {
+        "room_type": "Large Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 259159.51,
+        "price_eur": null,
+        "price_rsd": 222141.2
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/laguna-beach-alya-resort---spa?SearchType=1&Hotel=8505&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Laguna Beach Alya Resort & Spa",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (LandscapeView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 227034.1,
+        "price_eur": null,
+        "price_rsd": 197324.31
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 232535.33,
+        "price_eur": null,
+        "price_rsd": 201578.75
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 238052.97,
+        "price_eur": null,
+        "price_rsd": 205833.19
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 314071.17,
+        "price_eur": null,
+        "price_rsd": 264543.91
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/arsi-blue-beach?SearchType=1&Hotel=18365&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Arsi Blue Beach",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 147796.88,
+        "price_eur": null,
+        "price_rsd": 144286.17
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 150229.16,
+        "price_eur": null,
+        "price_rsd": 146554.4
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/long-beach-alanya?SearchType=1&Hotel=29&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Long Beach Alanya",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Without Balcony-Terrace Economy)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 257729.71,
+        "price_eur": null,
+        "price_rsd": 231530.63
+      },
+      {
+        "room_type": "RunOfHouse Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 259593.3,
+        "price_eur": null,
+        "price_rsd": 233082.52
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 261437.83,
+        "price_eur": null,
+        "price_rsd": 234631.75
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 270699.9,
+        "price_eur": null,
+        "price_rsd": 242384.55
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 270699.9,
+        "price_eur": null,
+        "price_rsd": 242384.55
+      },
+      {
+        "room_type": "Superior Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 279961.98,
+        "price_eur": null,
+        "price_rsd": 250137.35
+      },
+      {
+        "room_type": "Standard Room (Offer)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 279953.78,
+        "price_eur": null,
+        "price_rsd": 250137.35
+      },
+      {
+        "room_type": "Double Standard Room (SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 343837.46,
+        "price_eur": null,
+        "price_rsd": 303628.35
+      },
+      {
+        "room_type": "Villa (SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 343837.46,
+        "price_eur": null,
+        "price_rsd": 303628.35
+      },
+      {
+        "room_type": "Bunkbed FamilyRoom (Offer)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 356197.83,
+        "price_eur": null,
+        "price_rsd": 313979.09
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/vikingen-infinity-resort---spa?SearchType=1&Hotel=18926&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Vikingen Infinity Resort & Spa",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 199972.55,
+        "price_eur": null,
+        "price_rsd": 187586.64
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 206954.52,
+        "price_eur": null,
+        "price_rsd": 193731.94
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 213936.48,
+        "price_eur": null,
+        "price_rsd": 199877.24
+      },
+      {
+        "room_type": "Double Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 220918.44,
+        "price_eur": null,
+        "price_rsd": 206022.54
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 301906.8,
+        "price_eur": null,
+        "price_rsd": 277307.22
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/rubi-platinum-sign?SearchType=1&Hotel=15207&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Rubi Platinum Sign",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 318318.55,
+        "price_eur": null,
+        "price_rsd": 278158.65
+      },
+      {
+        "room_type": "Double Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 329395.58,
+        "price_eur": null,
+        "price_rsd": 287234.25
+      },
+      {
+        "room_type": "FamilyRoom (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 340490.35,
+        "price_eur": null,
+        "price_rsd": 296311.18
+      },
+      {
+        "room_type": "FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 352680.81,
+        "price_eur": null,
+        "price_rsd": 306295.15
+      },
+      {
+        "room_type": "Superior Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 591264.16,
+        "price_eur": null,
+        "price_rsd": 501659.03
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/rubi-platinum-spa-resort---suite?SearchType=1&Hotel=3019&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Rubi Platinum Spa Resort & Suite",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 281371.44,
+        "price_eur": null,
+        "price_rsd": 247904.86
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 292448.48,
+        "price_eur": null,
+        "price_rsd": 256980.47
+      },
+      {
+        "room_type": "Deluxe Room (With Jacuzzi)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 302237.86,
+        "price_eur": null,
+        "price_rsd": 264998.09
+      },
+      {
+        "room_type": "Deluxe Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 331622.42,
+        "price_eur": null,
+        "price_rsd": 289050.96
+      },
+      {
+        "room_type": "Standard Junior Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 390364.28,
+        "price_eur": null,
+        "price_rsd": 337154.06
+      },
+      {
+        "room_type": "Duplex Standard Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 466106.95,
+        "price_eur": null,
+        "price_rsd": 399173.8
+      },
+      {
+        "room_type": "SuiteVilla",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 488278.77,
+        "price_eur": null,
+        "price_rsd": 417326.34
+      },
+      {
+        "room_type": "FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 488278.77,
+        "price_eur": null,
+        "price_rsd": 417326.34
+      },
+      {
+        "room_type": "King Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 558474.71,
+        "price_eur": null,
+        "price_rsd": 474808.26
+      },
+      {
+        "room_type": "King Suite (SeaView, Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 586185.05,
+        "price_eur": null,
+        "price_rsd": 497498.61
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/kandelor-hotel?SearchType=1&Hotel=1812&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALKVW26XPE&ClId=231",
+    "title": "KANDELOR HOTEL",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1423.52,
+        "old_price_rsd": null,
+        "price_eur": 1261.07,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1748.42,
+        "old_price_rsd": null,
+        "price_eur": 1504.75,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/savk-hotel?SearchType=1&Hotel=8540&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Savk Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (LateralSeaView, Balcony)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 182315.95,
+        "price_eur": null,
+        "price_rsd": 172308.79
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 196277.01,
+        "price_eur": null,
+        "price_rsd": 184645.73
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/gold-island-selected?SearchType=1&Hotel=1522&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Gold Island Selected",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 239036.42,
+        "price_eur": null,
+        "price_rsd": 199877.24
+      },
+      {
+        "room_type": "Island Room (Pool Front)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 244516.77,
+        "price_eur": null,
+        "price_rsd": 203848.31
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/mukarnas-spa-resort?SearchType=1&Hotel=41&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Mukarnas Spa Resort",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 244424.34,
+        "price_eur": null,
+        "price_rsd": 217651.07
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 248122.59,
+        "price_eur": null,
+        "price_rsd": 220676.71
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 253661.11,
+        "price_eur": null,
+        "price_rsd": 225214.52
+      },
+      {
+        "room_type": "FamilyRoom (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 377437.46,
+        "price_eur": null,
+        "price_rsd": 326564.98
+      },
+      {
+        "room_type": "FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 394982.67,
+        "price_eur": null,
+        "price_rsd": 340935.78
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/holiday-garden-resort?SearchType=1&Hotel=4677&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Holiday Garden Resort",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 222905.33,
+        "price_eur": null,
+        "price_rsd": 176052.12
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 231924.56,
+        "price_eur": null,
+        "price_rsd": 181724.69
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 244558.6,
+        "price_eur": null,
+        "price_rsd": 189666.84
+      },
+      {
+        "room_type": "SingleUse Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 392463.55,
+        "price_eur": null,
+        "price_rsd": 282696.45
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/boulevard-hotel?SearchType=1&Hotel=10113&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Boulevard Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 163920.28,
+        "price_eur": null,
+        "price_rsd": 157899.57
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 167669.13,
+        "price_eur": null,
+        "price_rsd": 161303.92
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/parador-sky?SearchType=1&Hotel=18862&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Parador Sky",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 177860.1,
+        "price_eur": null,
+        "price_rsd": 166894.4
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 218481.72,
+        "price_eur": null,
+        "price_rsd": 202024.97
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 279406.31,
+        "price_eur": null,
+        "price_rsd": 254718.85
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/kaila-beach-hotel?SearchType=1&Hotel=6403&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Kaila Beach Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 214170.54,
+        "price_eur": null,
+        "price_rsd": 187397.28
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 225189.42,
+        "price_eur": null,
+        "price_rsd": 195906.16
+      },
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 228862.38,
+        "price_eur": null,
+        "price_rsd": 198742.45
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 272937.86,
+        "price_eur": null,
+        "price_rsd": 232777.97
+      },
+      {
+        "room_type": "Deluxe FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 294975.6,
+        "price_eur": null,
+        "price_rsd": 249795.72
+      },
+      {
+        "room_type": "Duplex MainBuilding FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 294975.6,
+        "price_eur": null,
+        "price_rsd": 249795.72
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/oba-star-hotel---spa?SearchType=1&Hotel=614&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Oba Star Hotel & Spa",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 Double Bed Standard Room (FrenchBalcony Economy)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 182964.35,
+        "price_eur": null,
+        "price_rsd": 159223.7
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 186612.01,
+        "price_eur": null,
+        "price_rsd": 161870.65
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/grand-kolibri-prestige---spa?SearchType=1&Hotel=18927&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Grand Kolibri Prestige & Spa",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Superior Room (Economy)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 194171.68,
+        "price_eur": null,
+        "price_rsd": 167353.89
+      },
+      {
+        "room_type": "Double Superior Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 198081.33,
+        "price_eur": null,
+        "price_rsd": 170190.17
+      },
+      {
+        "room_type": "Large Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 204083.35,
+        "price_eur": null,
+        "price_rsd": 174539.95
+      },
+      {
+        "room_type": "Double Superior Room (LandscapeView, Private Jacuzzi Terrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 213731.7,
+        "price_eur": null,
+        "price_rsd": 181535.35
+      },
+      {
+        "room_type": "Double Superior Room (SeaView, With Jacuzzi)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 231987.72,
+        "price_eur": null,
+        "price_rsd": 194771.38
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/botanik-hotel---resort?SearchType=1&Hotel=33&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Botanik Hotel & Resort",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 313888.01,
+        "price_eur": null,
+        "price_rsd": 243772.24
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/eftalia-ocean?SearchType=1&Hotel=10111&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Eftalia Ocean",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 218558.96,
+        "price_eur": null,
+        "price_rsd": 196472.89
+      },
+      {
+        "room_type": "Large Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 237032.51,
+        "price_eur": null,
+        "price_rsd": 211599.78
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 310004.24,
+        "price_eur": null,
+        "price_rsd": 271351.28
+      },
+      {
+        "room_type": "Standard FamilySuite (SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 373463.55,
+        "price_eur": null,
+        "price_rsd": 323312.9
+      },
+      {
+        "room_type": "3 Bedroom Standard Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 448280.23,
+        "price_eur": null,
+        "price_rsd": 384576.55
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/beach-club-doganay?SearchType=1&Hotel=25&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Beach Club Doganay",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 174934.24,
+        "price_eur": null,
+        "price_rsd": 164868.48
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 179025.1,
+        "price_eur": null,
+        "price_rsd": 168434.38
+      },
+      {
+        "room_type": "2 ConnectingRooms FamilyRoom (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 240818.55,
+        "price_eur": null,
+        "price_rsd": 222284.21
+      },
+      {
+        "room_type": "Standard FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 249053.95,
+        "price_eur": null,
+        "price_rsd": 229464.98
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/acar-hotel?SearchType=1&Hotel=12793&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Acar Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 179105.54,
+        "price_eur": null,
+        "price_rsd": 144474.19
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 182695.03,
+        "price_eur": null,
+        "price_rsd": 146554.4
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/elysee-rive?SearchType=1&Hotel=3007&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Elysee Rive",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 174394.29,
+        "price_eur": null,
+        "price_rsd": 155987.68
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 176222.57,
+        "price_eur": null,
+        "price_rsd": 157405.82
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/mary-hotel-alanya?SearchType=1&Hotel=18541&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Mary Hotel Alanya",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 246702.45,
+        "price_eur": null,
+        "price_rsd": 212518.73
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 255883.67,
+        "price_eur": null,
+        "price_rsd": 219609.46
+      },
+      {
+        "room_type": "Large Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 359250.01,
+        "price_eur": null,
+        "price_rsd": 299430.84
+      },
+      {
+        "room_type": "Large Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 375322.82,
+        "price_eur": null,
+        "price_rsd": 311840.61
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/numa-bay-exclusive-hotel?SearchType=1&Hotel=18412&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Numa Bay Exclusive Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 252188.98,
+        "price_eur": null,
+        "price_rsd": 212357.19
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 261324.56,
+        "price_eur": null,
+        "price_rsd": 219163.23
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 270477.87,
+        "price_eur": null,
+        "price_rsd": 225970.6
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 353286.85,
+        "price_eur": null,
+        "price_rsd": 287575.88
+      },
+      {
+        "room_type": "2 Bedroom Duplex Swim Up Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 446613.23,
+        "price_eur": null,
+        "price_rsd": 357008.11
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/grand-zaman-beach?SearchType=1&Hotel=8308&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Grand Zaman Beach",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 189547.51,
+        "price_eur": null,
+        "price_rsd": 176997.54
+      },
+      {
+        "room_type": "Large Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 236003.3,
+        "price_eur": null,
+        "price_rsd": 217178.35
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/gardenia-hotel-alanya?SearchType=1&Hotel=8298&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Gardenia Hotel Alanya",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 171837.74,
+        "price_eur": null,
+        "price_rsd": 154005.3
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 173680.28,
+        "price_eur": null,
+        "price_rsd": 155404.91
+      },
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 204867.07,
+        "price_eur": null,
+        "price_rsd": 179192.95
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 206690.56,
+        "price_eur": null,
+        "price_rsd": 180589.91
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/xoria-deluxe-hotel?SearchType=1&Hotel=11890&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Xoria Deluxe Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 202409.69,
+        "price_eur": null,
+        "price_rsd": 168272.84
+      },
+      {
+        "room_type": "Double Annex Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 206032.04,
+        "price_eur": null,
+        "price_rsd": 170730.43
+      },
+      {
+        "room_type": "Double MainBuilding Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 209672.13,
+        "price_eur": null,
+        "price_rsd": 173189.34
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 213294.48,
+        "price_eur": null,
+        "price_rsd": 175646.93
+      },
+      {
+        "room_type": "Double Standard Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 271629.63,
+        "price_eur": null,
+        "price_rsd": 215152.43
+      },
+      {
+        "room_type": "Large Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 300793.61,
+        "price_eur": null,
+        "price_rsd": 234904.53
+      },
+      {
+        "room_type": "Deluxe Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 300793.61,
+        "price_eur": null,
+        "price_rsd": 234904.53
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 359124.22,
+        "price_eur": null,
+        "price_rsd": 274411.35
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/sunprime-c-lounge-hotel?SearchType=1&Hotel=15633&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Sunprime C-Lounge Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 247098.04,
+        "price_eur": null,
+        "price_rsd": 233629.38
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 256443.59,
+        "price_eur": null,
+        "price_rsd": 242138.26
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 265789.12,
+        "price_eur": null,
+        "price_rsd": 250647.13
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 275134.67,
+        "price_eur": null,
+        "price_rsd": 259156.01
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/hatipoglu-beach?SearchType=1&Hotel=17149&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Hatipoglu Beach",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 152382.88,
+        "price_eur": null,
+        "price_rsd": 144852.9
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 157958.68,
+        "price_eur": null,
+        "price_rsd": 149674.06
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/xperia-grand-bali?SearchType=1&Hotel=1427&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALKVW26XPE&ClId=231",
+    "title": "XPERIA GRAND BALI",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD WITHOUT BALCONY",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1673.4,
+        "old_price_rsd": null,
+        "price_eur": 1349.41,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD WITH BALCONY",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1737.24,
+        "old_price_rsd": null,
+        "price_eur": 1390.91,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/grand-zaman-garden?SearchType=1&Hotel=10160&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Grand Zaman Garden",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Annex Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 180248.15,
+        "price_eur": null,
+        "price_rsd": 168961.38
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 182118.13,
+        "price_eur": null,
+        "price_rsd": 170568.88
+      },
+      {
+        "room_type": "Large Annex Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 222071.33,
+        "price_eur": null,
+        "price_rsd": 205124.78
+      },
+      {
+        "room_type": "Large Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 224850.37,
+        "price_eur": null,
+        "price_rsd": 207534.7
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/leodikya-kirman-premium?SearchType=1&Hotel=39&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Leodikya Kirman Premium",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 388732.23,
+        "price_eur": null,
+        "price_rsd": 308412.43
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 397860.24,
+        "price_eur": null,
+        "price_rsd": 315030.46
+      },
+      {
+        "room_type": "Double Standard Room (Private Jacuzzi Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 406988.25,
+        "price_eur": null,
+        "price_rsd": 321648.47
+      },
+      {
+        "room_type": "Standard Junior Suite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 434372.27,
+        "price_eur": null,
+        "price_rsd": 341502.51
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 461756.3,
+        "price_eur": null,
+        "price_rsd": 361356.57
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 473162.88,
+        "price_eur": null,
+        "price_rsd": 369629.75
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/the-lumos-deluxe-resort-hotel---spa?SearchType=1&Hotel=6666&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "The Lumos Deluxe Resort Hotel & Spa",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 237329.02,
+        "price_eur": null,
+        "price_rsd": 185127.72
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 246348.26,
+        "price_eur": null,
+        "price_rsd": 190800.3
+      },
+      {
+        "room_type": "Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 307685.1,
+        "price_eur": null,
+        "price_rsd": 229374.94
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 378039.86,
+        "price_eur": null,
+        "price_rsd": 273620.85
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/xperia-saray-beach?SearchType=1&Hotel=1428&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALKVW26XPE&ClId=231",
+    "title": "XPERIA SARAY BEACH",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD WITHOUT BALCONY",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1896.84,
+        "old_price_rsd": null,
+        "price_eur": 1552.1,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD ROOM SIDE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1992.6,
+        "old_price_rsd": null,
+        "price_eur": 1619.14,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/holiday-park-resort?SearchType=1&Hotel=4678&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Holiday Park Resort",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 222905.33,
+        "price_eur": null,
+        "price_rsd": 176052.12
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 231924.56,
+        "price_eur": null,
+        "price_rsd": 181724.69
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 244558.6,
+        "price_eur": null,
+        "price_rsd": 189666.84
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 326626.62,
+        "price_eur": null,
+        "price_rsd": 241286.85
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/grand-alisa-hotel?SearchType=1&Hotel=13324&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Grand Alisa Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 182704.7,
+        "price_eur": null,
+        "price_rsd": 159034.36
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 225733.22,
+        "price_eur": null,
+        "price_rsd": 190233.57
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/cook-s-club-alanya?SearchType=1&Hotel=13824&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Cook's Club Alanya",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 184786.89,
+        "price_eur": null,
+        "price_rsd": 164706.94
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 195805.76,
+        "price_eur": null,
+        "price_rsd": 173215.82
+      },
+      {
+        "room_type": "Double Studio",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 197650.45,
+        "price_eur": null,
+        "price_rsd": 174633.97
+      },
+      {
+        "room_type": "Double Studio (LateralSeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 208652.9,
+        "price_eur": null,
+        "price_rsd": 183142.84
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 208652.9,
+        "price_eur": null,
+        "price_rsd": 183142.84
+      },
+      {
+        "room_type": "Double Suite",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 210497.59,
+        "price_eur": null,
+        "price_rsd": 184560.99
+      },
+      {
+        "room_type": "Double Studio (SeaView, Balcony or Terrace)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 219688.18,
+        "price_eur": null,
+        "price_rsd": 191651.72
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 219671.78,
+        "price_eur": null,
+        "price_rsd": 191651.72
+      },
+      {
+        "room_type": "Suite (LateralSeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 221516.46,
+        "price_eur": null,
+        "price_rsd": 193069.87
+      },
+      {
+        "room_type": "Double Studio",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 221516.46,
+        "price_eur": null,
+        "price_rsd": 193069.87
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/michell-hotel?SearchType=1&Hotel=8830&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Michell Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 226520.12,
+        "price_eur": null,
+        "price_rsd": 178321.68
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 237329.02,
+        "price_eur": null,
+        "price_rsd": 185127.72
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/palmeras-beach-hotel?SearchType=1&Hotel=16863&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Palmeras Beach Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Economy)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 231723.37,
+        "price_eur": null,
+        "price_rsd": 194582.03
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 233556.06,
+        "price_eur": null,
+        "price_rsd": 195906.16
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 302016.14,
+        "price_eur": null,
+        "price_rsd": 245541.29
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/gardenia-beach?SearchType=1&Hotel=8294&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Gardenia Beach",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 198563.82,
+        "price_eur": null,
+        "price_rsd": 174394.29
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 200406.37,
+        "price_eur": null,
+        "price_rsd": 175793.91
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 210780.47,
+        "price_eur": null,
+        "price_rsd": 183709.57
+      },
+      {
+        "room_type": "Large Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 229149.2,
+        "price_eur": null,
+        "price_rsd": 197721.55
+      },
+      {
+        "room_type": "Large Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 231533.21,
+        "price_eur": null,
+        "price_rsd": 199539.58
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 257475.65,
+        "price_eur": null,
+        "price_rsd": 219330.08
+      },
+      {
+        "room_type": "2 ConnectingRooms Comfort FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 288612.01,
+        "price_eur": null,
+        "price_rsd": 243077.07
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/royalisa-palmiye-beach-hotel?SearchType=1&Hotel=14170&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Royalisa Palmiye Beach Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 183749.82,
+        "price_eur": null,
+        "price_rsd": 155631.33
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 190994.55,
+        "price_eur": null,
+        "price_rsd": 160546.52
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 196454.02,
+        "price_eur": null,
+        "price_rsd": 164234.23
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/saphir-resort---spa?SearchType=1&Hotel=36&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Saphir Resort & Spa",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 291444.48,
+        "price_eur": null,
+        "price_rsd": 219163.23
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 300463.72,
+        "price_eur": null,
+        "price_rsd": 224835.82
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 453343.44,
+        "price_eur": null,
+        "price_rsd": 320986.4
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/q-premium-resort?SearchType=1&Hotel=2451&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Q Premium Resort",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double RunOfHouse Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 251770.45,
+        "price_eur": null,
+        "price_rsd": 194204.65
+      },
+      {
+        "room_type": "Large Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 329328.85,
+        "price_eur": null,
+        "price_rsd": 242988.36
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/sun-star-resort?SearchType=1&Hotel=18864&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Sun Star Resort",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 201913.64,
+        "price_eur": null,
+        "price_rsd": 157696.98
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 205503.14,
+        "price_eur": null,
+        "price_rsd": 159777.2
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 287139.23,
+        "price_eur": null,
+        "price_rsd": 207133.48
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/villa-sunflower-hotel?SearchType=1&Hotel=17992&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Villa Sunflower Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Superior Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 170597.26,
+        "price_eur": null,
+        "price_rsd": 143151.39
+      },
+      {
+        "room_type": "Suite (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 172404.66,
+        "price_eur": null,
+        "price_rsd": 144286.17
+      },
+      {
+        "room_type": "Suite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 174194.32,
+        "price_eur": null,
+        "price_rsd": 145419.62
+      },
+      {
+        "room_type": "Suite (PoolView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 176001.71,
+        "price_eur": null,
+        "price_rsd": 146554.4
+      },
+      {
+        "room_type": "Upper Floor Suite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 177809.1,
+        "price_eur": null,
+        "price_rsd": 147689.18
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/alaaddin-beach-hotel?SearchType=1&Hotel=12901&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Alaaddin Beach Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (LateralSeaView, Economy)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 186360.22,
+        "price_eur": null,
+        "price_rsd": 178321.68
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 190091.34,
+        "price_eur": null,
+        "price_rsd": 181724.69
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/sunpark-garden-hotel?SearchType=1&Hotel=17993&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Sunpark Garden Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 146212.64,
+        "price_eur": null,
+        "price_rsd": 134925.87
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 149885.6,
+        "price_eur": null,
+        "price_rsd": 137762.17
+      },
+      {
+        "room_type": "FamilyRoom (PoolView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 160920.88,
+        "price_eur": null,
+        "price_rsd": 146271.05
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 168250.38,
+        "price_eur": null,
+        "price_rsd": 151943.62
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 171923.34,
+        "price_eur": null,
+        "price_rsd": 154779.92
+      },
+      {
+        "room_type": "FamilyRoom (PoolView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 182958.61,
+        "price_eur": null,
+        "price_rsd": 163288.8
+      },
+      {
+        "room_type": "2 ConnectingRooms FamilyRoom",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 203151.68,
+        "price_eur": null,
+        "price_rsd": 178888.41
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 219671.78,
+        "price_eur": null,
+        "price_rsd": 191651.72
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 223344.74,
+        "price_eur": null,
+        "price_rsd": 194488.01
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom (PoolView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 225189.42,
+        "price_eur": null,
+        "price_rsd": 195906.16
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/mylome-luxury-hotel---resort?SearchType=1&Hotel=16147&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Mylome Luxury Hotel & Resort",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 298756.13,
+        "price_eur": null,
+        "price_rsd": 243177.71
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 312899.87,
+        "price_eur": null,
+        "price_rsd": 253435.76
+      },
+      {
+        "room_type": "Double Superior Room (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 329406.02,
+        "price_eur": null,
+        "price_rsd": 265395.33
+      },
+      {
+        "room_type": "Superior Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 359395.71,
+        "price_eur": null,
+        "price_rsd": 287140.24
+      },
+      {
+        "room_type": "Superior Room (SeaView, SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 379608.9,
+        "price_eur": null,
+        "price_rsd": 301794.41
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 445296.25,
+        "price_eur": null,
+        "price_rsd": 349420.83
+      },
+      {
+        "room_type": "Standard FamilyRoom (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 490770.41,
+        "price_eur": null,
+        "price_rsd": 382393.07
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/arsi-hotel?SearchType=1&Hotel=4&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Arsi Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 147796.88,
+        "price_eur": null,
+        "price_rsd": 144286.17
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 150229.16,
+        "price_eur": null,
+        "price_rsd": 146554.4
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/kleopatra-royal-palm?SearchType=1&Hotel=10189&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Kleopatra Royal Palm",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 178528.35,
+        "price_eur": null,
+        "price_rsd": 156008.72
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 231756.12,
+        "price_eur": null,
+        "price_rsd": 194601.89
+      },
+      {
+        "room_type": "Standard FamilyRoom (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 246818.56,
+        "price_eur": null,
+        "price_rsd": 205522.02
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/arycanda-kirman-premium?SearchType=1&Hotel=37&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Arycanda Kirman Premium",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 388732.23,
+        "price_eur": null,
+        "price_rsd": 308412.43
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 394212.58,
+        "price_eur": null,
+        "price_rsd": 312383.51
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 399692.93,
+        "price_eur": null,
+        "price_rsd": 316354.59
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 461756.3,
+        "price_eur": null,
+        "price_rsd": 361356.57
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/numa-konaktepe-hotel?SearchType=1&Hotel=18413&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Numa Konaktepe Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 186296.59,
+        "price_eur": null,
+        "price_rsd": 163345.73
+      },
+      {
+        "room_type": "Standard Room (PoolView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 191792.38,
+        "price_eur": null,
+        "price_rsd": 167430.68
+      },
+      {
+        "room_type": "Standard Room (Pool Access)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 199108.74,
+        "price_eur": null,
+        "price_rsd": 172876.84
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 231135.13,
+        "price_eur": null,
+        "price_rsd": 196700.64
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/ergun-hotel-alanya?SearchType=1&Hotel=617&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Ergun Hotel Alanya",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 159515.33,
+        "price_eur": null,
+        "price_rsd": 136182.47
+      },
+      {
+        "room_type": "Bunkbed Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 190951.37,
+        "price_eur": null,
+        "price_rsd": 155954.42
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/remi-hotel?SearchType=1&Hotel=13586&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Remi Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 153920.33,
+        "price_eur": null,
+        "price_rsd": 146554.4
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 155219.16,
+        "price_eur": null,
+        "price_rsd": 147689.18
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/insula-resort---spa-hotel?SearchType=1&Hotel=24&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Insula Resort & Spa Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 231924.56,
+        "price_eur": null,
+        "price_rsd": 181724.69
+      },
+      {
+        "room_type": "RunOfHouse FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 299568.89,
+        "price_eur": null,
+        "price_rsd": 224269.09
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/haydarpasha-palace?SearchType=1&Hotel=18429&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Haydarpasha Palace",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 259199.63,
+        "price_eur": null,
+        "price_rsd": 229752.33
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 262897.89,
+        "price_eur": null,
+        "price_rsd": 232777.97
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 264738.15,
+        "price_eur": null,
+        "price_rsd": 234290.12
+      },
+      {
+        "room_type": "Standard Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 266596.14,
+        "price_eur": null,
+        "price_rsd": 235803.61
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 268436.41,
+        "price_eur": null,
+        "price_rsd": 237315.77
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 337712.23,
+        "price_eur": null,
+        "price_rsd": 294041.62
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 337712.23,
+        "price_eur": null,
+        "price_rsd": 294041.62
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (2 Bathrooms)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 362653.96,
+        "price_eur": null,
+        "price_rsd": 314463.73
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/aria-resort---spa?SearchType=1&Hotel=14214&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Aria Resort & Spa",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (TypeB)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 258770.74,
+        "price_eur": null,
+        "price_rsd": 221837.98
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView, TypeB)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 266116.66,
+        "price_eur": null,
+        "price_rsd": 227510.57
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 275304.9,
+        "price_eur": null,
+        "price_rsd": 234601.29
+      },
+      {
+        "room_type": "Premium Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 345879.33,
+        "price_eur": null,
+        "price_rsd": 289098.63
+      },
+      {
+        "room_type": "SingleUse Standard Room (LateralSeaView, TypeB)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 350848.82,
+        "price_eur": null,
+        "price_rsd": 292947.88
+      },
+      {
+        "room_type": "Standard FamilyRoom (TypeB)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 404692.38,
+        "price_eur": null,
+        "price_rsd": 334520.37
+      },
+      {
+        "room_type": "Premium FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 544264.74,
+        "price_eur": null,
+        "price_rsd": 442299.48
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/granada-luxury-beach?SearchType=1&Hotel=12832&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Granada Luxury Beach",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 261057.62,
+        "price_eur": null,
+        "price_rsd": 231265.8
+      },
+      {
+        "room_type": "Standard Room (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 270294.4,
+        "price_eur": null,
+        "price_rsd": 238829.26
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 270294.4,
+        "price_eur": null,
+        "price_rsd": 238829.26
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 279531.18,
+        "price_eur": null,
+        "price_rsd": 246392.7
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 279531.18,
+        "price_eur": null,
+        "price_rsd": 246392.7
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 288767.95,
+        "price_eur": null,
+        "price_rsd": 253956.15
+      },
+      {
+        "room_type": "Suite (With Jacuzzi)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 384824.44,
+        "price_eur": null,
+        "price_rsd": 332614.94
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/tac-premier-hotel---spa?SearchType=1&Hotel=5276&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALKVW26XPE&ClId=231",
+    "title": "Tac Premier Hotel & Spa",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1587.68,
+        "old_price_rsd": null,
+        "price_eur": 1384.19,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/riviera-zen?SearchType=1&Hotel=18370&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Riviera Zen",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 197571.32,
+        "price_eur": null,
+        "price_rsd": 188532.06
+      },
+      {
+        "room_type": "Standard Room (Lateral Sea View or Pool View)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 201302.45,
+        "price_eur": null,
+        "price_rsd": 191935.09
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/elysee-beach?SearchType=1&Hotel=4513&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Elysee Beach",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 143760.39,
+        "price_eur": null,
+        "price_rsd": 136985.05
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/orange-county-resort-hotel-alanya?SearchType=1&Hotel=6900&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Orange County Resort Hotel Alanya",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 283755.93,
+        "price_eur": null,
+        "price_rsd": 195906.16
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 301576.88,
+        "price_eur": null,
+        "price_rsd": 205360.47
+      },
+      {
+        "room_type": "Large Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 424100.71,
+        "price_eur": null,
+        "price_rsd": 270359.51
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 475773.26,
+        "price_eur": null,
+        "price_rsd": 297777
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/blue-wave-suite-hotel?SearchType=1&Hotel=17291&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Blue Wave Suite Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Without Balcony-Terrace Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 186615.17,
+        "price_eur": null,
+        "price_rsd": 166125.09
+      },
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 190304.53,
+        "price_eur": null,
+        "price_rsd": 168961.38
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 237131.29,
+        "price_eur": null,
+        "price_rsd": 205124.78
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/botanik-platinum-hotel?SearchType=1&Hotel=3021&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Botanik Platinum Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 319329.74,
+        "price_eur": null,
+        "price_rsd": 247458.62
+      },
+      {
+        "room_type": "Standard Room (Seaside)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 322953.43,
+        "price_eur": null,
+        "price_rsd": 249917.54
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 330215.87,
+        "price_eur": null,
+        "price_rsd": 254834.04
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 436120.38,
+        "price_eur": null,
+        "price_rsd": 326558.35
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/kleopatra-ada-beach?SearchType=1&Hotel=10222&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Kleopatra Ada Beach",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 174359.02,
+        "price_eur": null,
+        "price_rsd": 152983.06
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 182702.35,
+        "price_eur": null,
+        "price_rsd": 159034.36
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 252070.57,
+        "price_eur": null,
+        "price_rsd": 209331.54
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/monart-city-hotel?SearchType=1&Hotel=8310&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Monart City Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Cozy Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 176731.73,
+        "price_eur": null,
+        "price_rsd": 167373.75
+      },
+      {
+        "room_type": "Comfort Room (LandscapeView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 180447.42,
+        "price_eur": null,
+        "price_rsd": 170662.89
+      },
+      {
+        "room_type": "Comfort Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 187368.15,
+        "price_eur": null,
+        "price_rsd": 176775.09
+      },
+      {
+        "room_type": "Superior Room (Seaside)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 192958.08,
+        "price_eur": null,
+        "price_rsd": 181708.81
+      },
+      {
+        "room_type": "Superior Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 202266.33,
+        "price_eur": null,
+        "price_rsd": 189934.32
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/kleopatra-arsi-hotel?SearchType=1&Hotel=10717&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Kleopatra Arsi Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 152679.18,
+        "price_eur": null,
+        "price_rsd": 148823.96
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 155111.48,
+        "price_eur": null,
+        "price_rsd": 151092.21
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/parador-beach-hotel-alanya?SearchType=1&Hotel=18861&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Parador Beach Hotel Alanya",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 178929.04,
+        "price_eur": null,
+        "price_rsd": 167813.35
+      },
+      {
+        "room_type": "Large Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 220074.43,
+        "price_eur": null,
+        "price_rsd": 203402.08
+      },
+      {
+        "room_type": "Double Standard Suite (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 240650.14,
+        "price_eur": null,
+        "price_rsd": 221197.1
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/incekum-beach-resort?SearchType=1&Hotel=1367&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Incekum Beach Resort",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 274845.46,
+        "price_eur": null,
+        "price_rsd": 191179.01
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 280191.74,
+        "price_eur": null,
+        "price_rsd": 194015.3
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 283755.93,
+        "price_eur": null,
+        "price_rsd": 195906.16
+      },
+      {
+        "room_type": "Standard FamilyRoom (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 408502.61,
+        "price_eur": null,
+        "price_rsd": 262086.33
+      },
+      {
+        "room_type": "2 ConnectingRooms FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 463747.56,
+        "price_eur": null,
+        "price_rsd": 291394.67
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom (Seaside)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 470875.94,
+        "price_eur": null,
+        "price_rsd": 295176.4
+      },
+      {
+        "room_type": "2 ConnectingRooms Classic Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 527991.68,
+        "price_eur": null,
+        "price_rsd": 325477.86
+      },
+      {
+        "room_type": "2 ConnectingRooms FamilyRoom (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 536372.71,
+        "price_eur": null,
+        "price_rsd": 329921.65
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/incekum-west-hotel?SearchType=1&Hotel=18105&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Incekum West Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 206824.63,
+        "price_eur": null,
+        "price_rsd": 181724.69
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 215998.82,
+        "price_eur": null,
+        "price_rsd": 188815.43
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 305534.3,
+        "price_eur": null,
+        "price_rsd": 257951.06
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/delphin-deluxe-resort?SearchType=1&Hotel=40&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Delphin Deluxe Resort",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 319329.74,
+        "price_eur": null,
+        "price_rsd": 247458.62
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 322953.43,
+        "price_eur": null,
+        "price_rsd": 249917.54
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 330215.87,
+        "price_eur": null,
+        "price_rsd": 254834.04
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 888763.61,
+        "price_eur": null,
+        "price_rsd": 633121.59
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/miray-hotel-kleopatra?SearchType=1&Hotel=4137&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Miray Hotel Kleopatra",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 150529.3,
+        "price_eur": null,
+        "price_rsd": 143245.39
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 152382.88,
+        "price_eur": null,
+        "price_rsd": 144852.9
+      },
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 157958.68,
+        "price_eur": null,
+        "price_rsd": 149674.06
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 159812.26,
+        "price_eur": null,
+        "price_rsd": 151281.56
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/eftalia-marin?SearchType=1&Hotel=6582&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Eftalia Marin",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double RunOfHouse Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 207479.57,
+        "price_eur": null,
+        "price_rsd": 187397.28
+      },
+      {
+        "room_type": "Large Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 225953.12,
+        "price_eur": null,
+        "price_rsd": 202524.17
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 290609.38,
+        "price_eur": null,
+        "price_rsd": 255468.3
+      },
+      {
+        "room_type": "Single RunOfHouse Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 290608.21,
+        "price_eur": null,
+        "price_rsd": 255468.3
+      },
+      {
+        "room_type": "Standard FamilySuite (SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 352954.11,
+        "price_eur": null,
+        "price_rsd": 306521.58
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/kaia-coracesium?SearchType=1&Hotel=17934&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Kaia Coracesium",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 200624.74,
+        "price_eur": null,
+        "price_rsd": 156954.14
+      },
+      {
+        "room_type": "Deluxe Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 211393.22,
+        "price_eur": null,
+        "price_rsd": 163194.78
+      },
+      {
+        "room_type": "Deluxe FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 289021.43,
+        "price_eur": null,
+        "price_rsd": 208225.89
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/eftalia-village-hotel?SearchType=1&Hotel=4514&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Eftalia Village Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 194592.51,
+        "price_eur": null,
+        "price_rsd": 181360.56
+      },
+      {
+        "room_type": "Large Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 213174.83,
+        "price_eur": null,
+        "price_rsd": 197432.89
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 268058.97,
+        "price_eur": null,
+        "price_rsd": 244903.05
+      },
+      {
+        "room_type": "3 Bedroom Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 317037.93,
+        "price_eur": null,
+        "price_rsd": 287266.03
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/sidera-kirman-premium?SearchType=1&Hotel=31&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Sidera Kirman Premium",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 361348.2,
+        "price_eur": null,
+        "price_rsd": 288558.39
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 368643.52,
+        "price_eur": null,
+        "price_rsd": 293852.27
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 375956.56,
+        "price_eur": null,
+        "price_rsd": 299147.48
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView, Private Jacuzzi Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 403340.58,
+        "price_eur": null,
+        "price_rsd": 319001.52
+      },
+      {
+        "room_type": "Double Room (SeaView, Private Jacuzzi Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 412468.6,
+        "price_eur": null,
+        "price_rsd": 325619.54
+      },
+      {
+        "room_type": "Double RunOfHouse FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 515608.01,
+        "price_eur": null,
+        "price_rsd": 400402.59
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/arsi-paradise-beach?SearchType=1&Hotel=18366&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Arsi Paradise Beach",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Best-Price)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 147796.88,
+        "price_eur": null,
+        "price_rsd": 144286.17
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 150229.16,
+        "price_eur": null,
+        "price_rsd": 146554.4
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/aydinbey-gold-dreams?SearchType=1&Hotel=27&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Aydinbey Gold Dreams",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 206172.04,
+        "price_eur": null,
+        "price_rsd": 176052.12
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 315708.15,
+        "price_eur": null,
+        "price_rsd": 255468.3
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/utopia-resort-and-residence?SearchType=1&Hotel=14426&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Utopia Resort And Residence",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 214873.75,
+        "price_eur": null,
+        "price_rsd": 193448.57
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 224110.52,
+        "price_eur": null,
+        "price_rsd": 201012.02
+      },
+      {
+        "room_type": "Standard Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 242584.07,
+        "price_eur": null,
+        "price_rsd": 216138.91
+      },
+      {
+        "room_type": "2 Rooms Residence FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 279890.5,
+        "price_eur": null,
+        "price_rsd": 246694.6
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 338825.64,
+        "price_eur": null,
+        "price_rsd": 294949.97
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/wien-star-hotel?SearchType=1&Hotel=14137&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Wien Star Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 142819.8,
+        "price_eur": null,
+        "price_rsd": 134453.16
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 148358.32,
+        "price_eur": null,
+        "price_rsd": 138990.95
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/gypsophila-holiday-village?SearchType=1&Hotel=17113&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Gypsophila Holiday Village",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 210924.44,
+        "price_eur": null,
+        "price_rsd": 200687.61
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 214655.57,
+        "price_eur": null,
+        "price_rsd": 204090.63
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 332677.55,
+        "price_eur": null,
+        "price_rsd": 311545.33
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/riviera-hotel---spa?SearchType=1&Hotel=4132&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Riviera Hotel & Spa",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 193822.47,
+        "price_eur": null,
+        "price_rsd": 185127.72
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 197571.32,
+        "price_eur": null,
+        "price_rsd": 188532.06
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/granada-luxury-okurcalar?SearchType=1&Hotel=1400&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Granada Luxury Okurcalar",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 262897.89,
+        "price_eur": null,
+        "price_rsd": 232777.97
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 281371.44,
+        "price_eur": null,
+        "price_rsd": 247904.86
+      },
+      {
+        "room_type": "Duplex FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 362653.96,
+        "price_eur": null,
+        "price_rsd": 314463.73
+      },
+      {
+        "room_type": "FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 392212.75,
+        "price_eur": null,
+        "price_rsd": 338666.22
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/hawaii-suite-beach-hotel?SearchType=1&Hotel=12548&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Hawaii Suite Beach Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Without Balcony-Terrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 169660,
+        "price_eur": null,
+        "price_rsd": 149580.05
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 175140.35,
+        "price_eur": null,
+        "price_rsd": 153551.13
+      },
+      {
+        "room_type": "Double Standard Suite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 230998.17,
+        "price_eur": null,
+        "price_rsd": 194053.69
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/utopia-beach-club?SearchType=1&Hotel=14427&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Utopia Beach Club",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 213015.75,
+        "price_eur": null,
+        "price_rsd": 191935.09
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 214873.75,
+        "price_eur": null,
+        "price_rsd": 193448.57
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 220412.27,
+        "price_eur": null,
+        "price_rsd": 197986.38
+      },
+      {
+        "room_type": "Double Standard Villa",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 220412.27,
+        "price_eur": null,
+        "price_rsd": 197986.38
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 331806.18,
+        "price_eur": null,
+        "price_rsd": 289201.91
+      },
+      {
+        "room_type": "Family Villa",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 331806.18,
+        "price_eur": null,
+        "price_rsd": 289201.91
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/arsi-enfi-city-beach?SearchType=1&Hotel=11214&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Arsi Enfi City Beach",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Without Balcony-Terrace Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 147796.88,
+        "price_eur": null,
+        "price_rsd": 144286.17
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 150229.16,
+        "price_eur": null,
+        "price_rsd": 146554.4
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/azura-deluxe-hotel?SearchType=1&Hotel=6538&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Azura Deluxe Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 259636.09,
+        "price_eur": null,
+        "price_rsd": 214814.78
+      },
+      {
+        "room_type": "Double Deluxe Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 265116.44,
+        "price_eur": null,
+        "price_rsd": 218785.86
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 274244.45,
+        "price_eur": null,
+        "price_rsd": 225403.87
+      },
+      {
+        "room_type": "Superior Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 318641.05,
+        "price_eur": null,
+        "price_rsd": 257596.18
+      },
+      {
+        "room_type": "Deluxe FamilyRoom (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 349347.83,
+        "price_eur": null,
+        "price_rsd": 279860.15
+      },
+      {
+        "room_type": "Deluxe FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 363039.85,
+        "price_eur": null,
+        "price_rsd": 289787.18
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/oba-time-hotel?SearchType=1&Hotel=13439&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231",
+    "title": "Oba Time Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 161699.74,
+        "price_eur": null,
+        "price_rsd": 146878.82
+      }
+    ]
+  }
+]

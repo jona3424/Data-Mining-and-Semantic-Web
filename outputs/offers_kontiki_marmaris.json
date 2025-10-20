@@ -1,0 +1,1133 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/labranda-mares-marmaris?SearchType=1&Hotel=3905&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "LABRANDA MARES",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Standard Bungalow (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 348471.62,
+        "price_eur": null,
+        "price_rsd": 313692.63
+      },
+      {
+        "room_type": "Double MainBuilding Room (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 375017.79,
+        "price_eur": null,
+        "price_rsd": 336653.09
+      },
+      {
+        "room_type": "Double MainBuilding Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 401563.96,
+        "price_eur": null,
+        "price_rsd": 359613.56
+      },
+      {
+        "room_type": "Double Superior MainBuilding Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 414848.76,
+        "price_eur": null,
+        "price_rsd": 371093.78
+      },
+      {
+        "room_type": "Family Bungalow (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 517038.62,
+        "price_eur": null,
+        "price_rsd": 459491.57
+      },
+      {
+        "room_type": "Superior Family Bungalow (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 552541.9,
+        "price_eur": null,
+        "price_rsd": 490202.19
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/aurasia-design-hotel?SearchType=1&Hotel=17139&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "AURASIA DESIGN HOTEL",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "6",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Economy)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 194513.22,
+        "price_eur": null,
+        "price_rsd": 180521.94
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 202479.41,
+        "price_eur": null,
+        "price_rsd": 187410.08
+      },
+      {
+        "room_type": "Deluxe Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 258219.34,
+        "price_eur": null,
+        "price_rsd": 235627.06
+      },
+      {
+        "room_type": "Large Deluxe Room (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 313959.26,
+        "price_eur": null,
+        "price_rsd": 283844.03
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/begonville-hotel-marmaris?SearchType=1&Hotel=8770&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "BEGONVILLE HOTEL",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "6",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 193909.58,
+        "price_eur": null,
+        "price_rsd": 175254.54
+      },
+      {
+        "room_type": "Standard Suite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 260793.64,
+        "price_eur": null,
+        "price_rsd": 230033.92
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 271097.95,
+        "price_eur": null,
+        "price_rsd": 238463.35
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/green-nature-diamond?SearchType=1&Hotel=5561&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "GREEN NATURE DIAMOND",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 373003.25,
+        "price_eur": null,
+        "price_rsd": 308762.88
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 400283.39,
+        "price_eur": null,
+        "price_rsd": 329832.49
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 432827.01,
+        "price_eur": null,
+        "price_rsd": 354953.94
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 709607.05,
+        "price_eur": null,
+        "price_rsd": 568688.84
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/aurasia-sea-side-hotel?SearchType=1&Hotel=17110&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "AURASIA SEASIDE HOTEL",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "6",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 189194.61,
+        "price_eur": null,
+        "price_rsd": 175929.85
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 197160.81,
+        "price_eur": null,
+        "price_rsd": 182817.99
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 218388.36,
+        "price_eur": null,
+        "price_rsd": 201186.35
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 239639.36,
+        "price_eur": null,
+        "price_rsd": 219554.73
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/golden-rock?SearchType=1&Hotel=3908&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "Golden Rock Beach Hotel",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 266185.53,
+        "price_eur": null,
+        "price_rsd": 242515.19
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 276799.31,
+        "price_eur": null,
+        "price_rsd": 251699.37
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 292731.7,
+        "price_eur": null,
+        "price_rsd": 265475.66
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/casa-de-maris-spa---resort?SearchType=1&Hotel=3907&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "CASA DE MARIS",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Standard Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 424154.09,
+        "price_eur": null,
+        "price_rsd": 348268.38
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 432036.43,
+        "price_eur": null,
+        "price_rsd": 354346.16
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 450412.93,
+        "price_eur": null,
+        "price_rsd": 368527.62
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/elite-world-marmaris?SearchType=1&Hotel=11756&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "ELITE WORLD MARMARIS HOTEL",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Deluxe Room (LandscapeView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 400553.95,
+        "price_eur": null,
+        "price_rsd": 330035.08
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 413659.93,
+        "price_eur": null,
+        "price_rsd": 340164.69
+      },
+      {
+        "room_type": "Double Deluxe Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 466154.18,
+        "price_eur": null,
+        "price_rsd": 380683.16
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/supreme-beach-marmaris?SearchType=1&Hotel=16566&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "SUPREME BEACH HOTEL",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 274108.65,
+        "price_eur": null,
+        "price_rsd": 232385.57
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 284584.07,
+        "price_eur": null,
+        "price_rsd": 240489.27
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 310838.23,
+        "price_eur": null,
+        "price_rsd": 260748.51
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/aurasia-beach-hotel?SearchType=1&Hotel=17140&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "AURASIA BEACH HOTEL",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "6",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Economy)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 205127,
+        "price_eur": null,
+        "price_rsd": 189706.13
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 213093.2,
+        "price_eur": null,
+        "price_rsd": 196594.27
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 234320.75,
+        "price_eur": null,
+        "price_rsd": 214962.63
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 255571.75,
+        "price_eur": null,
+        "price_rsd": 233331.01
+      },
+      {
+        "room_type": "SingleUse Standard Room (Economy)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 319277.87,
+        "price_eur": null,
+        "price_rsd": 288436.12
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/letoile-beach-hotel?SearchType=1&Hotel=6516&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "LETOILE BEACH HOTEL",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 294306.4,
+        "price_eur": null,
+        "price_rsd": 247985.19
+      },
+      {
+        "room_type": "Double Standard Room (PoolView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 299541.76,
+        "price_eur": null,
+        "price_rsd": 252037.03
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 307412.38,
+        "price_eur": null,
+        "price_rsd": 258114.8
+      },
+      {
+        "room_type": "Bunkbed Standard Room (LandscapeView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 345130.51,
+        "price_eur": null,
+        "price_rsd": 287237.78
+      },
+      {
+        "room_type": "Bunkbed Standard Room (PoolView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 351689.36,
+        "price_eur": null,
+        "price_rsd": 292302.59
+      },
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 395306.87,
+        "price_eur": null,
+        "price_rsd": 325983.24
+      },
+      {
+        "room_type": "Double Standard Room (PoolView, Balcony - Promotion)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 403699.85,
+        "price_eur": null,
+        "price_rsd": 332466.18
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/marti-resort?SearchType=1&Hotel=3938&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "MARTI RESORT",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Deluxe Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 431766.21,
+        "price_eur": null,
+        "price_rsd": 368653.12
+      },
+      {
+        "room_type": "Double Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 470491.83,
+        "price_eur": null,
+        "price_rsd": 400207.33
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/turunc-resort-hotel?SearchType=1&Hotel=15295&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "TURUNC RESORT HOTEL",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 333776.07,
+        "price_eur": null,
+        "price_rsd": 289786.74
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 346971.46,
+        "price_eur": null,
+        "price_rsd": 300591.66
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 479452.14,
+        "price_eur": null,
+        "price_rsd": 409073.9
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 479452.14,
+        "price_eur": null,
+        "price_rsd": 409073.9
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/begonville-beach-hotel?SearchType=1&Hotel=3943&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "BEGONVILLE BEACH",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "6",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 222930.07,
+        "price_eur": null,
+        "price_rsd": 199025.37
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 238755.17,
+        "price_eur": null,
+        "price_rsd": 211991.28
+      },
+      {
+        "room_type": "Double Standard Room (SeaFront)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 254603.7,
+        "price_eur": null,
+        "price_rsd": 224957.19
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/grand-yazici-club-marmaris-palace?SearchType=1&Hotel=4765&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "GRAND YAZICI MARMARIS PALACE HV1",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Standard Bungalow (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 383223.04,
+        "price_eur": null,
+        "price_rsd": 329104.67
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 385804.75,
+        "price_eur": null,
+        "price_rsd": 331208.29
+      },
+      {
+        "room_type": "Double Standard Bungalow (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 388391.13,
+        "price_eur": null,
+        "price_rsd": 333311.89
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 390963.47,
+        "price_eur": null,
+        "price_rsd": 335415.51
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 529352.46,
+        "price_eur": null,
+        "price_rsd": 448170.23
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/yunus-hotel?SearchType=1&Hotel=3916&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "YUNUS HOTEL",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 204587.85,
+        "price_eur": null,
+        "price_rsd": 189246.65
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 220520.23,
+        "price_eur": null,
+        "price_rsd": 203022.93
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 236452.62,
+        "price_eur": null,
+        "price_rsd": 216799.21
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/prime-beach-hotel?SearchType=1&Hotel=5127&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "PRIME BEACH HOTEL",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Promotion)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 301672.16
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 320580.77
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 334086.93
+      },
+      {
+        "room_type": "Standard Room (Beachfront)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 361099.24
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/hotel-aqua?SearchType=1&Hotel=3906&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "Hotel Aqua",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 390621.54,
+        "price_eur": null,
+        "price_rsd": 363131.13
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 401048.67,
+        "price_eur": null,
+        "price_rsd": 372597.39
+      },
+      {
+        "room_type": "Double Suite (Rooftop)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 553472.31,
+        "price_eur": null,
+        "price_rsd": 511041.47
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/orka-lotus-beach?SearchType=1&Hotel=3904&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "ORKA LOTUS BEACH",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Room (Without Balcony-Terrace Promotion)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 372382.26,
+        "price_eur": null,
+        "price_rsd": 320270.01
+      },
+      {
+        "room_type": "Standard Room (LandscapeView, Balcony)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 386447.83,
+        "price_eur": null,
+        "price_rsd": 331734.19
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView, Balcony)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 401220.81,
+        "price_eur": null,
+        "price_rsd": 343774.54
+      },
+      {
+        "room_type": "Standard Room (SeaView, Balcony)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 417716.58,
+        "price_eur": null,
+        "price_rsd": 357209.57
+      },
+      {
+        "room_type": "Double Superior Room (With Jacuzzi)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 433031.29,
+        "price_eur": null,
+        "price_rsd": 369679.15
+      },
+      {
+        "room_type": "Large Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 450129.48,
+        "price_eur": null,
+        "price_rsd": 383618.16
+      },
+      {
+        "room_type": "Large Superior Room (SeaView, Balcony)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 468089.88,
+        "price_eur": null,
+        "price_rsd": 398250.66
+      },
+      {
+        "room_type": "FamilyRoom (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 608066.66,
+        "price_eur": null,
+        "price_rsd": 512307.24
+      },
+      {
+        "room_type": "Standard FamilyRoom (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 633921.7,
+        "price_eur": null,
+        "price_rsd": 533374.32
+      },
+      {
+        "room_type": "FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 661055.41,
+        "price_eur": null,
+        "price_rsd": 555488.04
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/ada-julian-hotel-marmaris?SearchType=1&Hotel=15784&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "ADA JULIAN HOTEL MARMARIS",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 228237.03,
+        "price_eur": null,
+        "price_rsd": 182513.43
+      },
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 252450.78,
+        "price_eur": null,
+        "price_rsd": 198665.21
+      },
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 268611.55,
+        "price_eur": null,
+        "price_rsd": 209435.7
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/emre-hotel?SearchType=1&Hotel=3919&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "EMRE HOTEL & EMRE BEACH",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 259205.26,
+        "price_eur": null,
+        "price_rsd": 244135.93
+      },
+      {
+        "room_type": "Twin Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 277886.98,
+        "price_eur": null,
+        "price_rsd": 261153.69
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView, Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 293903.22,
+        "price_eur": null,
+        "price_rsd": 275740.34
+      },
+      {
+        "room_type": "Annex Suite (Balcony or Terrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 299257.59,
+        "price_eur": null,
+        "price_rsd": 280602.55
+      },
+      {
+        "room_type": "Suite (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 320604.77,
+        "price_eur": null,
+        "price_rsd": 300051.41
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 323270.23,
+        "price_eur": null,
+        "price_rsd": 302482.52
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/turunc-premium-hotel?SearchType=1&Hotel=11535&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "TURUNC PREMIUM HOTEL",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 331122.93,
+        "price_eur": null,
+        "price_rsd": 287625.75
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 346971.46,
+        "price_eur": null,
+        "price_rsd": 300591.66
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 362796.56,
+        "price_eur": null,
+        "price_rsd": 313557.56
+      },
+      {
+        "room_type": "Standard Room (PanoramaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 383904.5,
+        "price_eur": null,
+        "price_rsd": 330845.44
+      },
+      {
+        "room_type": "Premium Room (Private Jacuzzi Terrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 410295.29,
+        "price_eur": null,
+        "price_rsd": 352455.29
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/maris-beach?SearchType=1&Hotel=3914&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "Maris Beach Hotel",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "6",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Balcony)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 186542.34,
+        "price_eur": null,
+        "price_rsd": 173633.8
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 186542.34,
+        "price_eur": null,
+        "price_rsd": 173633.8
+      },
+      {
+        "room_type": "Twin Standard Room (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 202474.73,
+        "price_eur": null,
+        "price_rsd": 187410.08
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 252910.1,
+        "price_eur": null,
+        "price_rsd": 231034.96
+      },
+      {
+        "room_type": "Double Standard Room (Balcony)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 252907.76,
+        "price_eur": null,
+        "price_rsd": 231034.96
+      },
+      {
+        "room_type": "Twin Standard Room (SeaView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 268828.43,
+        "price_eur": null,
+        "price_rsd": 244811.23
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/grand-yazici-club-turban-thermal?SearchType=1&Hotel=3936&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "GRAND YAZICI CLUB TURBAN",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "8",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 424539.73,
+        "price_eur": null,
+        "price_rsd": 362762.49
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 491254,
+        "price_eur": null,
+        "price_rsd": 417121.3
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 591311.1,
+        "price_eur": null,
+        "price_rsd": 498656.95
+      },
+      {
+        "room_type": "Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1258424.24,
+        "price_eur": null,
+        "price_rsd": 1042229.66
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/marmaris/green-nature-resort---spa?SearchType=1&Hotel=16568&P=1&CheckIn=2026-06-03&Night=10&HpCode=MAR1OTS26K&ClId=298",
+    "title": "GREEN NATURE RESORT & SPA",
+    "location": "TURSKA - MARMARIS",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "10",
+    "rooms": [
+      {
+        "room_type": "Double Club Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 247475.91,
+        "price_eur": null,
+        "price_rsd": 219123.06
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 263308.04,
+        "price_eur": null,
+        "price_rsd": 232088.97
+      },
+      {
+        "room_type": "Double Club FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 329872.02,
+        "price_eur": null,
+        "price_rsd": 319236.77
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 354037.4,
+        "price_eur": null,
+        "price_rsd": 342332.3
+      }
+    ]
+  }
+]

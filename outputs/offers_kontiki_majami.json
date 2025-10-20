@@ -1,0 +1,755 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/generator-hostel-miami?SearchType=1&Hotel=16271&P=1&CheckIn=2025-10-22&Night=7&HpCode=MIA2526&ClId=277",
+    "title": "GENERATOR HOSTEL MIAMI",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "6",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2190,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/breakwater-south-beach?SearchId=1f35d753-3cb5-468c-9e6c-aa4f34050325&SearchType=1&Hotel=13444&P=1&CheckIn=2025-12-13&Night=7&HpCode=MIA2526",
+    "title": "BREAKWATER SOUTH BEACH",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "13.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2318,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/dream-south-beach-by-hilton?SearchType=1&Hotel=7028&P=1&CheckIn=2025-10-22&Night=7&HpCode=MIA2526&ClId=277",
+    "title": "DREAM SOUTH BEACH BY HILTON",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED SILVER",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2710,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/grand-beach-miami-hotel?SearchId=1f35d753-3cb5-468c-9e6c-aa4f34050325&SearchType=1&Hotel=8383&P=1&CheckIn=2025-12-13&Night=7&HpCode=MIA2526",
+    "title": "GRAND BEACH MIAMI HOTEL",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "13.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUITE WITH POOL VIEW",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2890,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/the-alexander-all-suite-oceanfront-resort?SearchId=1f35d753-3cb5-468c-9e6c-aa4f34050325&SearchType=1&Hotel=19191&P=1&CheckIn=2025-12-13&Night=7&HpCode=MIA2526",
+    "title": "THE ALEXANDER ALL SUITE OCEANFRONT RESORT",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "13.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CHARMING OCEAN VIEW CONDO",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4738,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/casa-faena-miami-bech?SearchType=1&Hotel=16272&P=1&CheckIn=2025-10-22&Night=7&HpCode=MIA2526&ClId=277",
+    "title": "CASA FAENA MIAMI BECH",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2870,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/the-palms-hotel---spa?SearchId=d6f61d83-bde9-4d9e-97bc-bcce8627ba1f&SearchType=1&Hotel=16275&P=1&CheckIn=2025-12-21&Night=7&HpCode=MIA2526",
+    "title": "THE PALMS HOTEL & SPA",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "21.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3558,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/fontainebleau-miami-beach?SearchType=1&Hotel=11753&P=1&CheckIn=2025-10-22&Night=7&HpCode=MIA2526&ClId=277",
+    "title": "FONTAINEBLEAU MIAMI BEACH",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3930,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/generator-hostel-miami?SearchId=d6f61d83-bde9-4d9e-97bc-bcce8627ba1f&SearchType=1&Hotel=16271&P=1&CheckIn=2025-12-21&Night=7&HpCode=MIA2526",
+    "title": "KonTiki Travel",
+    "location": null,
+    "stars_raw": null,
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/riu-plaza-miami-beach?SearchType=1&Hotel=6181&P=1&CheckIn=2025-10-22&Night=7&HpCode=MIA2526&ClId=277",
+    "title": "RIU PLAZA MIAMI BEACH",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2998,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/the-alexander-all-suite-oceanfront-resort?SearchType=1&Hotel=19191&P=1&CheckIn=2025-10-22&Night=7&HpCode=MIA2526&ClId=277",
+    "title": "THE ALEXANDER ALL SUITE OCEANFRONT RESORT",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CHARMING OCEAN VIEW CONDO",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3818,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/fontainebleau-miami-beach?SearchId=1f35d753-3cb5-468c-9e6c-aa4f34050325&SearchType=1&Hotel=11753&P=1&CheckIn=2025-12-13&Night=7&HpCode=MIA2526",
+    "title": "KonTiki Travel",
+    "location": null,
+    "stars_raw": null,
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/grand-beach-miami-hotel?SearchId=d6f61d83-bde9-4d9e-97bc-bcce8627ba1f&SearchType=1&Hotel=8383&P=1&CheckIn=2025-12-21&Night=7&HpCode=MIA2526",
+    "title": "GRAND BEACH MIAMI HOTEL",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "21.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUITE WITH POOL VIEW",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2890,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/the-miami-beach-edition?SearchId=1f35d753-3cb5-468c-9e6c-aa4f34050325&SearchType=1&Hotel=16274&P=1&CheckIn=2025-12-13&Night=7&HpCode=MIA2526",
+    "title": "THE MIAMI BEACH EDITION",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "13.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 7830,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/riu-plaza-miami-beach?SearchId=1f35d753-3cb5-468c-9e6c-aa4f34050325&SearchType=1&Hotel=6181&P=1&CheckIn=2025-12-13&Night=7&HpCode=MIA2526",
+    "title": "RIU PLAZA MIAMI BEACH",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "13.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3138,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/faena-hotel-miami?SearchId=d6f61d83-bde9-4d9e-97bc-bcce8627ba1f&SearchType=1&Hotel=9882&P=1&CheckIn=2025-12-21&Night=7&HpCode=MIA2526",
+    "title": "FAENA HOTEL MIAMI",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "10",
+    "departure_date_raw": "21.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 9518,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/the-alexander-all-suite-oceanfront-resort?SearchId=d6f61d83-bde9-4d9e-97bc-bcce8627ba1f&SearchType=1&Hotel=19191&P=1&CheckIn=2025-12-21&Night=7&HpCode=MIA2526",
+    "title": "THE ALEXANDER ALL SUITE OCEANFRONT RESORT",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "21.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CHARMING OCEAN VIEW CONDO",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4738,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/1-south-beach?SearchType=1&Hotel=7237&P=1&CheckIn=2025-10-22&Night=7&HpCode=MIA2526&ClId=277",
+    "title": "1 SOUTH BEACH",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 7350,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/grand-beach-miami-hotel?SearchType=1&Hotel=8383&P=1&CheckIn=2025-10-22&Night=7&HpCode=MIA2526&ClId=277",
+    "title": "GRAND BEACH MIAMI HOTEL",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUITE WITH POOL VIEW",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2718,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/national-hotel---an-adult-only-oceanfront-resort?SearchType=1&Hotel=16273&P=1&CheckIn=2025-10-22&Night=7&HpCode=MIA2526&ClId=277",
+    "title": "NATIONAL HOTEL - AN ADULT ONLY OCEANFRONT RESORT",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLASSIC ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2890,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/generator-hostel-miami?SearchId=1f35d753-3cb5-468c-9e6c-aa4f34050325&SearchType=1&Hotel=16271&P=1&CheckIn=2025-12-13&Night=7&HpCode=MIA2526",
+    "title": "GENERATOR HOSTEL MIAMI",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "6",
+    "departure_date_raw": "13.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2190,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/casa-faena-miami-bech?SearchId=1f35d753-3cb5-468c-9e6c-aa4f34050325&SearchType=1&Hotel=16272&P=1&CheckIn=2025-12-13&Night=7&HpCode=MIA2526",
+    "title": "CASA FAENA MIAMI BECH",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "13.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 6070,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/fontainebleau-miami-beach?SearchId=d6f61d83-bde9-4d9e-97bc-bcce8627ba1f&SearchType=1&Hotel=11753&P=1&CheckIn=2025-12-21&Night=7&HpCode=MIA2526",
+    "title": "FONTAINEBLEAU MIAMI BEACH",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "10",
+    "departure_date_raw": "21.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4218,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/the-setai-hotel?SearchType=1&Hotel=13445&P=1&CheckIn=2025-10-22&Night=7&HpCode=MIA2526&ClId=277",
+    "title": "THE SETAI HOTEL",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STUDIO SUITE CITY VIEW",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 6810,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/dream-south-beach-by-hilton?SearchId=d6f61d83-bde9-4d9e-97bc-bcce8627ba1f&SearchType=1&Hotel=7028&P=1&CheckIn=2025-12-21&Night=7&HpCode=MIA2526",
+    "title": "DREAM SOUTH BEACH BY HILTON",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "21.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED SILVER",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3270,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/the-palms-hotel---spa?SearchType=1&Hotel=16275&P=1&CheckIn=2025-10-22&Night=7&HpCode=MIA2526&ClId=277",
+    "title": "THE PALMS HOTEL & SPA",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3498,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/casa-faena-miami-bech?SearchId=d6f61d83-bde9-4d9e-97bc-bcce8627ba1f&SearchType=1&Hotel=16272&P=1&CheckIn=2025-12-21&Night=7&HpCode=MIA2526",
+    "title": "CASA FAENA MIAMI BECH",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "21.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 6070,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/the-palms-hotel---spa?SearchId=1f35d753-3cb5-468c-9e6c-aa4f34050325&SearchType=1&Hotel=16275&P=1&CheckIn=2025-12-13&Night=7&HpCode=MIA2526",
+    "title": "THE PALMS HOTEL & SPA",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "13.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3558,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/1-south-beach?SearchId=1f35d753-3cb5-468c-9e6c-aa4f34050325&SearchType=1&Hotel=7237&P=1&CheckIn=2025-12-13&Night=7&HpCode=MIA2526",
+    "title": "1 SOUTH BEACH",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "10",
+    "departure_date_raw": "13.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 8858,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/the-setai-hotel?SearchId=d6f61d83-bde9-4d9e-97bc-bcce8627ba1f&SearchType=1&Hotel=13445&P=1&CheckIn=2025-12-21&Night=7&HpCode=MIA2526",
+    "title": "THE SETAI HOTEL",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "10",
+    "departure_date_raw": "21.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STUDIO SUITE CITY VIEW",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 6518,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/dream-south-beach-by-hilton?SearchId=1f35d753-3cb5-468c-9e6c-aa4f34050325&SearchType=1&Hotel=7028&P=1&CheckIn=2025-12-13&Night=7&HpCode=MIA2526",
+    "title": "DREAM SOUTH BEACH BY HILTON",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "13.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 KING BED SILVER",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3270,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/breakwater-south-beach?SearchId=d6f61d83-bde9-4d9e-97bc-bcce8627ba1f&SearchType=1&Hotel=13444&P=1&CheckIn=2025-12-21&Night=7&HpCode=MIA2526",
+    "title": "BREAKWATER SOUTH BEACH",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "21.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2318,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/national-hotel---an-adult-only-oceanfront-resort?SearchId=d6f61d83-bde9-4d9e-97bc-bcce8627ba1f&SearchType=1&Hotel=16273&P=1&CheckIn=2025-12-21&Night=7&HpCode=MIA2526",
+    "title": "NATIONAL HOTEL - AN ADULT ONLY OCEANFRONT RESORT",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "CLASSIC ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3290,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/the-miami-beach-edition?SearchType=1&Hotel=16274&P=1&CheckIn=2025-10-22&Night=7&HpCode=MIA2526&ClId=277",
+    "title": "THE MIAMI BEACH EDITION",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/the-setai-hotel?SearchId=1f35d753-3cb5-468c-9e6c-aa4f34050325&SearchType=1&Hotel=13445&P=1&CheckIn=2025-12-13&Night=7&HpCode=MIA2526",
+    "title": "THE SETAI HOTEL",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/faena-hotel-miami?SearchId=1f35d753-3cb5-468c-9e6c-aa4f34050325&SearchType=1&Hotel=9882&P=1&CheckIn=2025-12-13&Night=7&HpCode=MIA2526",
+    "title": "FAENA HOTEL MIAMI",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/faena-hotel-miami?SearchType=1&Hotel=9882&P=1&CheckIn=2025-10-22&Night=7&HpCode=MIA2526&ClId=277",
+    "title": "FAENA HOTEL MIAMI",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "10",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 8338,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/the-miami-beach-edition?SearchId=d6f61d83-bde9-4d9e-97bc-bcce8627ba1f&SearchType=1&Hotel=16274&P=1&CheckIn=2025-12-21&Night=7&HpCode=MIA2526",
+    "title": "THE MIAMI BEACH EDITION",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "21.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 7830,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/breakwater-south-beach?SearchType=1&Hotel=13444&P=1&CheckIn=2025-10-22&Night=7&HpCode=MIA2526&ClId=277",
+    "title": "BREAKWATER SOUTH BEACH",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "22.10.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2290,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/national-hotel---an-adult-only-oceanfront-resort?SearchId=1f35d753-3cb5-468c-9e6c-aa4f34050325&SearchType=1&Hotel=16273&P=1&CheckIn=2025-12-13&Night=7&HpCode=MIA2526",
+    "title": "NATIONAL HOTEL - AN ADULT ONLY OCEANFRONT RESORT",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "13.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "CLASSIC ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3290,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/riu-plaza-miami-beach?SearchId=d6f61d83-bde9-4d9e-97bc-bcce8627ba1f&SearchType=1&Hotel=6181&P=1&CheckIn=2025-12-21&Night=7&HpCode=MIA2526",
+    "title": "RIU PLAZA MIAMI BEACH",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "8",
+    "departure_date_raw": "21.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3138,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/majami/1-south-beach?SearchId=d6f61d83-bde9-4d9e-97bc-bcce8627ba1f&SearchType=1&Hotel=7237&P=1&CheckIn=2025-12-21&Night=7&HpCode=MIA2526",
+    "title": "1 SOUTH BEACH",
+    "location": "UNITED STATES - MAJAMI",
+    "stars_raw": "10",
+    "departure_date_raw": "21.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 8858,
+        "price_rsd": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,518 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/larnaka/lordos-beach?SearchId=cf9dc43d-d47e-4bc4-b13f-2cca7a4e81cf&SearchType=1&Hotel=3387&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "LORDOS BEACH",
+    "location": "KIPARSKA REPUBLIKA - LARNAKA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2378,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2470,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2790,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2870,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3138,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/larnaka/mikes-kanarium-city?SearchId=cf9dc43d-d47e-4bc4-b13f-2cca7a4e81cf&SearchType=1&Hotel=18318&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "MIKES KANARIUM CITY",
+    "location": "KIPARSKA REPUBLIKA - LARNAKA",
+    "stars_raw": "4",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1570,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/larnaka/sun-hall-hotel?SearchType=1&Hotel=7512&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=186",
+    "title": "SUN HALL HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LARNAKA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "TWIN ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2178,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2258,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2310,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2570,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2650,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2690,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/larnaka/radisson-beach-resort?SearchId=cf9dc43d-d47e-4bc4-b13f-2cca7a4e81cf&SearchType=1&Hotel=18282&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "RADISSON BEACH RESORT",
+    "location": "KIPARSKA REPUBLIKA - LARNAKA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2190,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2410,
+        "price_rsd": null
+      },
+      {
+        "room_type": "GARDEN ROOM POOL VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2450,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/larnaka/golden-bay-beach?SearchId=cf9dc43d-d47e-4bc4-b13f-2cca7a4e81cf&SearchType=1&Hotel=3389&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "GOLDEN BAY BEACH",
+    "location": "KIPARSKA REPUBLIKA - LARNAKA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2298,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2718,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUITE MINI SIDE SEA VIEW WITH JACUZZI",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3790,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUITE MINI SIDE SEA VIEW WITH JACUZZI",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4210,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/larnaka/radisson-beach-resort?SearchType=1&Hotel=18282&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=186",
+    "title": "RADISSON BEACH RESORT",
+    "location": "KIPARSKA REPUBLIKA - LARNAKA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2190,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2410,
+        "price_rsd": null
+      },
+      {
+        "room_type": "GARDEN ROOM POOL VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2450,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/larnaka/radisson-blu-larnaca?SearchId=cf9dc43d-d47e-4bc4-b13f-2cca7a4e81cf&SearchType=1&Hotel=12254&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "RADISSON BLU LARNACA",
+    "location": "KIPARSKA REPUBLIKA - LARNAKA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3070,
+        "price_rsd": null
+      },
+      {
+        "room_type": "PREMIUM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3318,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3710,
+        "price_rsd": null
+      },
+      {
+        "room_type": "PREMIUM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3958,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/larnaka/radisson-blu-larnaca?SearchType=1&Hotel=12254&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=186",
+    "title": "RADISSON BLU LARNACA",
+    "location": "KIPARSKA REPUBLIKA - LARNAKA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3070,
+        "price_rsd": null
+      },
+      {
+        "room_type": "PREMIUM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3318,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3710,
+        "price_rsd": null
+      },
+      {
+        "room_type": "PREMIUM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3958,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/larnaka/mikes-kanarium-city?SearchType=1&Hotel=18318&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=186",
+    "title": "MIKES KANARIUM CITY",
+    "location": "KIPARSKA REPUBLIKA - LARNAKA",
+    "stars_raw": "4",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1570,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/larnaka/lordos-beach?SearchType=1&Hotel=3387&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=186",
+    "title": "LORDOS BEACH",
+    "location": "KIPARSKA REPUBLIKA - LARNAKA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2378,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2470,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2790,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2870,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3138,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/larnaka/sun-hall-hotel?SearchId=cf9dc43d-d47e-4bc4-b13f-2cca7a4e81cf&SearchType=1&Hotel=7512&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "SUN HALL HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LARNAKA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "TWIN ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2178,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2258,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2310,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2570,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2650,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2690,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/larnaka/golden-bay-beach?SearchType=1&Hotel=3389&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=186",
+    "title": "GOLDEN BAY BEACH",
+    "location": "KIPARSKA REPUBLIKA - LARNAKA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2298,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2718,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUITE MINI SIDE SEA VIEW WITH JACUZZI",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3790,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUITE MINI SIDE SEA VIEW WITH JACUZZI",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4210,
+        "price_rsd": null
+      }
+    ]
+  }
+]

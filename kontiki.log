@@ -1,0 +1,162 @@
+.
+.
+.
+.
+.
+[MAIN] Processing 10 hotels with concurrency=6
+.
+.
+.
+.
+.
+.
+.
+.
+.
+[ERR] https://kontiki.rs/sr/hotel/turska/alanja/kaia-coracesium?SearchType=1&Hotel=17934&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231: 'coroutine' object has no attribute 'catch'
+.
+[ERR] https://kontiki.rs/sr/hotel/turska/alanja/beach-club-doganay?SearchType=1&Hotel=25&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231: 'coroutine' object has no attribute 'catch'
+.
+[ERR] https://kontiki.rs/sr/hotel/turska/alanja/kleopatra-ada?SearchType=1&Hotel=10222&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231: 'coroutine' object has no attribute 'catch'
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+[ERR] https://kontiki.rs/sr/hotel/turska/alanja/the-lumos-deluxe-resort-hotel---spa?SearchType=1&Hotel=6666&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231: 'coroutine' object has no attribute 'catch'
+[ERR] https://kontiki.rs/sr/hotel/turska/alanja/incekum-beach-resort?SearchType=1&Hotel=1367&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231: 'coroutine' object has no attribute 'catch'
+[ERR] https://kontiki.rs/sr/hotel/turska/alanja/botanik-platinum-hotel?SearchType=1&Hotel=3021&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALVWK26&ClId=231: 'coroutine' object has no attribute 'catch'
+.
+.
+.
+.
+.
+.
+.
+.
+[ERR] https://kontiki.rs/sr/hotel/turska/alanja/kandelor-hotel?SearchType=1&Hotel=1812&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALKVW26XPE&ClId=231: 'coroutine' object has no attribute 'catch'
+.
+.
+[ERR] https://kontiki.rs/sr/hotel/turska/alanja/xperia-grand-bali?SearchType=1&Hotel=1427&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALKVW26XPE&ClId=231: 'coroutine' object has no attribute 'catch'
+[ERR] https://kontiki.rs/sr/hotel/turska/alanja/tac-premier-hotel---spa?SearchType=1&Hotel=5276&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALKVW26XPE&ClId=231: 'coroutine' object has no attribute 'catch'
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+[ERR] https://kontiki.rs/sr/hotel/turska/alanja/xperia-saray-beach?SearchType=1&Hotel=1428&P=1&CheckIn=2026-05-16&Night=7&HpCode=ALKVW26XPE&ClId=231: 'coroutine' object has no attribute 'catch'
+[DONE] Wrote 0 hotels to offers_kontiki.json
+.
+.
+.
+[LISTING] Found 10 links
+[MAIN] Processing 10 hotels with concurrency=6
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+[OK] The Lumos Deluxe Resort Hotel & Spa -> 0 rooms
+.
+[OK] Incekum Beach Resort -> 0 rooms
+.
+.
+[OK] Kaia Coracesium -> 0 rooms
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+[OK] Botanik Platinum Hotel -> 0 rooms
+[OK] Beach Club Doganay -> 0 rooms
+[OK] Kleopatra Ada Beach -> 0 rooms
+.
+.
+.
+.
+.
+.
+.
+[OK] KANDELOR HOTEL -> 0 rooms
+.
+.
+.
+[OK] XPERIA GRAND BALI -> 0 rooms
+.
+.
+[OK] Tac Premier Hotel & Spa -> 0 rooms
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+[OK] XPERIA SARAY BEACH -> 0 rooms
+[DONE] Wrote 10 hotels to offers_kontiki.json

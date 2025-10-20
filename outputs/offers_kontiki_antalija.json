@@ -1,0 +1,1705 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/delphin-palace?SearchType=1&Hotel=62&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Delphin Palace",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 390616.67,
+        "price_eur": null,
+        "price_rsd": 295743.13
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 394252.06,
+        "price_eur": null,
+        "price_rsd": 298202.04
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 405136.87,
+        "price_eur": null,
+        "price_rsd": 305576.14
+      },
+      {
+        "room_type": "Standard Junior Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 559389.7,
+        "price_eur": null,
+        "price_rsd": 410046.26
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 647224.53,
+        "price_eur": null,
+        "price_rsd": 469532.93
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/delphin-be-grand-resort?SearchType=1&Hotel=59&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Delphin Be Grand Resort",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 431348.25,
+        "price_eur": null,
+        "price_rsd": 329741.56
+      },
+      {
+        "room_type": "Standard Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 434981.8,
+        "price_eur": null,
+        "price_rsd": 332275.96
+      },
+      {
+        "room_type": "Large Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 440438.98,
+        "price_eur": null,
+        "price_rsd": 336076.22
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 442262.63,
+        "price_eur": null,
+        "price_rsd": 337342.09
+      },
+      {
+        "room_type": "Large Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 444072.52,
+        "price_eur": null,
+        "price_rsd": 338610.61
+      },
+      {
+        "room_type": "Large Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 451353.36,
+        "price_eur": null,
+        "price_rsd": 343676.75
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 515022.24,
+        "price_eur": null,
+        "price_rsd": 388017.98
+      },
+      {
+        "room_type": "Superior Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 519569.94,
+        "price_eur": null,
+        "price_rsd": 391185.3
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 722577.97,
+        "price_eur": null,
+        "price_rsd": 532569.59
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/greenwood-suites-resort?SearchType=1&Hotel=12789&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Greenwood Suites Resort",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 240726.07,
+        "price_eur": null,
+        "price_rsd": 214625.42
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 277213.78,
+        "price_eur": null,
+        "price_rsd": 244501.83
+      },
+      {
+        "room_type": "Superior Room (GardenView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 279339.21,
+        "price_eur": null,
+        "price_rsd": 246241.75
+      },
+      {
+        "room_type": "Deluxe Suite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 291160.82,
+        "price_eur": null,
+        "price_rsd": 255922.48
+      },
+      {
+        "room_type": "Deluxe Superior Suite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 298365.37,
+        "price_eur": null,
+        "price_rsd": 261822.82
+      },
+      {
+        "room_type": "Deluxe Suite (SwimUp-PoolTerrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 313885.24,
+        "price_eur": null,
+        "price_rsd": 274529.2
+      },
+      {
+        "room_type": "FamilySuite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 334389.7,
+        "price_eur": null,
+        "price_rsd": 291317.88
+      },
+      {
+        "room_type": "Exclusive Suite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 600960.34,
+        "price_eur": null,
+        "price_rsd": 509599.86
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/limak-lara-deluxe-hotel---resort?SearchType=1&Hotel=495&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Limak Lara Deluxe Hotel & Resort",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 359443,
+        "price_eur": null,
+        "price_rsd": 323944.52
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 363166.54,
+        "price_eur": null,
+        "price_rsd": 327159.51
+      },
+      {
+        "room_type": "2 Rooms Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 510355.63,
+        "price_eur": null,
+        "price_rsd": 454474.88
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/kremlin-palace?SearchType=1&Hotel=51&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Kremlin Palace",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 287020.12,
+        "price_eur": null,
+        "price_rsd": 234668.82
+      },
+      {
+        "room_type": "Superior Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 323532.16,
+        "price_eur": null,
+        "price_rsd": 261140.89
+      },
+      {
+        "room_type": "Duplex Superior FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 301982.69,
+        "price_eur": null,
+        "price_rsd": 288896.04
+      },
+      {
+        "room_type": "Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 321673.59,
+        "price_eur": null,
+        "price_rsd": 307331.95
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/sherwood-exclusive-lara?SearchType=1&Hotel=58&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Sherwood Exclusive Lara",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 309667.43,
+        "price_eur": null,
+        "price_rsd": 261140.89
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 317013.35,
+        "price_eur": null,
+        "price_rsd": 266813.48
+      },
+      {
+        "room_type": "Deluxe Suite (With Jacuzzi)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 353742.92,
+        "price_eur": null,
+        "price_rsd": 295176.4
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 405164.32,
+        "price_eur": null,
+        "price_rsd": 334884.5
+      },
+      {
+        "room_type": "2 ConnectingRooms FamilyRoom (Balcony or Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 427202.05,
+        "price_eur": null,
+        "price_rsd": 351902.25
+      },
+      {
+        "room_type": "2 ConnectingRooms FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 449239.8,
+        "price_eur": null,
+        "price_rsd": 368920.01
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/melas-lara-hotel?SearchType=1&Hotel=1481&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Melas Lara Hotel",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 322016.8,
+        "price_eur": null,
+        "price_rsd": 281184.29
+      },
+      {
+        "room_type": "Double Standard Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 325715.05,
+        "price_eur": null,
+        "price_rsd": 284209.93
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 417330.04,
+        "price_eur": null,
+        "price_rsd": 359239.28
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/wind-of-lara-hotel---spa?SearchType=1&Hotel=6616&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Wind of Lara Hotel & SPA",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Deluxe Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 233129.66,
+        "price_eur": null,
+        "price_rsd": 223377.94
+      },
+      {
+        "room_type": "Standard FamilySuite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 369625.74,
+        "price_eur": null,
+        "price_rsd": 350119.97
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/titanic-mardan-palace?SearchType=1&Hotel=267&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Titanic Mardan Palace",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Classic Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 519132.36,
+        "price_eur": null,
+        "price_rsd": 402955.52
+      },
+      {
+        "room_type": "Double Premium Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 537388.38,
+        "price_eur": null,
+        "price_rsd": 416191.56
+      },
+      {
+        "room_type": "Premium Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 564772.41,
+        "price_eur": null,
+        "price_rsd": 436045.6
+      },
+      {
+        "room_type": "Deluxe Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 604416.45,
+        "price_eur": null,
+        "price_rsd": 464787.23
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 757764.61,
+        "price_eur": null,
+        "price_rsd": 575969.37
+      },
+      {
+        "room_type": "Premium FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 867952.73,
+        "price_eur": null,
+        "price_rsd": 655858.28
+      },
+      {
+        "room_type": "Duplex Superior Suite (SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1088328.95,
+        "price_eur": null,
+        "price_rsd": 815636.09
+      },
+      {
+        "room_type": "2 Bedroom Premium Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1198517.07,
+        "price_eur": null,
+        "price_rsd": 895525
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/hotel-su?SearchType=1&Hotel=1526&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Hotel SU",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Best-Price)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 293770.36,
+        "price_eur": null,
+        "price_rsd": 258060.96
+      },
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 297468.62,
+        "price_eur": null,
+        "price_rsd": 261086.61
+      },
+      {
+        "room_type": "Double Deluxe Room (SeaView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 312243.91,
+        "price_eur": null,
+        "price_rsd": 273187.85
+      },
+      {
+        "room_type": "Double Standard Junior Suite",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 325178.95,
+        "price_eur": null,
+        "price_rsd": 283776.94
+      },
+      {
+        "room_type": "Double Standard Junior Suite (SeaView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 339954.24,
+        "price_eur": null,
+        "price_rsd": 295878.2
+      },
+      {
+        "room_type": "Double Standard Suite",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 448095.31,
+        "price_eur": null,
+        "price_rsd": 384425.61
+      },
+      {
+        "room_type": "Double Standard Suite (SeaView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 473955.84,
+        "price_eur": null,
+        "price_rsd": 405602.46
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/adalya-elite-lara?SearchType=1&Hotel=8466&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Adalya Elite Lara",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 305878.83,
+        "price_eur": null,
+        "price_rsd": 300924.46
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 312945.59,
+        "price_eur": null,
+        "price_rsd": 307827.17
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 322836.14,
+        "price_eur": null,
+        "price_rsd": 317488.05
+      },
+      {
+        "room_type": "Superior Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 344050.16,
+        "price_eur": null,
+        "price_rsd": 338193.51
+      },
+      {
+        "room_type": "Standard FamilyRoom (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 436652.05,
+        "price_eur": null,
+        "price_rsd": 428605.3
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 448139.46,
+        "price_eur": null,
+        "price_rsd": 439822.03
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 464223.9,
+        "price_eur": null,
+        "price_rsd": 455520.95
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/lara-barut-collection?SearchType=1&Hotel=61&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Lara Barut Collection",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Deluxe GardenRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 547395.34,
+        "price_eur": null,
+        "price_rsd": 465732.66
+      },
+      {
+        "room_type": "Deluxe Lagoon Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 547395.34,
+        "price_eur": null,
+        "price_rsd": 465732.66
+      },
+      {
+        "room_type": "Deluxe Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 569924.27,
+        "price_eur": null,
+        "price_rsd": 484188.43
+      },
+      {
+        "room_type": "Deluxe Room (Lateral Sea View or Pool View, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 583446.75,
+        "price_eur": null,
+        "price_rsd": 495259.5
+      },
+      {
+        "room_type": "Junior Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 569563.01,
+        "price_eur": null,
+        "price_rsd": 516484.03
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 615007.62,
+        "price_eur": null,
+        "price_rsd": 521097.3
+      },
+      {
+        "room_type": "Penthouse Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 642316.96,
+        "price_eur": null,
+        "price_rsd": 581075.23
+      },
+      {
+        "room_type": "Deluxe GardenRoom (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 705153.53,
+        "price_eur": null,
+        "price_rsd": 594917.71
+      },
+      {
+        "room_type": "Lagoon Deluxe Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 705153.53,
+        "price_eur": null,
+        "price_rsd": 594917.71
+      },
+      {
+        "room_type": "Corner Suite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 727691.54,
+        "price_eur": null,
+        "price_rsd": 613370.83
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/royal-holiday-palace?SearchType=1&Hotel=64&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Royal Holiday Palace",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Superior Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 398666.25,
+        "price_eur": null,
+        "price_rsd": 301186.64
+      },
+      {
+        "room_type": "Double Superior Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 416813.51,
+        "price_eur": null,
+        "price_rsd": 313477.25
+      },
+      {
+        "room_type": "Double Superior Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 434949.04,
+        "price_eur": null,
+        "price_rsd": 325767.84
+      },
+      {
+        "room_type": "FamilyRoom (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 656933.55,
+        "price_eur": null,
+        "price_rsd": 476108.56
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 656933.55,
+        "price_eur": null,
+        "price_rsd": 476108.56
+      },
+      {
+        "room_type": "FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 696955.3,
+        "price_eur": null,
+        "price_rsd": 503213.57
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 696955.3,
+        "price_eur": null,
+        "price_rsd": 503213.57
+      },
+      {
+        "room_type": "Standard Junior Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 736974.69,
+        "price_eur": null,
+        "price_rsd": 530318.56
+      },
+      {
+        "room_type": "Deluxe Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 817017.15,
+        "price_eur": null,
+        "price_rsd": 584529.88
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/grand-park-lara?SearchType=1&Hotel=4523&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Grand Park Lara",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 244424.34,
+        "price_eur": null,
+        "price_rsd": 217651.07
+      },
+      {
+        "room_type": "Deluxe FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 266596.14,
+        "price_eur": null,
+        "price_rsd": 235803.61
+      },
+      {
+        "room_type": "MultipleBed GrandDeluxe FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 303543.25,
+        "price_eur": null,
+        "price_rsd": 266057.4
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/ducale-lara?SearchType=1&Hotel=18545&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Ducale Lara",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 345872.3,
+        "price_eur": null,
+        "price_rsd": 289098.63
+      },
+      {
+        "room_type": "Deluxe Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 358731.15,
+        "price_eur": null,
+        "price_rsd": 299025.65
+      },
+      {
+        "room_type": "Deluxe Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 364237.08,
+        "price_eur": null,
+        "price_rsd": 303280.09
+      },
+      {
+        "room_type": "Swim Up Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 431137.37,
+        "price_eur": null,
+        "price_rsd": 354941.14
+      },
+      {
+        "room_type": "Deluxe FamilySuite (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 620819.37,
+        "price_eur": null,
+        "price_rsd": 501415.39
+      },
+      {
+        "room_type": "Junior Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 631838.24,
+        "price_eur": null,
+        "price_rsd": 509924.27
+      },
+      {
+        "room_type": "FamilySuite (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 686803.84,
+        "price_eur": null,
+        "price_rsd": 552368.03
+      },
+      {
+        "room_type": "Corner Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 698738.53,
+        "price_eur": null,
+        "price_rsd": 561585.31
+      },
+      {
+        "room_type": "Swim Up Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 765638.82,
+        "price_eur": null,
+        "price_rsd": 613246.36
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/swandor-hotels---resorts-topkapi-palace?SearchType=1&Hotel=53&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Swandor Hotels & Resorts Topkapi Palace",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 314402.96,
+        "price_eur": null,
+        "price_rsd": 244123.14
+      },
+      {
+        "room_type": "Deluxe Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 325287.76,
+        "price_eur": null,
+        "price_rsd": 251497.23
+      },
+      {
+        "room_type": "Double Deluxe FamilyRoom (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 401508.66,
+        "price_eur": null,
+        "price_rsd": 303118.55
+      },
+      {
+        "room_type": "Deluxe FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 416754.48,
+        "price_eur": null,
+        "price_rsd": 313442.82
+      },
+      {
+        "room_type": "Duplex Deluxe FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 444696.28,
+        "price_eur": null,
+        "price_rsd": 332369.97
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/royal-wings-hotel?SearchType=1&Hotel=63&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Royal Wings Hotel",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 321799.07,
+        "price_eur": null,
+        "price_rsd": 308412.43
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 331654.61,
+        "price_eur": null,
+        "price_rsd": 317677.39
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 341493.75,
+        "price_eur": null,
+        "price_rsd": 326942.35
+      },
+      {
+        "room_type": "Lagoon Suite (SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 434380.64,
+        "price_eur": null,
+        "price_rsd": 414300.7
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 490671.42,
+        "price_eur": null,
+        "price_rsd": 467244.82
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 525150.09,
+        "price_eur": null,
+        "price_rsd": 499672.84
+      },
+      {
+        "room_type": "Double Standard Junior Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 586369.31,
+        "price_eur": null,
+        "price_rsd": 557250.1
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/ic-hotels-green-palace---villas?SearchType=1&Hotel=60&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "IC Hotels Green Palace & Villas",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 400129.99,
+        "price_eur": null,
+        "price_rsd": 345149.18
+      },
+      {
+        "room_type": "Quad Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 476003.51,
+        "price_eur": null,
+        "price_rsd": 407277.5
+      },
+      {
+        "room_type": "Standard Junior Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 551877.02,
+        "price_eur": null,
+        "price_rsd": 469405.8
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 703624.05,
+        "price_eur": null,
+        "price_rsd": 593662.43
+      },
+      {
+        "room_type": "Standard Villa (LakeSide)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 855371.08,
+        "price_eur": null,
+        "price_rsd": 717919.06
+      },
+      {
+        "room_type": "Beach Villa",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 931244.6,
+        "price_eur": null,
+        "price_rsd": 780047.38
+      },
+      {
+        "room_type": "Beach Villa (Pool Sunset)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1082991.64,
+        "price_eur": null,
+        "price_rsd": 904304.01
+      },
+      {
+        "room_type": "Deluxe Villa (LakeSide)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1614106.25,
+        "price_eur": null,
+        "price_rsd": 1339202.2
+      },
+      {
+        "room_type": "2 Bedroom Villa (Private Pool )",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1614106.25,
+        "price_eur": null,
+        "price_rsd": 1339202.2
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/miracle-resort?SearchType=1&Hotel=49&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Miracle Resort",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 286095,
+        "price_eur": null,
+        "price_rsd": 275457.41
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 300978.07,
+        "price_eur": null,
+        "price_rsd": 289503.82
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 330744.21,
+        "price_eur": null,
+        "price_rsd": 317596.62
+      },
+      {
+        "room_type": "FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 506325.42,
+        "price_eur": null,
+        "price_rsd": 483317.14
+      },
+      {
+        "room_type": "Swim Up FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 766779.07,
+        "price_eur": null,
+        "price_rsd": 729129.17
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/royal-seginus?SearchType=1&Hotel=8468&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Royal Seginus",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Superior Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 405867.12,
+        "price_eur": null,
+        "price_rsd": 291124.56
+      },
+      {
+        "room_type": "Double Superior Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 441944.08,
+        "price_eur": null,
+        "price_rsd": 313814.89
+      },
+      {
+        "room_type": "FamilyRoom (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 669357.86,
+        "price_eur": null,
+        "price_rsd": 456845.08
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 700925.22,
+        "price_eur": null,
+        "price_rsd": 476699.13
+      },
+      {
+        "room_type": "FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 710266.57,
+        "price_eur": null,
+        "price_rsd": 482574.31
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 744088.74,
+        "price_eur": null,
+        "price_rsd": 503846.51
+      },
+      {
+        "room_type": "Standard Junior Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 751175.28,
+        "price_eur": null,
+        "price_rsd": 508303.53
+      },
+      {
+        "room_type": "Deluxe Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 832992.7,
+        "price_eur": null,
+        "price_rsd": 559761.98
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/delphin-diva?SearchType=1&Hotel=56&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Delphin Diva",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 372469.42,
+        "price_eur": null,
+        "price_rsd": 283452.53
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 376104.81,
+        "price_eur": null,
+        "price_rsd": 285911.44
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 386994.31,
+        "price_eur": null,
+        "price_rsd": 293285.54
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 613650.89,
+        "price_eur": null,
+        "price_rsd": 446794.91
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/concorde-de-luxe-resort?SearchType=1&Hotel=57&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Concorde De Luxe Resort",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 471187.71,
+        "price_eur": null,
+        "price_rsd": 374971.29
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 528192.58,
+        "price_eur": null,
+        "price_rsd": 417326.34
+      },
+      {
+        "room_type": "Deluxe Junior Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 743953.85,
+        "price_eur": null,
+        "price_rsd": 577670.89
+      },
+      {
+        "room_type": "Duplex Deluxe FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 959732.84,
+        "price_eur": null,
+        "price_rsd": 738016.76
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/aska-lara-resort---spa?SearchType=1&Hotel=4520&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Aska Lara Resort & Spa",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Annex Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 256423.82,
+        "price_eur": null,
+        "price_rsd": 247171.29
+      },
+      {
+        "room_type": "MainBuilding Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 263649.36,
+        "price_eur": null,
+        "price_rsd": 253977.33
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 270873.89,
+        "price_eur": null,
+        "price_rsd": 260784.7
+      },
+      {
+        "room_type": "Double Standard Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 282225.42,
+        "price_eur": null,
+        "price_rsd": 271482.37
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 293582.66,
+        "price_eur": null,
+        "price_rsd": 282178.71
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 304932.87,
+        "price_eur": null,
+        "price_rsd": 292875.06
+      },
+      {
+        "room_type": "Annex FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 336312.92,
+        "price_eur": null,
+        "price_rsd": 322437.65
+      },
+      {
+        "room_type": "MainBuilding FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 467815.79,
+        "price_eur": null,
+        "price_rsd": 446326.17
+      },
+      {
+        "room_type": "2 ConnectingRooms MainBuilding FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 467815.79,
+        "price_eur": null,
+        "price_rsd": 446326.17
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/delphin-imperial?SearchType=1&Hotel=1345&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Delphin Imperial",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 434173.62,
+        "price_eur": null,
+        "price_rsd": 325240.84
+      },
+      {
+        "room_type": "Double Superior Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 441431.38,
+        "price_eur": null,
+        "price_rsd": 330157.35
+      },
+      {
+        "room_type": "Standard Junior Suite (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 613831.45,
+        "price_eur": null,
+        "price_rsd": 446918.05
+      },
+      {
+        "room_type": "Premium Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 648312.44,
+        "price_eur": null,
+        "price_rsd": 470270.47
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/club-hotel-sera?SearchType=1&Hotel=2270&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Club Hotel Sera",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Club Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 235995.1,
+        "price_eur": null,
+        "price_rsd": 217178.35
+      },
+      {
+        "room_type": "Elegance Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 245294.47,
+        "price_eur": null,
+        "price_rsd": 225214.52
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 356788.38,
+        "price_eur": null,
+        "price_rsd": 321648.47
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/liberty-hotels-lara?SearchType=1&Hotel=4519&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Liberty Hotels Lara",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 287282.58,
+        "price_eur": null,
+        "price_rsd": 270216.5
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 298770.13,
+        "price_eur": null,
+        "price_rsd": 280670.52
+      },
+      {
+        "room_type": "Large Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 349500.74,
+        "price_eur": null,
+        "price_rsd": 326861.58
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 450568.51,
+        "price_eur": null,
+        "price_rsd": 418879.55
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 500894.98,
+        "price_eur": null,
+        "price_rsd": 464705.14
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/titanic-deluxe-lara?SearchType=1&Hotel=52&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Titanic Deluxe Lara",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 439004.47,
+        "price_eur": null,
+        "price_rsd": 361018.91
+      },
+      {
+        "room_type": "Annex FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 696242.72,
+        "price_eur": null,
+        "price_rsd": 559661.35
+      },
+      {
+        "room_type": "Duplex Suite (Private Jacuzzi Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 867432.2,
+        "price_eur": null,
+        "price_rsd": 691852.19
+      },
+      {
+        "room_type": "Junior Suite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 867432.2,
+        "price_eur": null,
+        "price_rsd": 691852.19
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/trendy-lara?SearchType=1&Hotel=18437&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Trendy Lara",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 314111.61,
+        "price_eur": null,
+        "price_rsd": 270670.68
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 317800.01,
+        "price_eur": null,
+        "price_rsd": 273620.85
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 323324.41,
+        "price_eur": null,
+        "price_rsd": 278046.1
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 332535.88,
+        "price_eur": null,
+        "price_rsd": 285420.19
+      },
+      {
+        "room_type": "FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 450494.07,
+        "price_eur": null,
+        "price_rsd": 379812.33
+      },
+      {
+        "room_type": "Duplex FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 452226.27,
+        "price_eur": null,
+        "price_rsd": 381200.02
+      },
+      {
+        "room_type": "FamilySuite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 474080.52,
+        "price_eur": null,
+        "price_rsd": 398690.49
+      },
+      {
+        "room_type": "GardenBuilding Suite (Ground Floor)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 509467.74,
+        "price_eur": null,
+        "price_rsd": 427007.07
+      },
+      {
+        "room_type": "2 Bedroom GardenBuilding FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 533063.72,
+        "price_eur": null,
+        "price_rsd": 445886.56
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/antalija/fame-residence-lara---spa?SearchType=1&Hotel=50&P=1&CheckIn=2026-05-16&Night=7&HpCode=ANTKVW26&ClId=245",
+    "title": "Fame Residence Lara & Spa",
+    "location": "TURSKA - ANTALIJA",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 311512.11,
+        "price_eur": null,
+        "price_rsd": 262559.04
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 326203.94,
+        "price_eur": null,
+        "price_rsd": 273904.21
+      },
+      {
+        "room_type": "1 Bedroom FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 440970.89,
+        "price_eur": null,
+        "price_rsd": 362537.69
+      },
+      {
+        "room_type": "2 Bedroom Deluxe FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 472653.85,
+        "price_eur": null,
+        "price_rsd": 387002.37
+      }
+    ]
+  }
+]

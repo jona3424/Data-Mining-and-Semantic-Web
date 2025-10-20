@@ -1,0 +1,8 @@
+flask
+matplotlib
+mysql-connector-python
+numpy
+pandas
+playwright
+selectolax
+sqlalchemy

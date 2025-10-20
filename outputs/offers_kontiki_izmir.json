@@ -1,0 +1,445 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/izmir/aria-claros-beach---spa-resort?SearchType=1&Hotel=13107&P=1&CheckIn=2026-06-10&Night=7&HpCode=IZMWOTS26K&ClId=299",
+    "title": "Aria Claros Beach & Spa Resort",
+    "location": "TURSKA - IZMIR",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Club Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 255214,
+        "price_eur": null,
+        "price_rsd": 231079.63
+      },
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 278841.33,
+        "price_eur": null,
+        "price_rsd": 251514.97
+      },
+      {
+        "room_type": "Double Deluxe Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 286006.47,
+        "price_eur": null,
+        "price_rsd": 257714.56
+      },
+      {
+        "room_type": "Club Suite (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 344539.65,
+        "price_eur": null,
+        "price_rsd": 308342.78
+      },
+      {
+        "room_type": "2 Bedroom Club FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 344539.65,
+        "price_eur": null,
+        "price_rsd": 308342.78
+      },
+      {
+        "room_type": "2 Bedroom Club FamilyRoom (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 352902.7,
+        "price_eur": null,
+        "price_rsd": 315573.88
+      },
+      {
+        "room_type": "2 Bedroom Club FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 361259.02,
+        "price_eur": null,
+        "price_rsd": 322807.6
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/izmir/aqua-fantasy-aquapark-hotel---spa?SearchType=1&Hotel=8777&P=1&CheckIn=2026-06-10&Night=7&HpCode=IZMWOTS26K&ClId=299",
+    "title": "Aqua Fantasy Aquapark Hotel & Spa",
+    "location": "TURSKA - IZMIR",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 281839.8,
+        "price_eur": null,
+        "price_rsd": 269849.96
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 284771.88,
+        "price_eur": null,
+        "price_rsd": 272610.95
+      },
+      {
+        "room_type": "Standard Room (Balcony Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 330985.17,
+        "price_eur": null,
+        "price_rsd": 283037.5
+      },
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 334601.81,
+        "price_eur": null,
+        "price_rsd": 285981.53
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 312383.68,
+        "price_eur": null,
+        "price_rsd": 298643.16
+      },
+      {
+        "room_type": "Superior Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 368679.25,
+        "price_eur": null,
+        "price_rsd": 313750
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 359539.46,
+        "price_eur": null,
+        "price_rsd": 343115.52
+      },
+      {
+        "room_type": "FamilyRoom (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 426904.89,
+        "price_eur": null,
+        "price_rsd": 361185.71
+      },
+      {
+        "room_type": "FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 497492.19,
+        "price_eur": null,
+        "price_rsd": 473177.36
+      },
+      {
+        "room_type": "FamilySuite (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 597160.37,
+        "price_eur": null,
+        "price_rsd": 499919.8
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/izmir/korumar-ephesus-beach---spa-resort?SearchType=1&Hotel=8944&P=1&CheckIn=2026-06-10&Night=7&HpCode=IZMWOTS26K&ClId=299",
+    "title": "KORUMAR EPHESUS SPA & BEACH RESORT",
+    "location": "TURSKA - IZMIR",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Balcony Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 389197.22,
+        "price_eur": null,
+        "price_rsd": 331303.32
+      },
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 396433.07,
+        "price_eur": null,
+        "price_rsd": 337193.95
+      },
+      {
+        "room_type": "Standard Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 447031.01,
+        "price_eur": null,
+        "price_rsd": 378424.52
+      },
+      {
+        "room_type": "Standard Junior Suite (LateralSeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 468720.88,
+        "price_eur": null,
+        "price_rsd": 396095.12
+      },
+      {
+        "room_type": "Large Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 508377.73,
+        "price_eur": null,
+        "price_rsd": 428418.86
+      },
+      {
+        "room_type": "2 Rooms Standard FamilyRoom (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 556362.78,
+        "price_eur": null,
+        "price_rsd": 467512.29
+      },
+      {
+        "room_type": "2 Rooms Standard Suite (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 643555.29,
+        "price_eur": null,
+        "price_rsd": 538562.1
+      },
+      {
+        "room_type": "2 Rooms Standard Suite (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 709074.32,
+        "price_eur": null,
+        "price_rsd": 591941.29
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/izmir/dogan-beach-resort?SearchType=1&Hotel=15553&P=1&CheckIn=2026-06-10&Night=7&HpCode=IZMWOTS26K&ClId=299",
+    "title": "Dogan Beach Resort & Spa",
+    "location": "TURSKA - IZMIR",
+    "stars_raw": "6",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 180553.36
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/izmir/paloma-pasha-resort?SearchType=1&Hotel=13113&P=1&CheckIn=2026-06-10&Night=7&HpCode=IZMWFG26K&ClId=299",
+    "title": "PALOMA PASHA RESORT",
+    "location": "TURSKA - IZMIR",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD GARDEN VIEW",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 3095.88,
+        "old_price_rsd": null,
+        "price_eur": 2659.82,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 3174.28,
+        "old_price_rsd": null,
+        "price_eur": 2724.11,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD POOL ACCESS",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 3284.04,
+        "old_price_rsd": null,
+        "price_eur": 2814.11,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TERRACE SUITE",
+        "board": "ULTRA ALL INCLUSIVE",
+        "old_price_eur": 4546.28,
+        "old_price_rsd": null,
+        "price_eur": 3849.15,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/izmir/club-yali-hotels---resort?SearchType=1&Hotel=4010&P=1&CheckIn=2026-06-10&Night=7&HpCode=IZMWOTS26K&ClId=299",
+    "title": "Club Yali Hotels & Resort",
+    "location": "TURSKA - IZMIR",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 248155.46,
+        "price_eur": null,
+        "price_rsd": 200974.15
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 257283.47,
+        "price_eur": null,
+        "price_rsd": 207592.16
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 333972.94,
+        "price_eur": null,
+        "price_rsd": 263184.56
+      },
+      {
+        "room_type": "2 Rooms Family Bungalow (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 347656.74,
+        "price_eur": null,
+        "price_rsd": 273111.58
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/izmir/grand-efe?SearchType=1&Hotel=10277&P=1&CheckIn=2026-06-10&Night=7&HpCode=IZMWFG26K&ClId=299",
+    "title": "Grand Efe",
+    "location": "TURSKA - IZMIR",
+    "stars_raw": "8",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD LAND VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1716.04,
+        "old_price_rsd": null,
+        "price_eur": 1403.22,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1810.12,
+        "old_price_rsd": null,
+        "price_eur": 1469.08,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY CONNECTING ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2500.04,
+        "old_price_rsd": null,
+        "price_eur": 1952.02,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/izmir/cactus-paradise?SearchType=1&Hotel=10276&P=1&CheckIn=2026-06-10&Night=7&HpCode=IZMWOTS26K&ClId=299",
+    "title": "Cactus Paradise",
+    "location": "TURSKA - IZMIR",
+    "stars_raw": "8",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 222604.12,
+        "price_eur": null,
+        "price_rsd": 182444.22
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 231732.13,
+        "price_eur": null,
+        "price_rsd": 189062.24
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 295628.2,
+        "price_eur": null,
+        "price_rsd": 235388.35
+      },
+      {
+        "room_type": "Standard FamilyRoom (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 309328.42,
+        "price_eur": null,
+        "price_rsd": 245315.38
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/izmir/dogan-paradise-beach-resort?SearchType=1&Hotel=13109&P=1&CheckIn=2026-06-10&Night=7&HpCode=IZMWOTS26K&ClId=299",
+    "title": "Dogan Paradise Family Club",
+    "location": "TURSKA - IZMIR",
+    "stars_raw": "6",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 180553.36
+      },
+      {
+        "room_type": "Double Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 232552.06
+      }
+    ]
+  }
+]

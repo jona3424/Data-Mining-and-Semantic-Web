@@ -1,0 +1,1198 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/grand-resort---limasol?SearchId=be7fc8e0-12ba-4bd5-9932-4af332fed89d&SearchType=1&Hotel=3356&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "GRAND RESORT - LIMASOL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DELUXE INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2818,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3118,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3490,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE FAMILY GARDEN VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3738,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3790,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE FAMILY SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4150,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE FAMILY GARDEN VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4410,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE FAMILY SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4818,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/atlantica-miramare-beach?SearchType=1&Hotel=3353&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=183",
+    "title": "ATLANTICA MIRAMARE BEACH",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1978,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2150,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/park-beach?SearchType=1&Hotel=16288&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=183",
+    "title": "PARK BEACH",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1790,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1838,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1898,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/poseidonia-beach-hotel?SearchType=1&Hotel=8408&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=183",
+    "title": "POSEIDONIA BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2030,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2398,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2498,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2870,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/st-raphael-resort-and-marina?SearchType=1&Hotel=3359&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=183",
+    "title": "ST RAPHAEL RESORT AND MARINA",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2950,
+        "price_rsd": null
+      },
+      {
+        "room_type": "EXECUTIVE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3050,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD FRONT SEA / MARINA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3138,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3270,
+        "price_rsd": null
+      },
+      {
+        "room_type": "EXECUTIVE ROOM MARINA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3350,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3490,
+        "price_rsd": null
+      },
+      {
+        "room_type": "EXECUTIVE ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3590,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD FRONT SEA / MARINA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3670,
+        "price_rsd": null
+      },
+      {
+        "room_type": "EXECUTIVE ROOM MARINA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3890,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/poseidonia-beach-hotel?SearchId=be7fc8e0-12ba-4bd5-9932-4af332fed89d&SearchType=1&Hotel=8408&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "POSEIDONIA BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2030,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2398,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2498,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2870,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/harmony-bay-hotel?SearchType=1&Hotel=6408&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=183",
+    "title": "HARMONY BAY HOTEL - LIMASOL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1958,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2058,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/park-beach?SearchId=be7fc8e0-12ba-4bd5-9932-4af332fed89d&SearchType=1&Hotel=16288&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "PARK BEACH",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1790,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1838,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1898,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/amathus-beach-hotel?SearchId=be7fc8e0-12ba-4bd5-9932-4af332fed89d&SearchType=1&Hotel=3360&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "AMATHUS BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3638,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4318,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/four-seasons?SearchType=1&Hotel=3298&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=183",
+    "title": "FOUR SEASONS",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3950,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4750,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4998,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/amathus-beach-hotel?SearchId=ce897be7-b748-4ad0-9369-969ec9482649&SearchType=1&Hotel=3360&P=1&CheckIn=2025-12-29&Night=7&HpCode=KIPAR26NGO",
+    "title": "AMATHUS BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "10",
+    "departure_date_raw": "29.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2498,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2810,
+        "price_rsd": null
+      },
+      {
+        "room_type": "LUXURY ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4098,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/grand-resort---limasol?SearchType=1&Hotel=3356&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=183",
+    "title": "GRAND RESORT - LIMASOL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DELUXE INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2818,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3118,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3490,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE FAMILY GARDEN VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3738,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3790,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE FAMILY SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4150,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE FAMILY GARDEN VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4410,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE FAMILY SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4818,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/royal-apollonia-beach-hotel?SearchType=1&Hotel=3357&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=183",
+    "title": "ROYAL APOLLONIA BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2970,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3238,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3318,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3558,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3830,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/four-seasons?SearchId=be7fc8e0-12ba-4bd5-9932-4af332fed89d&SearchType=1&Hotel=3298&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "FOUR SEASONS",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3950,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4750,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4998,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/odysseia-hotel?SearchId=be7fc8e0-12ba-4bd5-9932-4af332fed89d&SearchType=1&Hotel=3963&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "ODYSSEIA HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2058,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2410,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2430,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2790,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/kapetanios-limassol-hotel?SearchType=1&Hotel=3350&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=183",
+    "title": "KAPETANIOS LIMASSOL HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1790,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/harmony-bay-hotel?SearchId=be7fc8e0-12ba-4bd5-9932-4af332fed89d&SearchType=1&Hotel=6408&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "HARMONY BAY HOTEL - LIMASOL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1958,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2058,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/st-raphael-resort-and-marina?SearchId=be7fc8e0-12ba-4bd5-9932-4af332fed89d&SearchType=1&Hotel=3359&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "ST RAPHAEL RESORT AND MARINA",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2950,
+        "price_rsd": null
+      },
+      {
+        "room_type": "EXECUTIVE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3050,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD FRONT SEA / MARINA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3138,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3270,
+        "price_rsd": null
+      },
+      {
+        "room_type": "EXECUTIVE ROOM MARINA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3350,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3490,
+        "price_rsd": null
+      },
+      {
+        "room_type": "EXECUTIVE ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3590,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD FRONT SEA / MARINA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3670,
+        "price_rsd": null
+      },
+      {
+        "room_type": "EXECUTIVE ROOM MARINA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3890,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/amara-hotel?SearchId=be7fc8e0-12ba-4bd5-9932-4af332fed89d&SearchType=1&Hotel=18163&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "AMARA HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5090,
+        "price_rsd": null
+      },
+      {
+        "room_type": "GRAND DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5510,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/atlantica-miramare-beach?SearchId=be7fc8e0-12ba-4bd5-9932-4af332fed89d&SearchType=1&Hotel=3353&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "ATLANTICA MIRAMARE BEACH",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1978,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2150,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/mediterranean-beach-hotel?SearchType=1&Hotel=2918&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=183",
+    "title": "MEDITERRANEAN BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2450,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2698,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2798,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2870,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/four-seasons?SearchId=ce897be7-b748-4ad0-9369-969ec9482649&SearchType=1&Hotel=3298&P=1&CheckIn=2025-12-29&Night=7&HpCode=KIPAR26NGO",
+    "title": "FOUR SEASONS",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "10",
+    "departure_date_raw": "29.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2810,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3310,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM SEA VIEW WITH LARGE TERRACE",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3898,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/odysseia-hotel?SearchType=1&Hotel=3963&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=183",
+    "title": "ODYSSEIA HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2058,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2410,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2430,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2790,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/kapetanios-limassol-hotel?SearchId=be7fc8e0-12ba-4bd5-9932-4af332fed89d&SearchType=1&Hotel=3350&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "KAPETANIOS LIMASSOL HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1790,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/royal-apollonia-beach-hotel?SearchId=be7fc8e0-12ba-4bd5-9932-4af332fed89d&SearchType=1&Hotel=3357&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "ROYAL APOLLONIA BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2970,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3238,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3318,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3558,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3830,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/amara-hotel?SearchType=1&Hotel=18163&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=183",
+    "title": "AMARA HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5090,
+        "price_rsd": null
+      },
+      {
+        "room_type": "GRAND DELUXE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5510,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/amathus-beach-hotel?SearchType=1&Hotel=3360&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=183",
+    "title": "AMATHUS BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3638,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4318,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/limasol/mediterranean-beach-hotel?SearchId=be7fc8e0-12ba-4bd5-9932-4af332fed89d&SearchType=1&Hotel=2918&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "MEDITERRANEAN BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - LIMASOL",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2450,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2698,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2798,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2870,
+        "price_rsd": null
+      }
+    ]
+  }
+]

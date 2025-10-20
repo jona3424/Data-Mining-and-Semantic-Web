@@ -1,0 +1,56 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/spanija/barselona/catalonia-park-guell?SearchId=d6cb934a-6cca-4947-97eb-36cae81f049d&SearchType=1&Hotel=19454&P=1&CheckIn=2025-12-10&Night=4&HpCode=BCN26MKT",
+    "title": "CATALONIA PARK GUELL",
+    "location": "SPANIJA - BARSELONA",
+    "stars_raw": "6",
+    "departure_date_raw": "10.12.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1444,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1578,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/spanija/barselona/catalonia-park-guell?SearchType=1&Hotel=19454&P=1&CheckIn=2025-12-10&Night=4&HpCode=BCN26MKT&ClId=281",
+    "title": "CATALONIA PARK GUELL",
+    "location": "SPANIJA - BARSELONA",
+    "stars_raw": "6",
+    "departure_date_raw": "10.12.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1444,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1578,
+        "price_rsd": null
+      }
+    ]
+  }
+]

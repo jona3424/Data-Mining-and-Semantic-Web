@@ -1,0 +1,1906 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/titanic-deluxe-golf-belek?SearchType=1&Hotel=2273&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Titanic Deluxe Golf Belek",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 456061,
+        "price_eur": null,
+        "price_rsd": 374187.41
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 492011.72,
+        "price_eur": null,
+        "price_rsd": 401942.56
+      },
+      {
+        "room_type": "Junior Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 590652.17,
+        "price_eur": null,
+        "price_rsd": 478117.28
+      },
+      {
+        "room_type": "Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 635770.03,
+        "price_eur": null,
+        "price_rsd": 512963.15
+      },
+      {
+        "room_type": "Double Junior Suite (PoolView, SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 635770.03,
+        "price_eur": null,
+        "price_rsd": 512963.15
+      },
+      {
+        "room_type": "Superior Junior Suite (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 671716.06,
+        "price_eur": null,
+        "price_rsd": 540718.3
+      },
+      {
+        "room_type": "2 Bedroom MainBuilding FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 815486.1,
+        "price_eur": null,
+        "price_rsd": 651738.91
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilySuite (PoolSide, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 995198.64,
+        "price_eur": null,
+        "price_rsd": 790514.65
+      },
+      {
+        "room_type": "Standard FamilySuite (PoolView, Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1085057.33,
+        "price_eur": null,
+        "price_rsd": 859903.18
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/bellis-deluxe-hotel?SearchType=1&Hotel=3005&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Bellis Deluxe Hotel",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 399164.24,
+        "price_eur": null,
+        "price_rsd": 315975.88
+      },
+      {
+        "room_type": "GardenBuilding Room (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 399164.24,
+        "price_eur": null,
+        "price_rsd": 315975.88
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 408292.25,
+        "price_eur": null,
+        "price_rsd": 322593.9
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 417420.26,
+        "price_eur": null,
+        "price_rsd": 329211.91
+      },
+      {
+        "room_type": "Standard Junior Suite (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 463060.3,
+        "price_eur": null,
+        "price_rsd": 362301.99
+      },
+      {
+        "room_type": "GardenBuilding Suite (PoolView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 517828.36,
+        "price_eur": null,
+        "price_rsd": 402010.09
+      },
+      {
+        "room_type": "GardenBuilding FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 673656.53,
+        "price_eur": null,
+        "price_rsd": 514989.09
+      },
+      {
+        "room_type": "Standard FamilyRoom (Balcony)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 673656.53,
+        "price_eur": null,
+        "price_rsd": 514989.09
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/ela-excellence-resort-belek?SearchType=1&Hotel=92&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Ela Excellence Resort Belek",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Superior Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 547598.08,
+        "price_eur": null,
+        "price_rsd": 380265.19
+      },
+      {
+        "room_type": "Superior Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 571041.02,
+        "price_eur": null,
+        "price_rsd": 395013.37
+      },
+      {
+        "room_type": "Deluxe Lake Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 583675.05,
+        "price_eur": null,
+        "price_rsd": 402955.52
+      },
+      {
+        "room_type": "Room (SeaView, Honeymooners)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 592694.3,
+        "price_eur": null,
+        "price_rsd": 408628.11
+      },
+      {
+        "room_type": "Superior Room (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 624261.64,
+        "price_eur": null,
+        "price_rsd": 428482.15
+      },
+      {
+        "room_type": "Corner FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 637790.51,
+        "price_eur": null,
+        "price_rsd": 436991.03
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 773079.15,
+        "price_eur": null,
+        "price_rsd": 522079.81
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 795627.27,
+        "price_eur": null,
+        "price_rsd": 536261.28
+      },
+      {
+        "room_type": "Family Lake House (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 818175.37,
+        "price_eur": null,
+        "price_rsd": 550442.73
+      },
+      {
+        "room_type": "2 Bedroom Family Lake House (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1043656.45,
+        "price_eur": null,
+        "price_rsd": 692257.37
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/ethno-belek?SearchType=1&Hotel=16979&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Ethno Belek",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 552283.4,
+        "price_eur": null,
+        "price_rsd": 493716.88
+      },
+      {
+        "room_type": "Double Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 591338.9,
+        "price_eur": null,
+        "price_rsd": 527752.4
+      },
+      {
+        "room_type": "Double Superior Room (With Jacuzzi)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 604357.4,
+        "price_eur": null,
+        "price_rsd": 539097.57
+      },
+      {
+        "room_type": "Double Superior Room (SeaView, With Jacuzzi)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 623885.14,
+        "price_eur": null,
+        "price_rsd": 556115.32
+      },
+      {
+        "room_type": "Double Deluxe Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 636903.65,
+        "price_eur": null,
+        "price_rsd": 567460.49
+      },
+      {
+        "room_type": "Double Deluxe Room (SeaView, SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 669449.89,
+        "price_eur": null,
+        "price_rsd": 595823.42
+      },
+      {
+        "room_type": "FamilySuite (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 848454.26,
+        "price_eur": null,
+        "price_rsd": 751819.51
+      },
+      {
+        "room_type": "Duplex Suite (PoolView, Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1177171.37,
+        "price_eur": null,
+        "price_rsd": 1038285.07
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/selectum-luxury-resort-belek?SearchType=1&Hotel=11788&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Selectum Luxury Resort Belek",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 390472.49,
+        "price_eur": null,
+        "price_rsd": 323539.33
+      },
+      {
+        "room_type": "Luxury Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 390470.14,
+        "price_eur": null,
+        "price_rsd": 323539.33
+      },
+      {
+        "room_type": "Luxury Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 399649.02,
+        "price_eur": null,
+        "price_rsd": 330630.06
+      },
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 408839.62,
+        "price_eur": null,
+        "price_rsd": 337720.79
+      },
+      {
+        "room_type": "Luxury Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 412507.89,
+        "price_eur": null,
+        "price_rsd": 340557.09
+      },
+      {
+        "room_type": "Double Deluxe Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 412507.89,
+        "price_eur": null,
+        "price_rsd": 340557.09
+      },
+      {
+        "room_type": "Double Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 436378.59,
+        "price_eur": null,
+        "price_rsd": 358992.98
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/sensitive-premium-resort---spa?SearchType=1&Hotel=10128&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Sensitive Premium Resort & Spa",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 251149.22,
+        "price_eur": null,
+        "price_rsd": 201282.14
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 254771.58,
+        "price_eur": null,
+        "price_rsd": 203739.73
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 258410.34,
+        "price_eur": null,
+        "price_rsd": 206197.32
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 373381.6,
+        "price_eur": null,
+        "price_rsd": 284068.25
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/susesi-luxury-resort?SearchType=1&Hotel=85&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Susesi Luxury Resort",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 381281.89,
+        "price_eur": null,
+        "price_rsd": 316448.59
+      },
+      {
+        "room_type": "Double Deluxe Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 399663.08,
+        "price_eur": null,
+        "price_rsd": 330630.06
+      },
+      {
+        "room_type": "Double Deluxe Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 518111.18,
+        "price_eur": null,
+        "price_rsd": 422099.83
+      },
+      {
+        "room_type": "Double Deluxe Superior Room (PoolView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 536469.09,
+        "price_eur": null,
+        "price_rsd": 436282.62
+      },
+      {
+        "room_type": "Standard Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 595243.28,
+        "price_eur": null,
+        "price_rsd": 481661.98
+      },
+      {
+        "room_type": "Standard Suite (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 627378.22,
+        "price_eur": null,
+        "price_rsd": 506480.2
+      },
+      {
+        "room_type": "Triple FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 737566.93,
+        "price_eur": null,
+        "price_rsd": 591568.98
+      },
+      {
+        "room_type": "Junior Suite (With Jacuzzi)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1005692.8,
+        "price_eur": null,
+        "price_rsd": 798618.34
+      },
+      {
+        "room_type": "Royal Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1157198.85,
+        "price_eur": null,
+        "price_rsd": 915616.08
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/aydinbey-famous-resort?SearchType=1&Hotel=66&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Aydinbey Famous Resort",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 260940.09,
+        "price_eur": null,
+        "price_rsd": 215760.21
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 270068.1,
+        "price_eur": null,
+        "price_rsd": 222378.23
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 425244.26,
+        "price_eur": null,
+        "price_rsd": 334884.5
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/orange-county-hotel-belek?SearchType=1&Hotel=1439&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Orange County Hotel Belek",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 320765.62,
+        "price_eur": null,
+        "price_rsd": 226632.67
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 329722.28,
+        "price_eur": null,
+        "price_rsd": 231832.53
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 338695.34,
+        "price_eur": null,
+        "price_rsd": 237032.41
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 459716.19,
+        "price_eur": null,
+        "price_rsd": 307229.99
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/papillon-zeugma-relaxury?SearchType=1&Hotel=81&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Papillon Zeugma Relaxury",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Superior Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 425541.85,
+        "price_eur": null,
+        "price_rsd": 381116.6
+      },
+      {
+        "room_type": "Double Superior Room (Seaside)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 444124.16,
+        "price_eur": null,
+        "price_rsd": 397188.92
+      },
+      {
+        "room_type": "Junior Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 490588.16,
+        "price_eur": null,
+        "price_rsd": 437369.74
+      },
+      {
+        "room_type": "Upper Floor Suite (SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 490588.16,
+        "price_eur": null,
+        "price_rsd": 437369.74
+      },
+      {
+        "room_type": "Luxury Suite (Ground Floor)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 509170.47,
+        "price_eur": null,
+        "price_rsd": 453442.06
+      },
+      {
+        "room_type": "Duplex FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 630874.13,
+        "price_eur": null,
+        "price_rsd": 558715.92
+      },
+      {
+        "room_type": "Excellence Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 918908.27,
+        "price_eur": null,
+        "price_rsd": 807836.96
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/selectum-noa-belek?SearchType=1&Hotel=18544&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Selectum Noa Belek",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 320880.6,
+        "price_eur": null,
+        "price_rsd": 248512.63
+      },
+      {
+        "room_type": "Standard Villa",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 329957.74,
+        "price_eur": null,
+        "price_rsd": 254657.93
+      },
+      {
+        "room_type": "FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 410975.86,
+        "price_eur": null,
+        "price_rsd": 309527.36
+      },
+      {
+        "room_type": "FamilySuite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 422315.5,
+        "price_eur": null,
+        "price_rsd": 317208.65
+      },
+      {
+        "room_type": "King Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 487453.41,
+        "price_eur": null,
+        "price_rsd": 361322.14
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/selectum-family-resort-belek?SearchType=1&Hotel=74&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Selectum Family Resort Belek",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 314389.81,
+        "price_eur": null,
+        "price_rsd": 264787.56
+      },
+      {
+        "room_type": "Double Nature Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 318062.76,
+        "price_eur": null,
+        "price_rsd": 267623.85
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 318062.76,
+        "price_eur": null,
+        "price_rsd": 267623.85
+      },
+      {
+        "room_type": "MainBuilding FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 561630.38,
+        "price_eur": null,
+        "price_rsd": 455710.3
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/papillon-ayscha?SearchType=1&Hotel=82&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Papillon Ayscha",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 393827.71,
+        "price_eur": null,
+        "price_rsd": 367218.5
+      },
+      {
+        "room_type": "Double Standard Room (Seaside)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 412518.79,
+        "price_eur": null,
+        "price_rsd": 384236.25
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 617179.08,
+        "price_eur": null,
+        "price_rsd": 570580.15
+      },
+      {
+        "room_type": "2 ConnectingRooms FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 691011.3,
+        "price_eur": null,
+        "price_rsd": 637801.08
+      },
+      {
+        "room_type": "2 ConnectingRooms FamilyRoom (Seaside)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 728393.47,
+        "price_eur": null,
+        "price_rsd": 671836.59
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/gloria-serenity-resort?SearchType=1&Hotel=88&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Gloria Serenity Resort",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Superior Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 696037.87,
+        "price_eur": null,
+        "price_rsd": 530378.3
+      },
+      {
+        "room_type": "Superior Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 759933.93,
+        "price_eur": null,
+        "price_rsd": 576704.41
+      },
+      {
+        "room_type": "Superior Room (Terrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 814701.99,
+        "price_eur": null,
+        "price_rsd": 616412.51
+      },
+      {
+        "room_type": "Double Suite (Garden or Pool View, Balcony or Terrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 997262.18,
+        "price_eur": null,
+        "price_rsd": 748772.83
+      },
+      {
+        "room_type": "Standard Villa (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1449098.65,
+        "price_eur": null,
+        "price_rsd": 1076364.62
+      },
+      {
+        "room_type": "Standard Villa (PoolSide)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1900935.13,
+        "price_eur": null,
+        "price_rsd": 1403956.43
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/limak-arcadia-sport-resort?SearchType=1&Hotel=68&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Limak Arcadia Sport Resort",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 307149.35,
+        "price_eur": null,
+        "price_rsd": 278712.13
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 310856.5,
+        "price_eur": null,
+        "price_rsd": 281927.13
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/belconti-resort?SearchType=1&Hotel=4827&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Belconti Resort",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Comfort Room Club (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 395559.41,
+        "price_eur": null,
+        "price_rsd": 284641.6
+      },
+      {
+        "room_type": "Standard Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 413597.9,
+        "price_eur": null,
+        "price_rsd": 295986.77
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 431636.38,
+        "price_eur": null,
+        "price_rsd": 307331.95
+      },
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 431636.38,
+        "price_eur": null,
+        "price_rsd": 307331.95
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 449674.86,
+        "price_eur": null,
+        "price_rsd": 318677.11
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 649385.5,
+        "price_eur": null,
+        "price_rsd": 444284.35
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/calista-luxury-resort?SearchType=1&Hotel=86&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Calista Luxury Resort",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Superior Room (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 644316.49,
+        "price_eur": null,
+        "price_rsd": 493716.88
+      },
+      {
+        "room_type": "Superior Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 699084.55,
+        "price_eur": null,
+        "price_rsd": 533424.98
+      },
+      {
+        "room_type": "Duplex Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 753852.61,
+        "price_eur": null,
+        "price_rsd": 573133.08
+      },
+      {
+        "room_type": "Corner Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 863388.72,
+        "price_eur": null,
+        "price_rsd": 652549.27
+      },
+      {
+        "room_type": "2 ConnectingRooms FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 909945.11,
+        "price_eur": null,
+        "price_rsd": 686301.41
+      },
+      {
+        "room_type": "2 ConnectingRooms Superior FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1213900.75,
+        "price_eur": null,
+        "price_rsd": 906680.83
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/the-land-of-legends-kingdom-hotel?SearchType=1&Hotel=8331&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "The Land of Legends Kingdom Hotel",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 447005.91,
+        "price_eur": null,
+        "price_rsd": 407682.68
+      },
+      {
+        "room_type": "2 Bedroom Standard Junior Suite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 806136.84,
+        "price_eur": null,
+        "price_rsd": 726506.07
+      },
+      {
+        "room_type": "2 ConnectingRooms Deluxe Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 823649.2,
+        "price_eur": null,
+        "price_rsd": 742058.01
+      },
+      {
+        "room_type": "2 Bedroom FamilySuite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 858691.64,
+        "price_eur": null,
+        "price_rsd": 773163.21
+      },
+      {
+        "room_type": "Grand Suite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1060156.82,
+        "price_eur": null,
+        "price_rsd": 952013.84
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/asteria-family-resort-belek?SearchType=1&Hotel=15460&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Asteria Family Resort Belek",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Nature Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 268764.1,
+        "price_eur": null,
+        "price_rsd": 221432.79
+      },
+      {
+        "room_type": "Aqua Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 277892.11,
+        "price_eur": null,
+        "price_rsd": 228050.81
+      },
+      {
+        "room_type": "Standard Room (Hill)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 277892.11,
+        "price_eur": null,
+        "price_rsd": 228050.81
+      },
+      {
+        "room_type": "Aqua Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 287020.12,
+        "price_eur": null,
+        "price_rsd": 234668.82
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 287020.12,
+        "price_eur": null,
+        "price_rsd": 234668.82
+      },
+      {
+        "room_type": "Nature FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 329010.17,
+        "price_eur": null,
+        "price_rsd": 265111.97
+      },
+      {
+        "room_type": "Superior FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 354828.19,
+        "price_eur": null,
+        "price_rsd": 283831.23
+      },
+      {
+        "room_type": "Aqua FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 365976.27,
+        "price_eur": null,
+        "price_rsd": 291915.06
+      },
+      {
+        "room_type": "Duplex FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 395904.23,
+        "price_eur": null,
+        "price_rsd": 313612.3
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/adam---eve-hotel?SearchType=1&Hotel=91&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Adam & Eve Hotel",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 464765.9,
+        "price_eur": null,
+        "price_rsd": 345959.55
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 519207.66,
+        "price_eur": null,
+        "price_rsd": 382831.35
+      },
+      {
+        "room_type": "Standard Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 788498.87,
+        "price_eur": null,
+        "price_rsd": 565216.08
+      },
+      {
+        "room_type": "Royal Villa",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1364351.14,
+        "price_eur": null,
+        "price_rsd": 955222.21
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/spice-hotel---spa?SearchType=1&Hotel=79&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Spice Hotel & Spa",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 298790.79,
+        "price_eur": null,
+        "price_rsd": 261140.89
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 312267.26,
+        "price_eur": null,
+        "price_rsd": 272107.36
+      },
+      {
+        "room_type": "Annex Room (PoolSide)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 312267.26,
+        "price_eur": null,
+        "price_rsd": 272107.36
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 325745.04,
+        "price_eur": null,
+        "price_rsd": 283075.15
+      },
+      {
+        "room_type": "Double Standard Room (SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 399860.03,
+        "price_eur": null,
+        "price_rsd": 343393.38
+      },
+      {
+        "room_type": "Standard Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 474663.97,
+        "price_eur": null,
+        "price_rsd": 404261.12
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 490833.55,
+        "price_eur": null,
+        "price_rsd": 417420.35
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/gloria-golf-resort?SearchType=1&Hotel=83&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Gloria Golf Resort",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 531733.7,
+        "price_eur": null,
+        "price_rsd": 411254.02
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 531733.7,
+        "price_eur": null,
+        "price_rsd": 411254.02
+      },
+      {
+        "room_type": "Standard Junior Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 577373.75,
+        "price_eur": null,
+        "price_rsd": 444344.09
+      },
+      {
+        "room_type": "Standard Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 641269.81,
+        "price_eur": null,
+        "price_rsd": 490670.2
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilySuite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 794621.49,
+        "price_eur": null,
+        "price_rsd": 601852.35
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilySuite (PoolSide, Balcony)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 860342.04,
+        "price_eur": null,
+        "price_rsd": 649502.59
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/maxx-royal-belek-golf-resort?SearchType=1&Hotel=94&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Maxx Royal Belek Golf Resort",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 854051.55,
+        "price_eur": null,
+        "price_rsd": 716838.57
+      },
+      {
+        "room_type": "Double Standard Suite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 927945.76,
+        "price_eur": null,
+        "price_rsd": 777346.15
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1149628.37,
+        "price_eur": null,
+        "price_rsd": 958868.87
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1195812.26,
+        "price_eur": null,
+        "price_rsd": 996686.11
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1269706.47,
+        "price_eur": null,
+        "price_rsd": 1057193.69
+      },
+      {
+        "room_type": "Standard FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1371311,
+        "price_eur": null,
+        "price_rsd": 1140391.6
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/aydinbey-queens-palace---spa?SearchType=1&Hotel=14147&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Aydinbey Queens Palace & Spa",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1423.52,
+        "old_price_rsd": null,
+        "price_eur": 1261.07,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD WITHOUT BALCONY",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1673.4,
+        "old_price_rsd": null,
+        "price_eur": 1349.41,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1587.68,
+        "old_price_rsd": null,
+        "price_eur": 1384.19,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD WITH BALCONY",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1737.24,
+        "old_price_rsd": null,
+        "price_eur": 1390.91,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1748.42,
+        "old_price_rsd": null,
+        "price_eur": 1504.75,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD WITHOUT BALCONY",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1896.84,
+        "old_price_rsd": null,
+        "price_eur": 1552.1,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD ROOM SIDE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 1992.6,
+        "old_price_rsd": null,
+        "price_eur": 1619.14,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 259961.2,
+        "price_eur": null,
+        "price_rsd": 207251.33
+      },
+      {
+        "room_type": "Standard Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 269026.62,
+        "price_eur": null,
+        "price_rsd": 213396.63
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 423286.46,
+        "price_eur": null,
+        "price_rsd": 317866.74
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/limak-atlantis-deluxe-hotel---resort?SearchType=1&Hotel=72&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Limak Atlantis Deluxe Hotel & Resort",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 315902.53,
+        "price_eur": null,
+        "price_rsd": 286288.83
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 319626.08,
+        "price_eur": null,
+        "price_rsd": 289503.82
+      },
+      {
+        "room_type": "2 Rooms Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 445057.98,
+        "price_eur": null,
+        "price_rsd": 397992.67
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/papillon-belvil?SearchType=1&Hotel=497&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Papillon Belvil",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Comfort Room Club (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 393827.71,
+        "price_eur": null,
+        "price_rsd": 367218.5
+      },
+      {
+        "room_type": "Superior Room (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 421864.34,
+        "price_eur": null,
+        "price_rsd": 392745.13
+      },
+      {
+        "room_type": "Comfort FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 617179.08,
+        "price_eur": null,
+        "price_rsd": 570580.15
+      },
+      {
+        "room_type": "Superior FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 665780.55,
+        "price_eur": null,
+        "price_rsd": 614826.05
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/voyage-belek-golf---spa?SearchType=1&Hotel=80&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Voyage Belek Golf & Spa",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 447633.4,
+        "price_eur": null,
+        "price_rsd": 384046.9
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 466106.95,
+        "price_eur": null,
+        "price_rsd": 399173.8
+      },
+      {
+        "room_type": "Standard Bungalow",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 484580.51,
+        "price_eur": null,
+        "price_rsd": 414300.7
+      },
+      {
+        "room_type": "Standard Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 493817.29,
+        "price_eur": null,
+        "price_rsd": 421864.14
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 660079.26,
+        "price_eur": null,
+        "price_rsd": 558006.19
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 687789.58,
+        "price_eur": null,
+        "price_rsd": 580696.53
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 724736.68,
+        "price_eur": null,
+        "price_rsd": 610950.31
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/ic-hotels-santai-family-resort?SearchType=1&Hotel=73&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "IC Hotels Santai Family Resort",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 372419.66,
+        "price_eur": null,
+        "price_rsd": 322458.84
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 385354.69,
+        "price_eur": null,
+        "price_rsd": 333047.93
+      },
+      {
+        "room_type": "Standard Junior Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 510311.53,
+        "price_eur": null,
+        "price_rsd": 435370.29
+      },
+      {
+        "room_type": "Standard Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 510311.53,
+        "price_eur": null,
+        "price_rsd": 435370.29
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilySuite (PoolSide, SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 674065.26,
+        "price_eur": null,
+        "price_rsd": 569459.93
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/megasaray-club-belek?SearchType=1&Hotel=8405&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Megasaray Club Belek",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Club Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 300476.83,
+        "price_eur": null,
+        "price_rsd": 254050.16
+      },
+      {
+        "room_type": "Double Club Room (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 307822.75,
+        "price_eur": null,
+        "price_rsd": 259722.74
+      },
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 307822.75,
+        "price_eur": null,
+        "price_rsd": 259722.74
+      },
+      {
+        "room_type": "Double Deluxe Room (Pool Front, SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 344552.32,
+        "price_eur": null,
+        "price_rsd": 288085.67
+      },
+      {
+        "room_type": "Club FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 453374.26,
+        "price_eur": null,
+        "price_rsd": 372111.17
+      },
+      {
+        "room_type": "Deluxe FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 466229.61,
+        "price_eur": null,
+        "price_rsd": 382038.19
+      },
+      {
+        "room_type": "Deluxe Suite (SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 493315.29,
+        "price_eur": null,
+        "price_rsd": 402955.52
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/kirman-belazur-resort---spa-hotel?SearchType=1&Hotel=2704&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Kirman Belazur Resort & Spa Hotel",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 313340.39,
+        "price_eur": null,
+        "price_rsd": 263977.18
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 323841.58,
+        "price_eur": null,
+        "price_rsd": 272080.87
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 343505.24,
+        "price_eur": null,
+        "price_rsd": 287275.3
+      },
+      {
+        "room_type": "2 ConnectingRooms RunOfHouse FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 466953.46,
+        "price_eur": null,
+        "price_rsd": 382595.65
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/gural-premier-belek?SearchType=1&Hotel=269&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Gural Premier Belek",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 441635.05,
+        "price_eur": null,
+        "price_rsd": 363044.83
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 476524.63,
+        "price_eur": null,
+        "price_rsd": 389989.62
+      },
+      {
+        "room_type": "Deluxe Room (PoolView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 529520.15,
+        "price_eur": null,
+        "price_rsd": 430913.27
+      },
+      {
+        "room_type": "Deluxe FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 614128.25,
+        "price_eur": null,
+        "price_rsd": 496249.96
+      },
+      {
+        "room_type": "Superior FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 723451.41,
+        "price_eur": null,
+        "price_rsd": 580670.04
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 754618.77,
+        "price_eur": null,
+        "price_rsd": 604737.48
+      },
+      {
+        "room_type": "Deluxe FamilyRoom (PoolView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 810892.63,
+        "price_eur": null,
+        "price_rsd": 648194.2
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/belek/xanadu-resort?SearchType=1&Hotel=15200&P=1&CheckIn=2026-05-16&Night=7&HpCode=BKVW26&ClId=233",
+    "title": "Xanadu Resort",
+    "location": "TURSKA - BELEK",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Bungalow (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 431764.27,
+        "price_eur": null,
+        "price_rsd": 339611.65
+      },
+      {
+        "room_type": "Standard Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 431764.27,
+        "price_eur": null,
+        "price_rsd": 339611.65
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 468276.31,
+        "price_eur": null,
+        "price_rsd": 366083.72
+      },
+      {
+        "room_type": "Standard Junior Suite (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 515551.12,
+        "price_eur": null,
+        "price_rsd": 400356.25
+      },
+      {
+        "room_type": "Standard Junior Suite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 561191.17,
+        "price_eur": null,
+        "price_rsd": 433446.33
+      },
+      {
+        "room_type": "Standard Family Bungalow",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 599328.44,
+        "price_eur": null,
+        "price_rsd": 461099.52
+      },
+      {
+        "room_type": "2 Bedroom Standard Family Bungalow",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 683107.1,
+        "price_eur": null,
+        "price_rsd": 521844.12
+      }
+    ]
+  }
+]

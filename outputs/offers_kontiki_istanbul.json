@@ -1,0 +1,230 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/istanbul/elite-world-hotel?SearchId=bc2ad836-6f0c-4e6c-a6d7-8a771bd42fd3&SearchType=1&Hotel=1317&P=1&CheckIn=2025-12-30&Night=4&HpCode=ISTANNG26",
+    "title": "ELITE WORLD HOTEL",
+    "location": "TURSKA - ISTANBUL",
+    "stars_raw": "10",
+    "departure_date_raw": "30.12.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "CLASSIC ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1618,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/istanbul/vicenza-hotel?SearchType=1&Hotel=14081&P=1&CheckIn=2025-11-07&Night=4&HpCode=ISTANNOV25&ClId=287",
+    "title": "VICENZA HOTEL",
+    "location": "TURSKA - ISTANBUL",
+    "stars_raw": "8",
+    "departure_date_raw": "07.11.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1558,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/istanbul/eyfel-hotel?SearchId=bc2ad836-6f0c-4e6c-a6d7-8a771bd42fd3&SearchType=1&Hotel=15166&P=1&CheckIn=2025-12-30&Night=4&HpCode=ISTANNG26",
+    "title": "EYFEL HOTEL",
+    "location": "TURSKA - ISTANBUL",
+    "stars_raw": "6",
+    "departure_date_raw": "30.12.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1298,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/istanbul/swissotel-bosphorus-istanbul?SearchId=bc2ad836-6f0c-4e6c-a6d7-8a771bd42fd3&SearchType=1&Hotel=12012&P=1&CheckIn=2025-12-30&Night=4&HpCode=ISTANNG26",
+    "title": "SWISSOTEL BOSPHORUS ISTANBUL",
+    "location": "TURSKA - ISTANBUL",
+    "stars_raw": "10",
+    "departure_date_raw": "30.12.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "ADVANTAGE GARDEN VIEW ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2438,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/istanbul/grand-washington?SearchType=1&Hotel=292&P=1&CheckIn=2025-11-07&Night=4&HpCode=ISTANNOV25&ClId=287",
+    "title": "GRAND WASHINGTON",
+    "location": "TURSKA - ISTANBUL",
+    "stars_raw": "8",
+    "departure_date_raw": "07.11.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1458,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/istanbul/elite-world-hotel?SearchType=1&Hotel=1317&P=1&CheckIn=2025-11-07&Night=4&HpCode=ISTANNOV25&ClId=287",
+    "title": "ELITE WORLD HOTEL",
+    "location": "TURSKA - ISTANBUL",
+    "stars_raw": "10",
+    "departure_date_raw": "07.11.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "CLASSIC ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1718,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/istanbul/eyfel-hotel?SearchType=1&Hotel=15166&P=1&CheckIn=2025-11-07&Night=4&HpCode=ISTANNOV25&ClId=287",
+    "title": "EYFEL HOTEL",
+    "location": "TURSKA - ISTANBUL",
+    "stars_raw": "6",
+    "departure_date_raw": "07.11.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1398,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/istanbul/grand-washington?SearchId=bc2ad836-6f0c-4e6c-a6d7-8a771bd42fd3&SearchType=1&Hotel=292&P=1&CheckIn=2025-12-30&Night=4&HpCode=ISTANNG26",
+    "title": "GRAND WASHINGTON",
+    "location": "TURSKA - ISTANBUL",
+    "stars_raw": "8",
+    "departure_date_raw": "30.12.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1378,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/istanbul/vicenza-hotel?SearchId=bc2ad836-6f0c-4e6c-a6d7-8a771bd42fd3&SearchType=1&Hotel=14081&P=1&CheckIn=2025-12-30&Night=4&HpCode=ISTANNG26",
+    "title": "VICENZA HOTEL",
+    "location": "TURSKA - ISTANBUL",
+    "stars_raw": "8",
+    "departure_date_raw": "30.12.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1478,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/istanbul/the-central-palace?SearchId=bc2ad836-6f0c-4e6c-a6d7-8a771bd42fd3&SearchType=1&Hotel=6953&P=1&CheckIn=2025-12-30&Night=4&HpCode=ISTANNG26",
+    "title": "THE CENTRAL PALACE",
+    "location": "TURSKA - ISTANBUL",
+    "stars_raw": "8",
+    "departure_date_raw": "30.12.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1538,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/istanbul/the-central-palace?SearchType=1&Hotel=6953&P=1&CheckIn=2025-11-07&Night=4&HpCode=ISTANNOV25&ClId=287",
+    "title": "THE CENTRAL PALACE",
+    "location": "TURSKA - ISTANBUL",
+    "stars_raw": "8",
+    "departure_date_raw": "07.11.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1598,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/istanbul/swissotel-bosphorus-istanbul?SearchType=1&Hotel=12012&P=1&CheckIn=2025-11-07&Night=4&HpCode=ISTANNOV25&ClId=287",
+    "title": "SWISSOTEL BOSPHORUS ISTANBUL",
+    "location": "TURSKA - ISTANBUL",
+    "stars_raw": "10",
+    "departure_date_raw": "07.11.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "ADVANTAGE GARDEN VIEW ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2558,
+        "price_rsd": null
+      }
+    ]
+  }
+]

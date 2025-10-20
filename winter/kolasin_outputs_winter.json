@@ -1,0 +1,909 @@
+{
+  "kolasin": {
+    "location_url": "https://kontiki.rs/sr/location/kolasin",
+    "date_range": {
+      "from": "2026-01-10",
+      "to": "2026-01-31"
+    },
+    "by_date": {
+      "2026-01-10": {
+        "4": {
+          "hotels": [
+            {
+              "name": "Swissotel Resort Kolašin 4* (On Request)",
+              "city": "Kolasin",
+              "stars": 4
+            },
+            {
+              "name": "Bianca Resort & Spa",
+              "city": "Kolasin",
+              "stars": 4
+            },
+            {
+              "name": "Eco Resort Elite",
+              "city": "Kolašin",
+              "stars": 4
+            }
+          ],
+          "offers_by_hotel": {
+            "Swissotel Resort Kolašin 4* (On Request)": [
+              {
+                "error": "Frame.wait_for_selector: Timeout 35000ms exceeded.\nCall log:\n  - waiting for locator(\"#all_units .unit-definition-box, .room-rates-table, form.rate-plan-holder\")\n"
+              }
+            ],
+            "Bianca Resort & Spa": [
+              {
+                "error": "Frame.wait_for_selector: Timeout 35000ms exceeded.\nCall log:\n  - waiting for locator(\"#all_units .unit-definition-box, .room-rates-table, form.rate-plan-holder\")\n"
+              }
+            ],
+            "Eco Resort Elite": [
+              {
+                "room_name": "Two bedroom apartment",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 2-6 osobe",
+                "price_per_night": 140.4,
+                "price_total": 561.6,
+                "currency": null,
+                "nights": 4,
+                "raw": {
+                  "price_text": "140,40",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "38700",
+                  "rate_id": "479603"
+                }
+              },
+              {
+                "room_name": "Two bedroom apartment",
+                "board": null,
+                "capacity_text": "Kapacitet: 2-6 osobe",
+                "price_per_night": 140.4,
+                "price_total": 561.6,
+                "currency": null,
+                "nights": 4,
+                "raw": {
+                  "price_text": "140,40",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "38700",
+                  "rate_id": "479603"
+                }
+              }
+            ]
+          }
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-11": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-12": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-13": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-14": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-15": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-16": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-17": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-18": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-19": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-20": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-21": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-22": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-23": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-24": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-25": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-26": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-27": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-28": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-29": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-30": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      },
+      "2026-01-31": {
+        "4": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "5": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "6": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "7": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "8": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "9": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "10": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "11": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "12": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "13": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "14": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        },
+        "15": {
+          "error": "Page.goto: Page crashed\nCall log:\n  - navigating to \"https://kontiki.rs/sr/location/kolasin\", waiting until \"domcontentloaded\"\n"
+        }
+      }
+    }
+  }
+}

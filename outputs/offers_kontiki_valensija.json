@@ -1,0 +1,21 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/spanija/valensija/exe-rey-don-jaime?SearchType=1&Hotel=10894&P=1&CheckIn=2025-12-28&Night=4&HpCode=VLCNG26&ClId=280",
+    "title": "EXE REY DON JAIME",
+    "location": "SPANIJA - VALENSIJA",
+    "stars_raw": "8",
+    "departure_date_raw": "28.12.2025",
+    "nights": "4",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1718,
+        "price_rsd": null
+      }
+    ]
+  }
+]

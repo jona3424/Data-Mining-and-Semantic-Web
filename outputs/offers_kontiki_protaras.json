@@ -1,0 +1,1034 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/kokkinos-boutique?SearchId=7ee13531-6efa-4af2-b838-1b844b0fcbf7&SearchType=1&Hotel=17008&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "KOKKINOS BOUTIQUE",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "TWIN INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1490,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1690,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/vrissiana-beach-hotel?SearchId=7ee13531-6efa-4af2-b838-1b844b0fcbf7&SearchType=1&Hotel=17790&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "VRISSIANA BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2298,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2410,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/silver-sands-beach-hotel?SearchType=1&Hotel=18971&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=184",
+    "title": "SILVER SANDS BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "TWIN ROOM LAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1638,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1758,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/vrissaki-beach?SearchType=1&Hotel=17007&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=184",
+    "title": "VRISSAKI BEACH",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "TWIN INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1990,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2218,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW LARGE TERRACE",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2598,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/sunrise-pearl-hotel---spa?SearchId=7ee13531-6efa-4af2-b838-1b844b0fcbf7&SearchType=1&Hotel=17006&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "SUNRISE PEARL HOTEL & SPA",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DELUXE INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2790,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SIDE SEA VIEW ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2918,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3090,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3370,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/vrissiana-beach-hotel?SearchType=1&Hotel=17790&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=184",
+    "title": "VRISSIANA BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2298,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2410,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/iliada-hotel?SearchId=7ee13531-6efa-4af2-b838-1b844b0fcbf7&SearchType=1&Hotel=17367&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "ILIADA BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD LAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1638,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1810,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/cavo-maris-hotel?SearchId=7ee13531-6efa-4af2-b838-1b844b0fcbf7&SearchType=1&Hotel=894&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "CAVO MARIS HOTEL",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1638,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1778,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1910,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR FAMILY ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1950,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2010,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2150,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2330,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR FAMILY ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2370,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/crystal-springs-beach?SearchId=7ee13531-6efa-4af2-b838-1b844b0fcbf7&SearchType=1&Hotel=16721&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "CRYSTAL SPRINGS BEACH PROTARAS",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2370,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2458,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR FAMILY ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2610,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/protaras-plaza?SearchId=7ee13531-6efa-4af2-b838-1b844b0fcbf7&SearchType=1&Hotel=18356&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "PROTARAS PLAZA",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1710,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1758,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1810,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY LOFT SUITES",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1950,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/capo-bay?SearchType=1&Hotel=4612&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=184",
+    "title": "CAPO BAY",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "CLASSIC ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2130,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLASSIC SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2338,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR TRIPLE SEA SIDE VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2450,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLASSIC SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2470,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR TRIPLE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2578,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLASSIC ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2630,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLASSIC SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2838,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR TRIPLE SEA SIDE VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2950,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLASSIC SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2970,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR TRIPLE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3090,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/protaras-plaza?SearchType=1&Hotel=18356&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=184",
+    "title": "PROTARAS PLAZA",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1710,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1758,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1810,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY LOFT SUITES",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1950,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/sunrise-beach?SearchType=1&Hotel=17005&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=184",
+    "title": "SUNRISE BEACH",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "INLAND ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2598,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2718,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SEA VIEW ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2818,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3098,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/kokkinos-boutique?SearchType=1&Hotel=17008&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=184",
+    "title": "KOKKINOS BOUTIQUE",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "TWIN INLAND VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1490,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1690,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/golden-coast-beach-hotel?SearchType=1&Hotel=4613&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=184",
+    "title": "GOLDEN COAST BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2190,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2390,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR FAMILY ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2430,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/crystal-springs-beach?SearchType=1&Hotel=16721&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=184",
+    "title": "CRYSTAL SPRINGS BEACH PROTARAS",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2370,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2458,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR FAMILY ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2610,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/cavo-maris-hotel?SearchType=1&Hotel=894&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=184",
+    "title": "CAVO MARIS HOTEL",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1638,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1778,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1910,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR FAMILY ROOM SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1950,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2010,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2150,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2330,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR FAMILY ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2370,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/capo-bay?SearchId=7ee13531-6efa-4af2-b838-1b844b0fcbf7&SearchType=1&Hotel=4612&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "CAPO BAY",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "CLASSIC ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2130,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLASSIC SIDE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2338,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR TRIPLE SEA SIDE VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2450,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLASSIC SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2470,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR TRIPLE SEA VIEW",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2578,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLASSIC ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2630,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLASSIC SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2838,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR TRIPLE SEA SIDE VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2950,
+        "price_rsd": null
+      },
+      {
+        "room_type": "CLASSIC SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2970,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR TRIPLE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3090,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/iliada-hotel?SearchType=1&Hotel=17367&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=184",
+    "title": "ILIADA BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARD LAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1638,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1730,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1810,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/golden-coast-beach-hotel?SearchId=7ee13531-6efa-4af2-b838-1b844b0fcbf7&SearchType=1&Hotel=4613&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "GOLDEN COAST BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "SUPERIOR INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2190,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2390,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR FAMILY ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2430,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/sunrise-pearl-hotel---spa?SearchType=1&Hotel=17006&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7&ClId=184",
+    "title": "SUNRISE PEARL HOTEL & SPA",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "DELUXE INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2790,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE SIDE SEA VIEW ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2918,
+        "price_rsd": null
+      },
+      {
+        "room_type": "DELUXE ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3090,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3370,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/sunrise-beach?SearchId=7ee13531-6efa-4af2-b838-1b844b0fcbf7&SearchType=1&Hotel=17005&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "SUNRISE BEACH",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "INLAND ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2598,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2718,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SEA VIEW ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2818,
+        "price_rsd": null
+      },
+      {
+        "room_type": "JUNIOR SUITE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3098,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/vrissaki-beach?SearchId=7ee13531-6efa-4af2-b838-1b844b0fcbf7&SearchType=1&Hotel=17007&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "VRISSAKI BEACH",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "TWIN INLAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1990,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN ROOM SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2218,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SUPERIOR SEA VIEW LARGE TERRACE",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2598,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/kiparska-republika/protaras/silver-sands-beach-hotel?SearchId=7ee13531-6efa-4af2-b838-1b844b0fcbf7&SearchType=1&Hotel=18971&P=1&CheckIn=2025-10-23&Night=7&HpCode=NOVOKIPAR7",
+    "title": "SILVER SANDS BEACH HOTEL",
+    "location": "KIPARSKA REPUBLIKA - PROTARAS",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "TWIN ROOM LAND VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1638,
+        "price_rsd": null
+      },
+      {
+        "room_type": "TWIN SIDE SEA VIEW",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1758,
+        "price_rsd": null
+      }
+    ]
+  }
+]

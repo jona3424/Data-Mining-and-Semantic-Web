@@ -1,0 +1,1243 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/emelda-sun-club?SearchType=1&Hotel=112&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Emelda Sun Club",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 253644.77,
+        "price_eur": null,
+        "price_rsd": 210466.32
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 257292.43,
+        "price_eur": null,
+        "price_rsd": 213113.27
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 361711.45,
+        "price_eur": null,
+        "price_rsd": 288823.21
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/juju-premier-palace?SearchType=1&Hotel=10132&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Juju Premier Palace",
+    "location": "TURSKA - KEMERBahçecik Mahallesi, 38. Sk., 07985 Kemer/Antalya",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 297060.66,
+        "price_eur": null,
+        "price_rsd": 269987.42
+      },
+      {
+        "room_type": "Double Deluxe Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 310336.1,
+        "price_eur": null,
+        "price_rsd": 281467.66
+      },
+      {
+        "room_type": "Large Deluxe Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 323606.83,
+        "price_eur": null,
+        "price_rsd": 292947.88
+      },
+      {
+        "room_type": "Large Deluxe Room (LateralSeaView, Balcony or Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 336875.24,
+        "price_eur": null,
+        "price_rsd": 304428.12
+      },
+      {
+        "room_type": "Duplex FamilySuite (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 432315.69,
+        "price_eur": null,
+        "price_rsd": 386970.59
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/gural-premier-tekirova?SearchType=1&Hotel=133&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Gural Premier Tekirova",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 476524.63,
+        "price_eur": null,
+        "price_rsd": 389989.62
+      },
+      {
+        "room_type": "Double Deluxe Room (PoolView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 514303.61,
+        "price_eur": null,
+        "price_rsd": 419162.9
+      },
+      {
+        "room_type": "Deluxe FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 666468.98,
+        "price_eur": null,
+        "price_rsd": 536666.46
+      },
+      {
+        "room_type": "Deluxe FamilyRoom (PoolView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 723137.46,
+        "price_eur": null,
+        "price_rsd": 580426.4
+      },
+      {
+        "room_type": "Superior FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 754618.77,
+        "price_eur": null,
+        "price_rsd": 604737.48
+      },
+      {
+        "room_type": "Deluxe Superior FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 785786.14,
+        "price_eur": null,
+        "price_rsd": 628804.92
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/l-oceanica-hotel?SearchType=1&Hotel=7617&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "L'Oceanica Hotel",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Without Balcony-Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 205636.97,
+        "price_eur": null,
+        "price_rsd": 185885.13
+      },
+      {
+        "room_type": "Annex Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 209317.5,
+        "price_eur": null,
+        "price_rsd": 188909.45
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 216714,
+        "price_eur": null,
+        "price_rsd": 194960.73
+      },
+      {
+        "room_type": "MainBuilding FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 324785.4,
+        "price_eur": null,
+        "price_rsd": 283452.53
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/dosinia-luxury-resort?SearchType=1&Hotel=15203&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Dosinia Luxury Resort",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "GardenBuilding Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 220780.4,
+        "price_eur": null,
+        "price_rsd": 186641.2
+      },
+      {
+        "room_type": "Double Standard Room (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 222595.36,
+        "price_eur": null,
+        "price_rsd": 187964.01
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 229908.4,
+        "price_eur": null,
+        "price_rsd": 193259.21
+      },
+      {
+        "room_type": "Bunkbed Standard Room (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 254089.32,
+        "price_eur": null,
+        "price_rsd": 210796.03
+      },
+      {
+        "room_type": "Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 268243.62,
+        "price_eur": null,
+        "price_rsd": 221054.1
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 296535.79,
+        "price_eur": null,
+        "price_rsd": 241570.21
+      },
+      {
+        "room_type": "Double Standard Room (SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 313875.46,
+        "price_eur": null,
+        "price_rsd": 254144.17
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/akra-kemer?SearchType=1&Hotel=115&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Akra Kemer",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Superior Room (FrenchBalcony)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 407374.39,
+        "price_eur": null,
+        "price_rsd": 336586.01
+      },
+      {
+        "room_type": "Superior Room (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 424626.59,
+        "price_eur": null,
+        "price_rsd": 349917.37
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 441893.89,
+        "price_eur": null,
+        "price_rsd": 363247.43
+      },
+      {
+        "room_type": "Double Superior Room (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 506633.46,
+        "price_eur": null,
+        "price_rsd": 413238.73
+      },
+      {
+        "room_type": "Double Superior Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 528200.18,
+        "price_eur": null,
+        "price_rsd": 429900.3
+      },
+      {
+        "room_type": "Standard Penthouse",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 562736.08,
+        "price_eur": null,
+        "price_rsd": 456561.71
+      },
+      {
+        "room_type": "Deluxe Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 614522.87,
+        "price_eur": null,
+        "price_rsd": 496553.18
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/karmir-resort---spa?SearchType=1&Hotel=6394&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Karmir Resort & Spa",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 188100.24,
+        "price_eur": null,
+        "price_rsd": 182670.13
+      },
+      {
+        "room_type": "Comfort Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 233848.81,
+        "price_eur": null,
+        "price_rsd": 225687.23
+      },
+      {
+        "room_type": "Corner Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 242993.07,
+        "price_eur": null,
+        "price_rsd": 234290.12
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 247567.19,
+        "price_eur": null,
+        "price_rsd": 238593.56
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/orange-county-kemer-hotel?SearchType=1&Hotel=126&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Orange County Kemer Hotel",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 319397.84,
+        "price_eur": null,
+        "price_rsd": 214814.78
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 337218.79,
+        "price_eur": null,
+        "price_rsd": 224269.09
+      },
+      {
+        "room_type": "2 Bedroom Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 493602.43,
+        "price_eur": null,
+        "price_rsd": 307231.31
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/viking-beach-hotel?SearchType=1&Hotel=17909&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Viking Beach Hotel",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "6",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 210497.59,
+        "price_eur": null,
+        "price_rsd": 184560.99
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/maxx-royal-kemer-resort?SearchType=1&Hotel=3036&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Maxx Royal Kemer Resort",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1084970.94,
+        "price_eur": null,
+        "price_rsd": 905924.74
+      },
+      {
+        "room_type": "Standard Suite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1177338.7,
+        "price_eur": null,
+        "price_rsd": 981559.21
+      },
+      {
+        "room_type": "2 Bedroom GardenBuilding FamilySuite (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1676124.6,
+        "price_eur": null,
+        "price_rsd": 1389985.35
+      },
+      {
+        "room_type": "2 Bedroom GardenBuilding FamilySuite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1823913.02,
+        "price_eur": null,
+        "price_rsd": 1511000.5
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/pirate-s-beach-club?SearchType=1&Hotel=2549&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Pirate's Beach Club",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 215304.54
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/fame-residence-kemer---spa?SearchType=1&Hotel=111&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Fame Residence Kemer & Spa",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 258246.03,
+        "price_eur": null,
+        "price_rsd": 221432.79
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 269264.9,
+        "price_eur": null,
+        "price_rsd": 229941.67
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 355579.4,
+        "price_eur": null,
+        "price_rsd": 296594.55
+      },
+      {
+        "room_type": "2 Bedroom Superior FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 398731.88,
+        "price_eur": null,
+        "price_rsd": 329920.33
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/golden-lotus?SearchType=1&Hotel=105&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Golden Lotus",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 236370.87,
+        "price_eur": null,
+        "price_rsd": 191273.02
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/corendon-playa-kemer?SearchType=1&Hotel=10146&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Corendon Playa Kemer",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 293510,
+        "price_eur": null,
+        "price_rsd": 257845.12
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 304061.63,
+        "price_eur": null,
+        "price_rsd": 266489.07
+      },
+      {
+        "room_type": "Superior Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 352203.63,
+        "price_eur": null,
+        "price_rsd": 305905.85
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 438897.34,
+        "price_eur": null,
+        "price_rsd": 376893.94
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/grand-ring-hotel?SearchType=1&Hotel=18930&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Grand Ring Hotel",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 187916.02,
+        "price_eur": null,
+        "price_rsd": 162816.08
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 193396.37,
+        "price_eur": null,
+        "price_rsd": 166787.16
+      },
+      {
+        "room_type": "Double Standard Room (Seaside)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 200691.69,
+        "price_eur": null,
+        "price_rsd": 172081.04
+      },
+      {
+        "room_type": "1 Bedroom FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 252728.43,
+        "price_eur": null,
+        "price_rsd": 209804.26
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/gypsophila-club-marine?SearchType=1&Hotel=18579&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Gypsophila Club Marine",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 207858.57,
+        "price_eur": null,
+        "price_rsd": 192840.8
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 211580.8,
+        "price_eur": null,
+        "price_rsd": 196054.46
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 297789.54,
+        "price_eur": null,
+        "price_rsd": 270619.04
+      },
+      {
+        "room_type": "Double Standard Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 326525.68,
+        "price_eur": null,
+        "price_rsd": 295473.01
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/club-hotel-phaselis-rose?SearchType=1&Hotel=15424&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Club Hotel Phaselis Rose",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 255765.12,
+        "price_eur": null,
+        "price_rsd": 222378.23
+      },
+      {
+        "room_type": "Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 264143.18,
+        "price_eur": null,
+        "price_rsd": 228996.24
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 267717.7,
+        "price_eur": null,
+        "price_rsd": 231832.53
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 276102.8,
+        "price_eur": null,
+        "price_rsd": 238450.55
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 279682.01,
+        "price_eur": null,
+        "price_rsd": 241286.85
+      },
+      {
+        "room_type": "Deluxe Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 431635.21,
+        "price_eur": null,
+        "price_rsd": 361356.57
+      },
+      {
+        "room_type": "MainBuilding FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 442106.69,
+        "price_eur": null,
+        "price_rsd": 369629.75
+      },
+      {
+        "room_type": "MainBuilding FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 463040.11,
+        "price_eur": null,
+        "price_rsd": 386174.78
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/aydinbey-siu-collection?SearchType=1&Hotel=15635&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Aydinbey Siu Collection",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 365581.72,
+        "price_eur": null,
+        "price_rsd": 252632.01
+      },
+      {
+        "room_type": "2 Bedroom Deluxe FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 567287.63,
+        "price_eur": null,
+        "price_rsd": 369629.75
+      },
+      {
+        "room_type": "Grand Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 634527.52,
+        "price_eur": null,
+        "price_rsd": 408628.11
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 742105.84,
+        "price_eur": null,
+        "price_rsd": 471026.55
+      },
+      {
+        "room_type": "Executive Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 836240.31,
+        "price_eur": null,
+        "price_rsd": 525624.51
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/mirada-del-mar?SearchType=1&Hotel=117&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Mirada Del Mar",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Chalet (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 335796.87,
+        "price_eur": null,
+        "price_rsd": 270028.48
+      },
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 344924.87,
+        "price_eur": null,
+        "price_rsd": 276646.49
+      },
+      {
+        "room_type": "Double Standard Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 363180.89,
+        "price_eur": null,
+        "price_rsd": 289882.52
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 390564.92,
+        "price_eur": null,
+        "price_rsd": 309736.56
+      },
+      {
+        "room_type": "Double Standard Room (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 417948.95,
+        "price_eur": null,
+        "price_rsd": 329590.62
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 658924.85,
+        "price_eur": null,
+        "price_rsd": 504305.97
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/greenwood-kemer-resort?SearchType=1&Hotel=108&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Greenwood Kemer Resort",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Bungalow",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 205636.97,
+        "price_eur": null,
+        "price_rsd": 185885.13
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 209317.5,
+        "price_eur": null,
+        "price_rsd": 188909.45
+      },
+      {
+        "room_type": "2 Bedroom Annex FamilyRoom (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 254674.45,
+        "price_eur": null,
+        "price_rsd": 226047.4
+      },
+      {
+        "room_type": "2 ConnectingRooms FamilyRoom (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 265575.93,
+        "price_eur": null,
+        "price_rsd": 234972.06
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/seven-seas-hotel-life?SearchType=1&Hotel=15846&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Seven Seas Hotel Life",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 336952.26,
+        "price_eur": null,
+        "price_rsd": 282210.5
+      },
+      {
+        "room_type": "Standard Bungalow (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 364491.23,
+        "price_eur": null,
+        "price_rsd": 303482.69
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 373681.83,
+        "price_eur": null,
+        "price_rsd": 310573.42
+      },
+      {
+        "room_type": "Residence Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 373681.83,
+        "price_eur": null,
+        "price_rsd": 310573.42
+      },
+      {
+        "room_type": "Superior Room (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 487151.07,
+        "price_eur": null,
+        "price_rsd": 398193.94
+      },
+      {
+        "room_type": "SingleUse Residence Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 539907.76,
+        "price_eur": null,
+        "price_rsd": 438936.19
+      },
+      {
+        "room_type": "Standard FamilyRoom (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 577268.59,
+        "price_eur": null,
+        "price_rsd": 467785.06
+      },
+      {
+        "room_type": "Family Bungalow (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 632362.95,
+        "price_eur": null,
+        "price_rsd": 510329.45
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/viking-nona-beach?SearchType=1&Hotel=4142&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Viking Nona Beach",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 228862.38,
+        "price_eur": null,
+        "price_rsd": 198742.45
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/limak-limra-hotel---resort?SearchType=1&Hotel=116&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Limak Limra Hotel & Resort",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 279161.33,
+        "price_eur": null,
+        "price_rsd": 249472.63
+      },
+      {
+        "room_type": "Standard Room (PoolSide)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 282864.76,
+        "price_eur": null,
+        "price_rsd": 252573.75
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 288423.41,
+        "price_eur": null,
+        "price_rsd": 257225.43
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 384312.82,
+        "price_eur": null,
+        "price_rsd": 337518.2
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/fame-residence-goynuk?SearchType=1&Hotel=4524&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Fame Residence Goynuk",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 215998.82,
+        "price_eur": null,
+        "price_rsd": 188815.43
+      },
+      {
+        "room_type": "Standard FamilyRoom (LandscapeView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 275696.02,
+        "price_eur": null,
+        "price_rsd": 234904.53
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 305534.3,
+        "price_eur": null,
+        "price_rsd": 257951.06
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/swandor-hotels---resorts-kemer?SearchType=1&Hotel=9059&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Swandor Hotels & Resorts Kemer",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 314402.96,
+        "price_eur": null,
+        "price_rsd": 244123.14
+      },
+      {
+        "room_type": "Duplex Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 410655.88,
+        "price_eur": null,
+        "price_rsd": 309312.85
+      },
+      {
+        "room_type": "Comfort FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 416754.48,
+        "price_eur": null,
+        "price_rsd": 313442.82
+      },
+      {
+        "room_type": "Deluxe Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 532169.98,
+        "price_eur": null,
+        "price_rsd": 391610.35
+      },
+      {
+        "room_type": "Deluxe FamilyRoom (PoolView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 724674.52,
+        "price_eur": null,
+        "price_rsd": 521988.44
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/viking-park-hotel---spa?SearchType=1&Hotel=18576&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Viking Park Hotel & Spa",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "8",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 210497.59,
+        "price_eur": null,
+        "price_rsd": 184560.99
+      },
+      {
+        "room_type": "Bunkbed Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 210497.59,
+        "price_eur": null,
+        "price_rsd": 184560.99
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kemer/sherwood-exclusive-kemer?SearchType=1&Hotel=3038&P=1&CheckIn=2026-05-16&Night=7&HpCode=KKVW26&ClId=246",
+    "title": "Sherwood Exclusive Kemer",
+    "location": "TURSKA - KEMER",
+    "stars_raw": "10",
+    "departure_date_raw": "16.05.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 309667.43,
+        "price_eur": null,
+        "price_rsd": 261140.89
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 315168.67,
+        "price_eur": null,
+        "price_rsd": 265395.33
+      },
+      {
+        "room_type": "Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 320686.3,
+        "price_eur": null,
+        "price_rsd": 269649.77
+      },
+      {
+        "room_type": "Double Deluxe Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 326203.94,
+        "price_eur": null,
+        "price_rsd": 273904.21
+      },
+      {
+        "room_type": "Lagoon Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 340879.36,
+        "price_eur": null,
+        "price_rsd": 285249.37
+      },
+      {
+        "room_type": "Superior Room (Pool Front, Shared-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 355571.19,
+        "price_eur": null,
+        "price_rsd": 296594.55
+      },
+      {
+        "room_type": "Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 373944.18,
+        "price_eur": null,
+        "price_rsd": 310776.02
+      },
+      {
+        "room_type": "Duplex FamilySuite (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 463931.63,
+        "price_eur": null,
+        "price_rsd": 380265.19
+      },
+      {
+        "room_type": "FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 475412,
+        "price_eur": null,
+        "price_rsd": 389128.93
+      },
+      {
+        "room_type": "Duplex Suite (SeaView, Balcony or Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 498364.54,
+        "price_eur": null,
+        "price_rsd": 406856.41
+      }
+    ]
+  }
+]

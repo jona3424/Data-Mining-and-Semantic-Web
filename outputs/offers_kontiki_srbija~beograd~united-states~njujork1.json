@@ -1,0 +1,1012 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/broadway-plaza-hotel?SearchId=6ab695aa-7e23-4278-ac1f-7844cd8aea4c&SearchType=1&Hotel=15994&P=1&CheckIn=2025-11-25&Night=7&HpCode=25NJUJORK",
+    "title": "BROADWAY PLAZA HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "25.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/citadines-connect-fifth-avenue-new-york?SearchId=792b3441-95e9-4c60-8dca-38f45a68fd24&SearchType=1&Hotel=16972&P=1&CheckIn=2025-12-10&Night=7&HpCode=25NJUJORK",
+    "title": "CITADINES CONNECT FIFTH AVENUE NEW YORK",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/the-shoreham-hotel?SearchId=cfc1bc0c-2fb1-4e71-af9d-98e37fdd32c6&SearchType=1&Hotel=15996&P=1&CheckIn=2025-11-26&Night=7&HpCode=25NJUJORK",
+    "title": "THE SHOREHAM HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/the-shoreham-hotel?SearchId=af0526eb-7b21-46fe-94e0-1311f8ef6d26&SearchType=1&Hotel=15996&P=1&CheckIn=2025-11-27&Night=7&HpCode=25NJUJORK",
+    "title": "THE SHOREHAM HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/holiday-inn-manhattan-6th-ave-chelsea?SearchId=792b3441-95e9-4c60-8dca-38f45a68fd24&SearchType=1&Hotel=15991&P=1&CheckIn=2025-12-10&Night=7&HpCode=25NJUJORK",
+    "title": "HOLIDAY INN MANHATTAN 6TH AVE CHELSEA",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/holiday-inn-manhattan-6th-ave-chelsea?SearchId=cfc1bc0c-2fb1-4e71-af9d-98e37fdd32c6&SearchType=1&Hotel=15991&P=1&CheckIn=2025-11-26&Night=7&HpCode=25NJUJORK",
+    "title": "HOLIDAY INN MANHATTAN 6TH AVE CHELSEA",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/riu-plaza-new-york-times-square?SearchId=af0526eb-7b21-46fe-94e0-1311f8ef6d26&SearchType=1&Hotel=16000&P=1&CheckIn=2025-11-27&Night=7&HpCode=25NJUJORK",
+    "title": "RIU PLAZA NEW YORK TIMES SQUARE",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "27.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4890,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/holiday-inn-new-york-city-times-square?SearchId=792b3441-95e9-4c60-8dca-38f45a68fd24&SearchType=1&Hotel=16969&P=1&CheckIn=2025-12-10&Night=7&HpCode=25NJUJORK",
+    "title": "HOLIDAY INN NEW YORK CITY TIMES SQUARE",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "10.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/the-manhattan-at-times-square-hotel?SearchId=6ab695aa-7e23-4278-ac1f-7844cd8aea4c&SearchType=1&Hotel=16971&P=1&CheckIn=2025-11-25&Night=7&HpCode=25NJUJORK",
+    "title": "THE MANHATTAN AT TIMES SQUARE HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "25.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3570,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/park-lane?SearchId=cfc1bc0c-2fb1-4e71-af9d-98e37fdd32c6&SearchType=1&Hotel=7350&P=1&CheckIn=2025-11-26&Night=7&HpCode=25NJUJORK",
+    "title": "PARK LANE",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "26.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4390,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/the-shoreham-hotel?SearchId=6ab695aa-7e23-4278-ac1f-7844cd8aea4c&SearchType=1&Hotel=15996&P=1&CheckIn=2025-11-25&Night=7&HpCode=25NJUJORK",
+    "title": "THE SHOREHAM HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "25.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARDNA SOBA",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3730,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/hyatt-centric-times-square-new-york?SearchId=792b3441-95e9-4c60-8dca-38f45a68fd24&SearchType=1&Hotel=16970&P=1&CheckIn=2025-12-10&Night=7&HpCode=25NJUJORK",
+    "title": "HYATT CENTRIC TIMES SQUARE NEW YORK",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "10.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 6398,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/riu-plaza-new-york-times-square?SearchId=6ab695aa-7e23-4278-ac1f-7844cd8aea4c&SearchType=1&Hotel=16000&P=1&CheckIn=2025-11-25&Night=7&HpCode=25NJUJORK",
+    "title": "RIU PLAZA NEW YORK TIMES SQUARE",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "25.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4578,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/residence-inn-by-marriott-new-york-manhattan?SearchId=6ab695aa-7e23-4278-ac1f-7844cd8aea4c&SearchType=1&Hotel=16973&P=1&CheckIn=2025-11-25&Night=7&HpCode=25NJUJORK",
+    "title": "RESIDENCE INN BY MARRIOTT NEW YORK MANHATTAN",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "25.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STUDIO",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3138,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/residence-inn-by-marriott-new-york-manhattan?SearchId=792b3441-95e9-4c60-8dca-38f45a68fd24&SearchType=1&Hotel=16973&P=1&CheckIn=2025-12-10&Night=7&HpCode=25NJUJORK",
+    "title": "RESIDENCE INN BY MARRIOTT NEW YORK MANHATTAN",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "10.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STUDIO",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3470,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/nh-collection-new-york-madison-avenue?SearchId=cfc1bc0c-2fb1-4e71-af9d-98e37fdd32c6&SearchType=1&Hotel=15998&P=1&CheckIn=2025-11-26&Night=7&HpCode=25NJUJORK",
+    "title": "NH COLLECTION NEW YORK MADISON AVENUE",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "26.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4670,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/sofitel-new-york-hotel?SearchId=6ab695aa-7e23-4278-ac1f-7844cd8aea4c&SearchType=1&Hotel=4861&P=1&CheckIn=2025-11-25&Night=7&HpCode=25NJUJORK",
+    "title": "SOFITEL NEW YORK HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "25.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5550,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/residence-inn-by-marriott-new-york-manhattan?SearchId=cfc1bc0c-2fb1-4e71-af9d-98e37fdd32c6&SearchType=1&Hotel=16973&P=1&CheckIn=2025-11-26&Night=7&HpCode=25NJUJORK",
+    "title": "RESIDENCE INN BY MARRIOTT NEW YORK MANHATTAN",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "26.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STUDIO",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3198,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/hyatt-centric-times-square-new-york?SearchId=6ab695aa-7e23-4278-ac1f-7844cd8aea4c&SearchType=1&Hotel=16970&P=1&CheckIn=2025-11-25&Night=7&HpCode=25NJUJORK",
+    "title": "HYATT CENTRIC TIMES SQUARE NEW YORK",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "25.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4970,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/holiday-inn-manhattan-6th-ave-chelsea?SearchId=6ab695aa-7e23-4278-ac1f-7844cd8aea4c&SearchType=1&Hotel=15991&P=1&CheckIn=2025-11-25&Night=7&HpCode=25NJUJORK",
+    "title": "HOLIDAY INN MANHATTAN 6TH AVE CHELSEA",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "25.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARDNA SOBA",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/broadway-plaza-hotel?SearchId=cfc1bc0c-2fb1-4e71-af9d-98e37fdd32c6&SearchType=1&Hotel=15994&P=1&CheckIn=2025-11-26&Night=7&HpCode=25NJUJORK",
+    "title": "BROADWAY PLAZA HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "26.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/hyatt-centric-times-square-new-york?SearchId=af0526eb-7b21-46fe-94e0-1311f8ef6d26&SearchType=1&Hotel=16970&P=1&CheckIn=2025-11-27&Night=7&HpCode=25NJUJORK",
+    "title": "HYATT CENTRIC TIMES SQUARE NEW YORK",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "27.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5450,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/sofitel-new-york-hotel?SearchId=af0526eb-7b21-46fe-94e0-1311f8ef6d26&SearchType=1&Hotel=4861&P=1&CheckIn=2025-11-27&Night=7&HpCode=25NJUJORK",
+    "title": "SOFITEL NEW YORK HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "27.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 6210,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/concorde-hotel-new-york?SearchId=792b3441-95e9-4c60-8dca-38f45a68fd24&SearchType=1&Hotel=16001&P=1&CheckIn=2025-12-10&Night=7&HpCode=25NJUJORK",
+    "title": "CONCORDE HOTEL NEW YORK",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "10.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3570,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/club-quarters-times-square-midtown?SearchId=cfc1bc0c-2fb1-4e71-af9d-98e37fdd32c6&SearchType=1&Hotel=15995&P=1&CheckIn=2025-11-26&Night=7&HpCode=25NJUJORK",
+    "title": "CLUB QUARTERS TIMES SQUARE MIDTOWN",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "26.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARDNA SOBA",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3890,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/holiday-inn-new-york-city-times-square?SearchId=af0526eb-7b21-46fe-94e0-1311f8ef6d26&SearchType=1&Hotel=16969&P=1&CheckIn=2025-11-27&Night=7&HpCode=25NJUJORK",
+    "title": "HOLIDAY INN NEW YORK CITY TIMES SQUARE",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "27.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/the-shoreham-hotel?SearchId=792b3441-95e9-4c60-8dca-38f45a68fd24&SearchType=1&Hotel=15996&P=1&CheckIn=2025-12-10&Night=7&HpCode=25NJUJORK",
+    "title": "THE SHOREHAM HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "10.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARDNA SOBA",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3730,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/the-manhattan-at-times-square-hotel?SearchId=af0526eb-7b21-46fe-94e0-1311f8ef6d26&SearchType=1&Hotel=16971&P=1&CheckIn=2025-11-27&Night=7&HpCode=25NJUJORK",
+    "title": "THE MANHATTAN AT TIMES SQUARE HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "27.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3570,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/concorde-hotel-new-york?SearchId=af0526eb-7b21-46fe-94e0-1311f8ef6d26&SearchType=1&Hotel=16001&P=1&CheckIn=2025-11-27&Night=7&HpCode=25NJUJORK",
+    "title": "CONCORDE HOTEL NEW YORK",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "27.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3570,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/citadines-connect-fifth-avenue-new-york?SearchId=6ab695aa-7e23-4278-ac1f-7844cd8aea4c&SearchType=1&Hotel=16972&P=1&CheckIn=2025-11-25&Night=7&HpCode=25NJUJORK",
+    "title": "CITADINES CONNECT FIFTH AVENUE NEW YORK",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "25.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "PREMIERE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5178,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/citadines-connect-fifth-avenue-new-york?SearchId=cfc1bc0c-2fb1-4e71-af9d-98e37fdd32c6&SearchType=1&Hotel=16972&P=1&CheckIn=2025-11-26&Night=7&HpCode=25NJUJORK",
+    "title": "CITADINES CONNECT FIFTH AVENUE NEW YORK",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "26.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "PREMIERE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5178,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/broadway-plaza-hotel?SearchId=af0526eb-7b21-46fe-94e0-1311f8ef6d26&SearchType=1&Hotel=15994&P=1&CheckIn=2025-11-27&Night=7&HpCode=25NJUJORK",
+    "title": "BROADWAY PLAZA HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "27.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/sofitel-new-york-hotel?SearchId=792b3441-95e9-4c60-8dca-38f45a68fd24&SearchType=1&Hotel=4861&P=1&CheckIn=2025-12-10&Night=7&HpCode=25NJUJORK",
+    "title": "SOFITEL NEW YORK HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "10.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 7510,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/holiday-inn-new-york-city-times-square?SearchId=6ab695aa-7e23-4278-ac1f-7844cd8aea4c&SearchType=1&Hotel=16969&P=1&CheckIn=2025-11-25&Night=7&HpCode=25NJUJORK",
+    "title": "HOLIDAY INN NEW YORK CITY TIMES SQUARE",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "25.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/nh-collection-new-york-madison-avenue?SearchId=792b3441-95e9-4c60-8dca-38f45a68fd24&SearchType=1&Hotel=15998&P=1&CheckIn=2025-12-10&Night=7&HpCode=25NJUJORK",
+    "title": "NH COLLECTION NEW YORK MADISON AVENUE",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "10.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5730,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/the-manhattan-at-times-square-hotel?SearchId=cfc1bc0c-2fb1-4e71-af9d-98e37fdd32c6&SearchType=1&Hotel=16971&P=1&CheckIn=2025-11-26&Night=7&HpCode=25NJUJORK",
+    "title": "THE MANHATTAN AT TIMES SQUARE HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "26.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3570,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/sofitel-new-york-hotel?SearchId=cfc1bc0c-2fb1-4e71-af9d-98e37fdd32c6&SearchType=1&Hotel=4861&P=1&CheckIn=2025-11-26&Night=7&HpCode=25NJUJORK",
+    "title": "SOFITEL NEW YORK HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "26.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5878,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/nh-collection-new-york-madison-avenue?SearchId=af0526eb-7b21-46fe-94e0-1311f8ef6d26&SearchType=1&Hotel=15998&P=1&CheckIn=2025-11-27&Night=7&HpCode=25NJUJORK",
+    "title": "NH COLLECTION NEW YORK MADISON AVENUE",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "27.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4878,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/park-lane?SearchId=792b3441-95e9-4c60-8dca-38f45a68fd24&SearchType=1&Hotel=7350&P=1&CheckIn=2025-12-10&Night=7&HpCode=25NJUJORK",
+    "title": "PARK LANE",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "10.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4390,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/riu-plaza-new-york-times-square?SearchId=792b3441-95e9-4c60-8dca-38f45a68fd24&SearchType=1&Hotel=16000&P=1&CheckIn=2025-12-10&Night=7&HpCode=25NJUJORK",
+    "title": "RIU PLAZA NEW YORK TIMES SQUARE",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "10.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5518,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/club-quarters-times-square-midtown?SearchId=6ab695aa-7e23-4278-ac1f-7844cd8aea4c&SearchType=1&Hotel=15995&P=1&CheckIn=2025-11-25&Night=7&HpCode=25NJUJORK",
+    "title": "CLUB QUARTERS TIMES SQUARE MIDTOWN",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "25.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARDNA SOBA",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3890,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/club-quarters-times-square-midtown?SearchId=af0526eb-7b21-46fe-94e0-1311f8ef6d26&SearchType=1&Hotel=15995&P=1&CheckIn=2025-11-27&Night=7&HpCode=25NJUJORK",
+    "title": "CLUB QUARTERS TIMES SQUARE MIDTOWN",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "27.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARDNA SOBA",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3890,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/concorde-hotel-new-york?SearchId=cfc1bc0c-2fb1-4e71-af9d-98e37fdd32c6&SearchType=1&Hotel=16001&P=1&CheckIn=2025-11-26&Night=7&HpCode=25NJUJORK",
+    "title": "CONCORDE HOTEL NEW YORK",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "26.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3570,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/park-lane?SearchId=6ab695aa-7e23-4278-ac1f-7844cd8aea4c&SearchType=1&Hotel=7350&P=1&CheckIn=2025-11-25&Night=7&HpCode=25NJUJORK",
+    "title": "PARK LANE",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "25.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4390,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/residence-inn-by-marriott-new-york-manhattan?SearchId=af0526eb-7b21-46fe-94e0-1311f8ef6d26&SearchType=1&Hotel=16973&P=1&CheckIn=2025-11-27&Night=7&HpCode=25NJUJORK",
+    "title": "RESIDENCE INN BY MARRIOTT NEW YORK MANHATTAN",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "27.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STUDIO",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/the-manhattan-at-times-square-hotel?SearchId=792b3441-95e9-4c60-8dca-38f45a68fd24&SearchType=1&Hotel=16971&P=1&CheckIn=2025-12-10&Night=7&HpCode=25NJUJORK",
+    "title": "THE MANHATTAN AT TIMES SQUARE HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "10.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3570,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/broadway-plaza-hotel?SearchId=792b3441-95e9-4c60-8dca-38f45a68fd24&SearchType=1&Hotel=15994&P=1&CheckIn=2025-12-10&Night=7&HpCode=25NJUJORK",
+    "title": "BROADWAY PLAZA HOTEL",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "10.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4050,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/hyatt-centric-times-square-new-york?SearchId=cfc1bc0c-2fb1-4e71-af9d-98e37fdd32c6&SearchType=1&Hotel=16970&P=1&CheckIn=2025-11-26&Night=7&HpCode=25NJUJORK",
+    "title": "HYATT CENTRIC TIMES SQUARE NEW YORK",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "26.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5210,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/concorde-hotel-new-york?SearchId=6ab695aa-7e23-4278-ac1f-7844cd8aea4c&SearchType=1&Hotel=16001&P=1&CheckIn=2025-11-25&Night=7&HpCode=25NJUJORK",
+    "title": "CONCORDE HOTEL NEW YORK",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "25.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3570,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/holiday-inn-new-york-city-times-square?SearchId=cfc1bc0c-2fb1-4e71-af9d-98e37fdd32c6&SearchType=1&Hotel=16969&P=1&CheckIn=2025-11-26&Night=7&HpCode=25NJUJORK",
+    "title": "KonTiki Travel",
+    "location": null,
+    "stars_raw": null,
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/park-lane?SearchId=af0526eb-7b21-46fe-94e0-1311f8ef6d26&SearchType=1&Hotel=7350&P=1&CheckIn=2025-11-27&Night=7&HpCode=25NJUJORK",
+    "title": "PARK LANE",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "27.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4390,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/citadines-connect-fifth-avenue-new-york?SearchId=af0526eb-7b21-46fe-94e0-1311f8ef6d26&SearchType=1&Hotel=16972&P=1&CheckIn=2025-11-27&Night=7&HpCode=25NJUJORK",
+    "title": "CITADINES CONNECT FIFTH AVENUE NEW YORK",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "27.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "PREMIERE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5178,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/holiday-inn-manhattan-6th-ave-chelsea?SearchId=af0526eb-7b21-46fe-94e0-1311f8ef6d26&SearchType=1&Hotel=15991&P=1&CheckIn=2025-11-27&Night=7&HpCode=25NJUJORK",
+    "title": "HOLIDAY INN MANHATTAN 6TH AVE CHELSEA",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "6",
+    "departure_date_raw": "27.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARDNA SOBA",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 5250,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/nh-collection-new-york-madison-avenue?SearchId=6ab695aa-7e23-4278-ac1f-7844cd8aea4c&SearchType=1&Hotel=15998&P=1&CheckIn=2025-11-25&Night=7&HpCode=25NJUJORK",
+    "title": "NH COLLECTION NEW YORK MADISON AVENUE",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "25.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SUPERIOR ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4458,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/club-quarters-times-square-midtown?SearchId=792b3441-95e9-4c60-8dca-38f45a68fd24&SearchType=1&Hotel=15995&P=1&CheckIn=2025-12-10&Night=7&HpCode=25NJUJORK",
+    "title": "CLUB QUARTERS TIMES SQUARE MIDTOWN",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "10.12.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARDNA SOBA",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3890,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/united-states/njujork/riu-plaza-new-york-times-square?SearchId=cfc1bc0c-2fb1-4e71-af9d-98e37fdd32c6&SearchType=1&Hotel=16000&P=1&CheckIn=2025-11-26&Night=7&HpCode=25NJUJORK",
+    "title": "RIU PLAZA NEW YORK TIMES SQUARE",
+    "location": "UNITED STATES - NJUJORK",
+    "stars_raw": "8",
+    "departure_date_raw": "26.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "ROOM ONLY",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4738,
+        "price_rsd": null
+      }
+    ]
+  }
+]

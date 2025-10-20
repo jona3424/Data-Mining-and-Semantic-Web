@@ -1,0 +1,262 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/acar-hotel?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=12793&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "Acar Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/hawaii-suite-beach-hotel?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=12548&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "Hawaii Suite Beach Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/beach-club-doganay?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=25&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "Beach Club Doganay",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/sunpark-garden-hotel?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=17993&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "Sunpark Garden Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/kleopatra-ada-beach?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=10222&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "Kleopatra Ada Beach",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/the-lumos-deluxe-resort-hotel---spa?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=6666&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "The Lumos Deluxe Resort Hotel & Spa",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/kandelor-hotel?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=1812&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALKVW26XPE",
+    "title": "KANDELOR HOTEL",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "11.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2848.52,
+        "old_price_rsd": null,
+        "price_eur": 2329.82,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3885.92,
+        "old_price_rsd": null,
+        "price_eur": 3107.87,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/arsi-enfi-city-beach?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=11214&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "Arsi Enfi City Beach",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/ergun-hotel-alanya?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=617&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "Ergun Hotel Alanya",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/kleopatra-arsi-hotel?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=10717&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "Kleopatra Arsi Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/kaia-coracesium?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=17934&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "Kaia Coracesium",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/arsi-hotel?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=4&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "Arsi Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/incekum-beach-resort?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=1367&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "Incekum Beach Resort",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/xperia-grand-bali?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=1427&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALKVW26XPE",
+    "title": "XPERIA GRAND BALI",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "11.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "STANDARD WITHOUT BALCONY",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3365.16,
+        "old_price_rsd": null,
+        "price_eur": 2449.06,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD WITH BALCONY",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3492.84,
+        "old_price_rsd": null,
+        "price_eur": 2532.05,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/tac-premier-hotel---spa?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=5276&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALKVW26XPE",
+    "title": "Tac Premier Hotel & Spa",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "11.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3327.32,
+        "old_price_rsd": null,
+        "price_eur": 2688.92,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/botanik-platinum-hotel?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=3021&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "Botanik Platinum Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "10",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/hatipoglu-beach?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=17149&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "Hatipoglu Beach",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/miray-hotel-kleopatra?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=4137&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "Miray Hotel Kleopatra",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/xperia-saray-beach?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=1428&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALKVW26XPE",
+    "title": "XPERIA SARAY BEACH",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "8",
+    "departure_date_raw": "11.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "STANDARD WITHOUT BALCONY",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 4514.28,
+        "old_price_rsd": null,
+        "price_eur": 3384.31,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD ROOM SIDE SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 4705.8,
+        "old_price_rsd": null,
+        "price_eur": 3518.38,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/alanja/wien-star-hotel?SearchId=67298623-99bf-4f52-9d71-60071969103c&SearchType=1&Hotel=14137&P=1&CheckIn=2026-07-11&Night=14&HpCode=ALVWK26",
+    "title": "Wien Star Hotel",
+    "location": "TURSKA - ALANJA",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": []
+  }
+]

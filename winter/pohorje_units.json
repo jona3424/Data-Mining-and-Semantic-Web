@@ -1,0 +1,1397 @@
+{
+  "mariborsko-pohorje": {
+    "location_url": "https://kontiki.rs/sr/location/mariborsko-pohorje",
+    "date_range": {
+      "from": "2025-11-15",
+      "to": "2025-11-15"
+    },
+    "by_date": {
+      "2025-11-15": {
+        "1": {
+          "hotels": [
+            {
+              "name": "Hotel Arena Maribor 4*Superior",
+              "city": "Maribor",
+              "stars": 4
+            },
+            {
+              "name": "Grand Hotel Bellevue",
+              "city": "Pohorje",
+              "stars": 4
+            }
+          ],
+          "offers_by_hotel": {
+            "Hotel Arena Maribor 4*Superior": [
+              {
+                "room_name": "Arena jednokrevetna soba",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1 osobe",
+                "price_per_night": 75.0,
+                "price_total": 75.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "75,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32375",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena jednokrevetna soba",
+                "board": null,
+                "capacity_text": "Kapacitet: 1 osobe",
+                "price_per_night": 75.0,
+                "price_total": 75.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "75,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32375",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena dvokrevetna soba u potkrovlju",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-2 osobe",
+                "price_per_night": 85.0,
+                "price_total": 85.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "85,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32390",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena dvokrevetna soba u potkrovlju",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-2 osobe",
+                "price_per_night": 85.0,
+                "price_total": 85.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "85,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32390",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba u potkrovlju",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1 osobe",
+                "price_per_night": 75.0,
+                "price_total": 75.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "75,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32385",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba u potkrovlju",
+                "board": null,
+                "capacity_text": "Kapacitet: 1 osobe",
+                "price_per_night": 75.0,
+                "price_total": 75.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "75,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32385",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 100.0,
+                "price_total": 100.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "100,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32378",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 100.0,
+                "price_total": 100.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "100,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32378",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 100.0,
+                "price_total": 100.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "100,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32379",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 100.0,
+                "price_total": 100.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "100,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32379",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort sa balkonom",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 110.0,
+                "price_total": 110.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "110,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32380",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort sa balkonom",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 110.0,
+                "price_total": 110.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "110,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32380",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba sa pogledom na Arenu i balkonom",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 130.0,
+                "price_total": 130.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "130,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32381",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba sa pogledom na Arenu i balkonom",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 130.0,
+                "price_total": 130.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "130,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32381",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort sa pogledom na Arenu i balkonom",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 130.0,
+                "price_total": 130.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "130,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32382",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort sa pogledom na Arenu i balkonom",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 130.0,
+                "price_total": 130.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "130,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32382",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort sa pogledom na Areno",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 120.0,
+                "price_total": 120.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "120,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32383",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort sa pogledom na Areno",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 120.0,
+                "price_total": 120.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "120,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32383",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Arena sa pogledom",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 130.0,
+                "price_total": 130.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "130,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32387",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Arena sa pogledom",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 130.0,
+                "price_total": 130.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "130,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32387",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena dvokrevetna soba",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 110.0,
+                "price_total": 110.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "110,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32386",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena dvokrevetna soba",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 110.0,
+                "price_total": 110.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "110,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32386",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Comfort suita",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-4 osobe",
+                "price_per_night": 180.0,
+                "price_total": 180.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "180,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32384",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Comfort suita",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-4 osobe",
+                "price_per_night": 180.0,
+                "price_total": 180.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "180,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32384",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena suita",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 180.0,
+                "price_total": 180.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "180,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32388",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena suita",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 180.0,
+                "price_total": 180.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "180,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32388",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena Golden Fox",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 220.0,
+                "price_total": 220.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "220,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32389",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena Golden Fox",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 220.0,
+                "price_total": 220.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "220,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32389",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena suita u potkrovlju",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 180.0,
+                "price_total": 180.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "180,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32391",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena suita u potkrovlju",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 180.0,
+                "price_total": 180.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "180,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32391",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena double or twin room",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 110.0,
+                "price_total": 110.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "110,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "39304",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena double or twin room",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 110.0,
+                "price_total": 110.0,
+                "currency": null,
+                "nights": 1,
+                "raw": {
+                  "price_text": "110,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "39304",
+                  "rate_id": "430009"
+                }
+              }
+            ],
+            "Grand Hotel Bellevue": [
+              {
+                "room_name": "SINGLE USE ROOM",
+                "board": "Polupansion",
+                "capacity_text": "Kapacitet: 1 osobe",
+                "price_per_night": 97.75,
+                "price_total": 1.0,
+                "currency": "EUR",
+                "nights": 1,
+                "raw": {
+                  "price_text": "97,75",
+                  "total_text": "1 osobe, 1 noć(i)Ukupno: 102,88 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29954",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "SINGLE USE ROOM",
+                "board": null,
+                "capacity_text": "Kapacitet: 1 osobe",
+                "price_per_night": 97.75,
+                "price_total": 1.0,
+                "currency": "EUR",
+                "nights": 1,
+                "raw": {
+                  "price_text": "97,75",
+                  "total_text": "1 osobe, 1 noć(i)Ukupno: 102,88 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29954",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "DOUBLE ROOM",
+                "board": "Polupansion",
+                "capacity_text": "Kapacitet: 1-2 osobe",
+                "price_per_night": 74.75,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 1,
+                "raw": {
+                  "price_text": "74,75",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 159,76 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29955",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "DOUBLE ROOM",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-2 osobe",
+                "price_per_night": 74.75,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 1,
+                "raw": {
+                  "price_text": "74,75",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 159,76 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29955",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "DOUBLE ROOM WITH BALCONY",
+                "board": "Polupansion",
+                "capacity_text": "Kapacitet: 1-2 osobe",
+                "price_per_night": 82.8,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 1,
+                "raw": {
+                  "price_text": "82,80",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 175,86 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "34261",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "DOUBLE ROOM WITH BALCONY",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-2 osobe",
+                "price_per_night": 82.8,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 1,
+                "raw": {
+                  "price_text": "82,80",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 175,86 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "34261",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "DOUBLE ROOM WITH EXTRA BED",
+                "board": "Polupansion",
+                "capacity_text": "Kapacitet: 2-3 osobe",
+                "price_per_night": 82.8,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 1,
+                "raw": {
+                  "price_text": "82,80",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 175,86 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29956",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "DOUBLE ROOM WITH EXTRA BED",
+                "board": null,
+                "capacity_text": "Kapacitet: 2-3 osobe",
+                "price_per_night": 82.8,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 1,
+                "raw": {
+                  "price_text": "82,80",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 175,86 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29956",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "ROOM 2+2",
+                "board": "Polupansion",
+                "capacity_text": "Kapacitet: 2-4 osobe",
+                "price_per_night": 97.75,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 1,
+                "raw": {
+                  "price_text": "97,75",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 205,76 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29957",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "ROOM 2+2",
+                "board": null,
+                "capacity_text": "Kapacitet: 2-4 osobe",
+                "price_per_night": 97.75,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 1,
+                "raw": {
+                  "price_text": "97,75",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 205,76 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29957",
+                  "rate_id": "449196"
+                }
+              }
+            ]
+          }
+        },
+        "2": {
+          "hotels": [
+            {
+              "name": "Grand Hotel Bellevue",
+              "city": "Pohorje",
+              "stars": 4
+            },
+            {
+              "name": "Hotel Arena Maribor 4*Superior",
+              "city": "Maribor",
+              "stars": 4
+            }
+          ],
+          "offers_by_hotel": {
+            "Grand Hotel Bellevue": [
+              {
+                "room_name": "SINGLE USE ROOM",
+                "board": "Polupansion",
+                "capacity_text": "Kapacitet: 1 osobe",
+                "price_per_night": 97.75,
+                "price_total": 1.0,
+                "currency": "EUR",
+                "nights": 2,
+                "raw": {
+                  "price_text": "97,75",
+                  "total_text": "1 osobe, 1 noć(i)Ukupno: 102,88 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29954",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "SINGLE USE ROOM",
+                "board": null,
+                "capacity_text": "Kapacitet: 1 osobe",
+                "price_per_night": 97.75,
+                "price_total": 1.0,
+                "currency": "EUR",
+                "nights": 2,
+                "raw": {
+                  "price_text": "97,75",
+                  "total_text": "1 osobe, 1 noć(i)Ukupno: 102,88 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29954",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "DOUBLE ROOM",
+                "board": "Polupansion",
+                "capacity_text": "Kapacitet: 1-2 osobe",
+                "price_per_night": 74.75,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 2,
+                "raw": {
+                  "price_text": "74,75",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 159,76 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29955",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "DOUBLE ROOM",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-2 osobe",
+                "price_per_night": 74.75,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 2,
+                "raw": {
+                  "price_text": "74,75",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 159,76 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29955",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "DOUBLE ROOM WITH BALCONY",
+                "board": "Polupansion",
+                "capacity_text": "Kapacitet: 1-2 osobe",
+                "price_per_night": 82.8,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 2,
+                "raw": {
+                  "price_text": "82,80",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 175,86 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "34261",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "DOUBLE ROOM WITH BALCONY",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-2 osobe",
+                "price_per_night": 82.8,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 2,
+                "raw": {
+                  "price_text": "82,80",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 175,86 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "34261",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "DOUBLE ROOM WITH EXTRA BED",
+                "board": "Polupansion",
+                "capacity_text": "Kapacitet: 2-3 osobe",
+                "price_per_night": 82.8,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 2,
+                "raw": {
+                  "price_text": "82,80",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 175,86 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29956",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "DOUBLE ROOM WITH EXTRA BED",
+                "board": null,
+                "capacity_text": "Kapacitet: 2-3 osobe",
+                "price_per_night": 82.8,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 2,
+                "raw": {
+                  "price_text": "82,80",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 175,86 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29956",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "ROOM 2+2",
+                "board": "Polupansion",
+                "capacity_text": "Kapacitet: 2-4 osobe",
+                "price_per_night": 97.75,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 2,
+                "raw": {
+                  "price_text": "97,75",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 205,76 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29957",
+                  "rate_id": "449196"
+                }
+              },
+              {
+                "room_name": "ROOM 2+2",
+                "board": null,
+                "capacity_text": "Kapacitet: 2-4 osobe",
+                "price_per_night": 97.75,
+                "price_total": 2.0,
+                "currency": "EUR",
+                "nights": 2,
+                "raw": {
+                  "price_text": "97,75",
+                  "total_text": "2 osobe, 1 noć(i)Ukupno: 205,76 EUR",
+                  "price_note": "po osobi",
+                  "room_id": "29957",
+                  "rate_id": "449196"
+                }
+              }
+            ],
+            "Hotel Arena Maribor 4*Superior": [
+              {
+                "room_name": "Arena jednokrevetna soba",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1 osobe",
+                "price_per_night": 75.0,
+                "price_total": 150.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "75,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32375",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena jednokrevetna soba",
+                "board": null,
+                "capacity_text": "Kapacitet: 1 osobe",
+                "price_per_night": 75.0,
+                "price_total": 150.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "75,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32375",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena dvokrevetna soba u potkrovlju",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-2 osobe",
+                "price_per_night": 85.0,
+                "price_total": 170.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "85,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32390",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena dvokrevetna soba u potkrovlju",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-2 osobe",
+                "price_per_night": 85.0,
+                "price_total": 170.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "85,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32390",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba u potkrovlju",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1 osobe",
+                "price_per_night": 75.0,
+                "price_total": 150.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "75,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32385",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba u potkrovlju",
+                "board": null,
+                "capacity_text": "Kapacitet: 1 osobe",
+                "price_per_night": 75.0,
+                "price_total": 150.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "75,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32385",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 100.0,
+                "price_total": 200.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "100,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32378",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 100.0,
+                "price_total": 200.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "100,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32378",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 100.0,
+                "price_total": 200.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "100,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32379",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 100.0,
+                "price_total": 200.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "100,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32379",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort sa balkonom",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 110.0,
+                "price_total": 220.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "110,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32380",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort sa balkonom",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 110.0,
+                "price_total": 220.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "110,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32380",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba sa pogledom na Arenu i balkonom",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 130.0,
+                "price_total": 260.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "130,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32381",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba sa pogledom na Arenu i balkonom",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 130.0,
+                "price_total": 260.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "130,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32381",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort sa pogledom na Arenu i balkonom",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 130.0,
+                "price_total": 260.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "130,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32382",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort sa pogledom na Arenu i balkonom",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 130.0,
+                "price_total": 260.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "130,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32382",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort sa pogledom na Areno",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 120.0,
+                "price_total": 240.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "120,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32383",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Comfort sa pogledom na Areno",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 120.0,
+                "price_total": 240.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "120,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32383",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Arena sa pogledom",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 130.0,
+                "price_total": 260.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "130,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32387",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Dvokrevetna soba Arena sa pogledom",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 130.0,
+                "price_total": 260.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "130,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32387",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena dvokrevetna soba",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 110.0,
+                "price_total": 220.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "110,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32386",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena dvokrevetna soba",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 110.0,
+                "price_total": 220.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "110,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32386",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Comfort suita",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-4 osobe",
+                "price_per_night": 180.0,
+                "price_total": 360.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "180,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32384",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Comfort suita",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-4 osobe",
+                "price_per_night": 180.0,
+                "price_total": 360.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "180,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32384",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena suita",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 180.0,
+                "price_total": 360.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "180,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32388",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena suita",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 180.0,
+                "price_total": 360.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "180,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32388",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena Golden Fox",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 220.0,
+                "price_total": 440.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "220,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32389",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena Golden Fox",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 220.0,
+                "price_total": 440.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "220,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32389",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena suita u potkrovlju",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 180.0,
+                "price_total": 360.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "180,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32391",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena suita u potkrovlju",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 180.0,
+                "price_total": 360.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "180,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "32391",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena double or twin room",
+                "board": "Noćenje i doručak",
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 110.0,
+                "price_total": 220.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "110,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "39304",
+                  "rate_id": "430009"
+                }
+              },
+              {
+                "room_name": "Arena double or twin room",
+                "board": null,
+                "capacity_text": "Kapacitet: 1-3 osobe",
+                "price_per_night": 110.0,
+                "price_total": 220.0,
+                "currency": null,
+                "nights": 2,
+                "raw": {
+                  "price_text": "110,00",
+                  "total_text": "",
+                  "price_note": "po sobi",
+                  "room_id": "39304",
+                  "rate_id": "430009"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

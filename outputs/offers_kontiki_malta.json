@@ -1,0 +1,268 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/republika-malta/malta/bayview-hotel-by-st-hotels?SearchType=1&Hotel=4623&P=1&CheckIn=2025-11-07&Night=3&HpCode=MAL7NOV25V&ClId=292",
+    "title": "BAYVIEW HOTEL BY ST HOTELS",
+    "location": "REPUBLIKA MALTA - MALTA",
+    "stars_raw": "6",
+    "departure_date_raw": "07.11.2025",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/republika-malta/malta/ikyk-hotel?SearchType=1&Hotel=17166&P=1&CheckIn=2025-11-07&Night=3&HpCode=MAL7NOV25V&ClId=292",
+    "title": "IKYK HOTEL",
+    "location": "REPUBLIKA MALTA - MALTA",
+    "stars_raw": "6",
+    "departure_date_raw": "07.11.2025",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "COMFORT ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/republika-malta/malta/hilton-hotel?SearchType=1&Hotel=3769&P=1&CheckIn=2025-11-07&Night=3&HpCode=MAL7NOV25V&ClId=292",
+    "title": "HILTON HOTEL",
+    "location": "REPUBLIKA MALTA - MALTA",
+    "stars_raw": "10",
+    "departure_date_raw": "07.11.2025",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1518,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/republika-malta/malta/intercontinental?SearchType=1&Hotel=4650&P=1&CheckIn=2025-11-07&Night=3&HpCode=MAL7NOV25V&ClId=292",
+    "title": "INTERCONTINENTAL HOTEL",
+    "location": "REPUBLIKA MALTA - MALTA",
+    "stars_raw": "10",
+    "departure_date_raw": "07.11.2025",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "CLASSIC ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1258,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/republika-malta/malta/cavalieri-art?SearchId=dca3d79b-dbfb-4e21-bce2-50a64eeae5b9&SearchType=1&Hotel=4642&P=1&CheckIn=2025-11-07&Night=3&HpCode=MAL7NOV25V",
+    "title": "CAVALIERI ART HOTEL",
+    "location": "REPUBLIKA MALTA - MALTA",
+    "stars_raw": "8",
+    "departure_date_raw": "07.11.2025",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1058,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/republika-malta/malta/ikyk-hotel?SearchId=dca3d79b-dbfb-4e21-bce2-50a64eeae5b9&SearchType=1&Hotel=17166&P=1&CheckIn=2025-11-07&Night=3&HpCode=MAL7NOV25V",
+    "title": "IKYK HOTEL",
+    "location": "REPUBLIKA MALTA - MALTA",
+    "stars_raw": "6",
+    "departure_date_raw": "07.11.2025",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "COMFORT ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/republika-malta/malta/vivaldi-hotel?SearchType=1&Hotel=4645&P=1&CheckIn=2025-11-07&Night=3&HpCode=MAL7NOV25V&ClId=292",
+    "title": "VIVALDI HOTEL",
+    "location": "REPUBLIKA MALTA - MALTA",
+    "stars_raw": "8",
+    "departure_date_raw": "07.11.2025",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1038,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/republika-malta/malta/bayview-hotel-by-st-hotels?SearchId=dca3d79b-dbfb-4e21-bce2-50a64eeae5b9&SearchType=1&Hotel=4623&P=1&CheckIn=2025-11-07&Night=3&HpCode=MAL7NOV25V",
+    "title": "BAYVIEW HOTEL BY ST HOTELS",
+    "location": "REPUBLIKA MALTA - MALTA",
+    "stars_raw": "6",
+    "departure_date_raw": "07.11.2025",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 938,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/republika-malta/malta/cavalieri-art?SearchType=1&Hotel=4642&P=1&CheckIn=2025-11-07&Night=3&HpCode=MAL7NOV25V&ClId=292",
+    "title": "CAVALIERI ART HOTEL",
+    "location": "REPUBLIKA MALTA - MALTA",
+    "stars_raw": "8",
+    "departure_date_raw": "07.11.2025",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1058,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/republika-malta/malta/vivaldi-hotel?SearchId=dca3d79b-dbfb-4e21-bce2-50a64eeae5b9&SearchType=1&Hotel=4645&P=1&CheckIn=2025-11-07&Night=3&HpCode=MAL7NOV25V",
+    "title": "VIVALDI HOTEL",
+    "location": "REPUBLIKA MALTA - MALTA",
+    "stars_raw": "8",
+    "departure_date_raw": "07.11.2025",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1038,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/republika-malta/malta/intercontinental?SearchId=dca3d79b-dbfb-4e21-bce2-50a64eeae5b9&SearchType=1&Hotel=4650&P=1&CheckIn=2025-11-07&Night=3&HpCode=MAL7NOV25V",
+    "title": "INTERCONTINENTAL HOTEL",
+    "location": "REPUBLIKA MALTA - MALTA",
+    "stars_raw": "10",
+    "departure_date_raw": "07.11.2025",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "CLASSIC ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1258,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/republika-malta/malta/hilton-hotel?SearchId=dca3d79b-dbfb-4e21-bce2-50a64eeae5b9&SearchType=1&Hotel=3769&P=1&CheckIn=2025-11-07&Night=3&HpCode=MAL7NOV25V",
+    "title": "HILTON HOTEL",
+    "location": "REPUBLIKA MALTA - MALTA",
+    "stars_raw": "10",
+    "departure_date_raw": "07.11.2025",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "DELUXE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1518,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/republika-malta/malta/plaza-regency?SearchType=1&Hotel=3764&P=1&CheckIn=2025-11-07&Night=3&HpCode=MAL7NOV25V&ClId=292",
+    "title": "PLAZA REGENCY",
+    "location": "REPUBLIKA MALTA - MALTA",
+    "stars_raw": "6",
+    "departure_date_raw": "07.11.2025",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 978,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/republika-malta/malta/plaza-regency?SearchId=dca3d79b-dbfb-4e21-bce2-50a64eeae5b9&SearchType=1&Hotel=3764&P=1&CheckIn=2025-11-07&Night=3&HpCode=MAL7NOV25V",
+    "title": "PLAZA REGENCY",
+    "location": "REPUBLIKA MALTA - MALTA",
+    "stars_raw": "6",
+    "departure_date_raw": "07.11.2025",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 978,
+        "price_rsd": null
+      }
+    ]
+  }
+]

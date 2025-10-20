@@ -1,0 +1,4481 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/arum-barut-collection?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=157&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Arum Barut Collection",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Superior Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 969189.04,
+        "price_eur": null,
+        "price_rsd": 786763.37
+      },
+      {
+        "room_type": "Superior Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1056444.09,
+        "price_eur": null,
+        "price_rsd": 855775.86
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1126254.43,
+        "price_eur": null,
+        "price_rsd": 910985.58
+      },
+      {
+        "room_type": "Premium Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1368438.12,
+        "price_eur": null,
+        "price_rsd": 982374.88
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilySuite (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1332166.01,
+        "price_eur": null,
+        "price_rsd": 1073849.95
+      },
+      {
+        "room_type": "Penthouse Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1521057.16,
+        "price_eur": null,
+        "price_rsd": 1088665.68
+      },
+      {
+        "room_type": "2 Bedroom Suite (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1623603.89,
+        "price_eur": null,
+        "price_rsd": 1304358.97
+      },
+      {
+        "room_type": "2 Bedroom Deluxe FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 1575479.15
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/adora-calma-beach-hotel?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=18409&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Adora Calma Beach Hotel",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "8",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 589548.43,
+        "price_eur": null,
+        "price_rsd": 454008.79
+      },
+      {
+        "room_type": "Double Standard Room (GardenView, Balcony or Terrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 596843.75,
+        "price_eur": null,
+        "price_rsd": 459302.67
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView, Balcony or Terrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 604140.39,
+        "price_eur": null,
+        "price_rsd": 464597.88
+      },
+      {
+        "room_type": "Double Standard Room (SeaView, Balcony or Terrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 611468.52,
+        "price_eur": null,
+        "price_rsd": 469891.76
+      },
+      {
+        "room_type": "Romantic Room (SeaView, Private-PoolTerrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 680828.53,
+        "price_eur": null,
+        "price_rsd": 520188.95
+      },
+      {
+        "room_type": "Deluxe Suite (SeaView, With Jacuzzi)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 717340.57,
+        "price_eur": null,
+        "price_rsd": 546661.02
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/dream-water-world-hotel?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=18410&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Dream Water World Hotel",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 561177.47,
+        "price_eur": null,
+        "price_rsd": 498444.04
+      },
+      {
+        "room_type": "Large Standard Room (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 723793.93,
+        "price_eur": null,
+        "price_rsd": 639077.54
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 839928.65,
+        "price_eur": null,
+        "price_rsd": 739528.91
+      },
+      {
+        "room_type": "Duplex FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 839928.65,
+        "price_eur": null,
+        "price_rsd": 739528.91
+      },
+      {
+        "room_type": "2 Bedroom FamilySuite (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 909617.1,
+        "price_eur": null,
+        "price_rsd": 799800.79
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/dream-world-hill?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=18434&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Dream World Hill",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (LandscapeView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 531458.62,
+        "price_eur": null,
+        "price_rsd": 472728.06
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 538904.41,
+        "price_eur": null,
+        "price_rsd": 479156.72
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 792353.04,
+        "price_eur": null,
+        "price_rsd": 698384.13
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 804247.93,
+        "price_eur": null,
+        "price_rsd": 708671.32
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/seamelia-beach-resort---spa?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=12801&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Seamelia Beach Resort & Spa",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Superior Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 636544.21,
+        "price_eur": null,
+        "price_rsd": 513570.94
+      },
+      {
+        "room_type": "Double Superior Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 643890.12,
+        "price_eur": null,
+        "price_rsd": 519243.52
+      },
+      {
+        "room_type": "Bunkbed Superior Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 780728.94,
+        "price_eur": null,
+        "price_rsd": 624896.08
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1109085.01,
+        "price_eur": null,
+        "price_rsd": 878460.91
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/trendy-hotels-side-beach?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=18418&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Trendy Hotels Side Beach",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "8",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 498001.14,
+        "price_eur": null,
+        "price_rsd": 443798.4
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 505446.92,
+        "price_eur": null,
+        "price_rsd": 450227.07
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 516599.85,
+        "price_eur": null,
+        "price_rsd": 459870.72
+      },
+      {
+        "room_type": "Standard Junior Suite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 598358.51,
+        "price_eur": null,
+        "price_rsd": 530588.69
+      },
+      {
+        "room_type": "Standard Junior Suite (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 621582.97,
+        "price_eur": null,
+        "price_rsd": 550679.76
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/sidemarin-kirman-premium?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=14212&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Sidemarin Kirman Premium",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 912940.78,
+        "price_eur": null,
+        "price_rsd": 688475.65
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 912940.78,
+        "price_eur": null,
+        "price_rsd": 688475.65
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 931196.8,
+        "price_eur": null,
+        "price_rsd": 701711.68
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 931196.8,
+        "price_eur": null,
+        "price_rsd": 701711.68
+      },
+      {
+        "room_type": "Double Standard Room (Private Jacuzzi Terrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1058988.93,
+        "price_eur": null,
+        "price_rsd": 794363.9
+      },
+      {
+        "room_type": "Double Standard Room (Private Jacuzzi Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1058988.93,
+        "price_eur": null,
+        "price_rsd": 794363.9
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1239462.78,
+        "price_eur": null,
+        "price_rsd": 925212.06
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1239462.78,
+        "price_eur": null,
+        "price_rsd": 925212.06
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1265016.45,
+        "price_eur": null,
+        "price_rsd": 943741.98
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1265016.45,
+        "price_eur": null,
+        "price_rsd": 943741.98
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/washington-resort?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=18422&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Washington Resort",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4937.6,
+        "old_price_rsd": null,
+        "price_eur": 3806.68,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5062.41,
+        "old_price_rsd": null,
+        "price_eur": 3897.05,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5186.93,
+        "old_price_rsd": null,
+        "price_eur": 3987.41,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 7368.06,
+        "old_price_rsd": null,
+        "price_eur": 5568.78,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FamilySuite (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 7835.45,
+        "old_price_rsd": null,
+        "price_eur": 5907.65,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/dream-fun-world?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=18379&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Dream Fun World",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 561177.47,
+        "price_eur": null,
+        "price_rsd": 498444.04
+      },
+      {
+        "room_type": "Double Standard Room (TypeB)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 723793.93,
+        "price_eur": null,
+        "price_rsd": 639077.54
+      },
+      {
+        "room_type": "Double Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 839928.65,
+        "price_eur": null,
+        "price_rsd": 739528.91
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 839928.65,
+        "price_eur": null,
+        "price_rsd": 739528.91
+      },
+      {
+        "room_type": "Double Standard FamilyRoom (2 Bathrooms)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 886392.65,
+        "price_eur": null,
+        "price_rsd": 779709.72
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/selectum-colours-side?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=18557&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Selectum Colours Side",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Room (Without Balcony-Terrace Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4981.02,
+        "old_price_rsd": null,
+        "price_eur": 3438.78,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5134.96,
+        "old_price_rsd": null,
+        "price_eur": 3535.6,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5288.89,
+        "old_price_rsd": null,
+        "price_eur": 3632.41,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Bunkbed Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 6597.37,
+        "old_price_rsd": null,
+        "price_eur": 4455.37,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 7751.91,
+        "old_price_rsd": null,
+        "price_eur": 5181.51,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/side-royal-style-hotel?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=15331&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Side Royal Style Hotel",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 536319.32,
+        "price_eur": null,
+        "price_rsd": 456655.73
+      },
+      {
+        "room_type": "Standard Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 543683.01,
+        "price_eur": null,
+        "price_rsd": 462707.01
+      },
+      {
+        "room_type": "Double Standard Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 628670.67,
+        "price_eur": null,
+        "price_rsd": 532290.2
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 866066.45,
+        "price_eur": null,
+        "price_rsd": 726671.58
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/sentido-kamelya-selin-hotel?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=153&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Sentido Kamelya Selin Hotel",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Deluxe Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 702690.25,
+        "price_eur": null,
+        "price_rsd": 564624.2
+      },
+      {
+        "room_type": "Deluxe Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 724695.17,
+        "price_eur": null,
+        "price_rsd": 581641.95
+      },
+      {
+        "room_type": "Double Standard Room (Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 750422.28,
+        "price_eur": null,
+        "price_rsd": 601496.01
+      },
+      {
+        "room_type": "Double Standard Room (Beachfront)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 761457.56,
+        "price_eur": null,
+        "price_rsd": 610004.89
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/nova-park?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=15593&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Nova Park",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 659217.16,
+        "price_eur": null,
+        "price_rsd": 477644.56
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 673709.24,
+        "price_eur": null,
+        "price_rsd": 487477.57
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/side-crown-palace?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=10627&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Side Crown Palace",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4722.4,
+        "old_price_rsd": null,
+        "price_eur": 2880.28,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4844.06,
+        "old_price_rsd": null,
+        "price_eur": 2944.82,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5026.56,
+        "old_price_rsd": null,
+        "price_eur": 3041.64,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Deluxe Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5665.3,
+        "old_price_rsd": null,
+        "price_eur": 3380.5,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 7878.17,
+        "old_price_rsd": null,
+        "price_eur": 4554.43,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard FamilyRoom (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 8197.54,
+        "old_price_rsd": null,
+        "price_eur": 4723.86,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/seaden-sea-planet-resort---spa?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=9749&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Seaden Sea Planet Resort & Spa",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 552148.81,
+        "price_eur": null,
+        "price_rsd": 478062.99
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 559562.38,
+        "price_eur": null,
+        "price_rsd": 484262.58
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 566978.6,
+        "price_eur": null,
+        "price_rsd": 490464.82
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 574363.33,
+        "price_eur": null,
+        "price_rsd": 496668.37
+      },
+      {
+        "room_type": "Double Comfort Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 585469.94,
+        "price_eur": null,
+        "price_rsd": 505970.41
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 860456.38,
+        "price_eur": null,
+        "price_rsd": 736219.9
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 884909.96,
+        "price_eur": null,
+        "price_rsd": 756687.02
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/voyage-sorgun?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=150&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Voyage Sorgun",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Bungalow",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1278943.24,
+        "price_eur": null,
+        "price_rsd": 1064757.13
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1297416.79,
+        "price_eur": null,
+        "price_rsd": 1079884.03
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1334363.89,
+        "price_eur": null,
+        "price_rsd": 1110137.81
+      },
+      {
+        "room_type": "2 Bedroom Standard Bungalow",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1870096.89,
+        "price_eur": null,
+        "price_rsd": 1548817.73
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 2350409.25,
+        "price_eur": null,
+        "price_rsd": 1942116.98
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/dream-of-side?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=18378&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Dream Of Side",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "6",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3406.5,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 Rooms Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4697.42,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/hotel-turan-prince?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=144&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "HOTEL TURAN PRINCE ( EX. SENTIDO TURAN PRINCE )",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Club Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 640233.57,
+        "price_eur": null,
+        "price_rsd": 516407.22
+      },
+      {
+        "room_type": "Double Standard Room (Without Balcony-Terrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 640233.57,
+        "price_eur": null,
+        "price_rsd": 516407.22
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 647579.48,
+        "price_eur": null,
+        "price_rsd": 522079.81
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 665927.87,
+        "price_eur": null,
+        "price_rsd": 536261.28
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 684309.05,
+        "price_eur": null,
+        "price_rsd": 550442.73
+      },
+      {
+        "room_type": "Bunkbed Annex FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 857668.82,
+        "price_eur": null,
+        "price_rsd": 684315.22
+      },
+      {
+        "room_type": "2 Bedroom Annex FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 912032.39,
+        "price_eur": null,
+        "price_rsd": 726292.88
+      },
+      {
+        "room_type": "SeniorSuite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1198523.05,
+        "price_eur": null,
+        "price_rsd": 947523.71
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/kamelya-aishen-club?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=147&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "KAMELYA AISHEN K CLUB",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 636544.21,
+        "price_eur": null,
+        "price_rsd": 513570.94
+      },
+      {
+        "room_type": "Double Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 647579.48,
+        "price_eur": null,
+        "price_rsd": 522079.81
+      },
+      {
+        "room_type": "Double Deluxe Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 665927.87,
+        "price_eur": null,
+        "price_rsd": 536261.28
+      },
+      {
+        "room_type": "2 Rooms Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 691654.97,
+        "price_eur": null,
+        "price_rsd": 556115.32
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/melas-holiday-village?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=1482&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Melas Holiday Village",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 680393.06,
+        "price_eur": null,
+        "price_rsd": 574645.24
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 698866.61,
+        "price_eur": null,
+        "price_rsd": 589772.13
+      },
+      {
+        "room_type": "Large Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 759107.16,
+        "price_eur": null,
+        "price_rsd": 639086.82
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 759107.16,
+        "price_eur": null,
+        "price_rsd": 639086.82
+      },
+      {
+        "room_type": "Superior Room (Garden Side)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 849416.75,
+        "price_eur": null,
+        "price_rsd": 713056.84
+      },
+      {
+        "room_type": "Large Superior Room (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 879555.42,
+        "price_eur": null,
+        "price_rsd": 737716.18
+      },
+      {
+        "room_type": "Superior Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 909657.28,
+        "price_eur": null,
+        "price_rsd": 762371.53
+      },
+      {
+        "room_type": "Double GrandDeluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1180669.44,
+        "price_eur": null,
+        "price_rsd": 984282.96
+      },
+      {
+        "room_type": "Standard Apartment",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1180669.44,
+        "price_eur": null,
+        "price_rsd": 984282.96
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/sentido-kamelya-fulya-hotel?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=151&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Sentido Kamelya Fulya Hotel",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Superior Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5682.95,
+        "old_price_rsd": null,
+        "price_eur": 4576.39,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Superior Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5871.02,
+        "old_price_rsd": null,
+        "price_eur": 4721.62,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5965.19,
+        "old_price_rsd": null,
+        "price_eur": 4794.23,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 ConnectingRooms Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 10917.64,
+        "old_price_rsd": null,
+        "price_eur": 8618.56,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 11293.78,
+        "old_price_rsd": null,
+        "price_eur": 8909.02,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/sentido-trendy-verbena-beach?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=18593&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Sentido Trendy Verbena Beach",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 682471.77,
+        "price_eur": null,
+        "price_rsd": 592571.35
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 697293.76,
+        "price_eur": null,
+        "price_rsd": 605129.42
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 712111.78,
+        "price_eur": null,
+        "price_rsd": 617683.53
+      },
+      {
+        "room_type": "Bunkbed Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 907515.11,
+        "price_eur": null,
+        "price_rsd": 783098.17
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 975374.61,
+        "price_eur": null,
+        "price_rsd": 840540.39
+      },
+      {
+        "room_type": "Standard FamilyRoom (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 997618.7,
+        "price_eur": null,
+        "price_rsd": 859372.2
+      },
+      {
+        "room_type": "Standard Junior Suite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1019864.13,
+        "price_eur": null,
+        "price_rsd": 878205.35
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/sunthalia-hotels---resorts?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=15760&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Sunthalia Hotels & Resorts",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 713425.38,
+        "price_eur": null,
+        "price_rsd": 454387.49
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 727749.2,
+        "price_eur": null,
+        "price_rsd": 462707.01
+      },
+      {
+        "room_type": "Double Standard Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 742105.84,
+        "price_eur": null,
+        "price_rsd": 471026.55
+      },
+      {
+        "room_type": "Double Deluxe Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1021277.94,
+        "price_eur": null,
+        "price_rsd": 632950.78
+      },
+      {
+        "room_type": "Double Deluxe Room (With Jacuzzi)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1177802.69,
+        "price_eur": null,
+        "price_rsd": 723739.95
+      },
+      {
+        "room_type": "Deluxe Suite (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1317296.74,
+        "price_eur": null,
+        "price_rsd": 804651.09
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/riolavitas-resort---spa?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=15425&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Riolavitas Resort & Spa",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": 4634.37,
+        "old_price_rsd": null,
+        "price_eur": 3404.89,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room (PoolSide)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": 4758.32,
+        "old_price_rsd": null,
+        "price_eur": 3488.8,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room (Seaside)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": 4789.37,
+        "old_price_rsd": null,
+        "price_eur": 3509.77,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard Room (SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": 5563.57,
+        "old_price_rsd": null,
+        "price_eur": 4034.21,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": 7168.06,
+        "old_price_rsd": null,
+        "price_eur": 5120.84,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/asteria-bloom-side?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=17049&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Asteria Bloom Side",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4272.59,
+        "old_price_rsd": null,
+        "price_eur": 3487.19,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4272.59,
+        "old_price_rsd": null,
+        "price_eur": 3487.19,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4429.17,
+        "old_price_rsd": null,
+        "price_eur": 3608.21,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5996.54,
+        "old_price_rsd": null,
+        "price_eur": 4818.44,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/asteria-family-resort-side?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=18556&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Asteria Family Resort Side",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Club Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 568464.49,
+        "price_eur": null,
+        "price_rsd": 416191.56
+      },
+      {
+        "room_type": "SuperiorClub Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 842492.66,
+        "price_eur": null,
+        "price_rsd": 601779.37
+      },
+      {
+        "room_type": "Junior Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 869705.34,
+        "price_eur": null,
+        "price_rsd": 620215.27
+      },
+      {
+        "room_type": "Executive Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 985851.31,
+        "price_eur": null,
+        "price_rsd": 698875.39
+      },
+      {
+        "room_type": "FamilySuite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 998555.49,
+        "price_eur": null,
+        "price_rsd": 707478.28
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/side-royal-palace-hotel---spa?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=15330&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Side Royal Palace Hotel & Spa",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 525209.46,
+        "price_eur": null,
+        "price_rsd": 447580.12
+      },
+      {
+        "room_type": "Double Standard Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 528924.12,
+        "price_eur": null,
+        "price_rsd": 450605.76
+      },
+      {
+        "room_type": "Standard Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 540001.16,
+        "price_eur": null,
+        "price_rsd": 459681.37
+      },
+      {
+        "room_type": "Double Standard Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 599120.08,
+        "price_eur": null,
+        "price_rsd": 508087.7
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 846655.03,
+        "price_eur": null,
+        "price_rsd": 710787.28
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/the-sense-deluxe-hotel?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=16980&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "The Sense Deluxe Hotel",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 699084.55,
+        "price_eur": null,
+        "price_rsd": 533424.98
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 706379.87,
+        "price_eur": null,
+        "price_rsd": 538718.86
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 753852.61,
+        "price_eur": null,
+        "price_rsd": 573133.08
+      },
+      {
+        "room_type": "Standard Junior Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 819581.36,
+        "price_eur": null,
+        "price_rsd": 620783.32
+      },
+      {
+        "room_type": "Deluxe Suite (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 837837.38,
+        "price_eur": null,
+        "price_rsd": 634019.35
+      },
+      {
+        "room_type": "Standard Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 837837.38,
+        "price_eur": null,
+        "price_rsd": 634019.35
+      },
+      {
+        "room_type": "Deluxe Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 856093.4,
+        "price_eur": null,
+        "price_rsd": 647255.39
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1011269.57,
+        "price_eur": null,
+        "price_rsd": 759761.66
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1082460.95,
+        "price_eur": null,
+        "price_rsd": 811381.66
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/acanthus-cennet-barut-collection?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=1365&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Acanthus Cennet Barut Collection",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Superior Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1031390.55,
+        "price_eur": null,
+        "price_rsd": 862056.22
+      },
+      {
+        "room_type": "Double Superior Room (Lateral Sea View or Pool View)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1106175.76,
+        "price_eur": null,
+        "price_rsd": 923290.74
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1218336.51,
+        "price_eur": null,
+        "price_rsd": 1015141.88
+      },
+      {
+        "room_type": "Penthouse Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1405297.54,
+        "price_eur": null,
+        "price_rsd": 1168226.2
+      },
+      {
+        "room_type": "Standard Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1405315.27,
+        "price_eur": null,
+        "price_rsd": 1168227.52
+      },
+      {
+        "room_type": "Standard FamilyRoom (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1638995.06,
+        "price_eur": null,
+        "price_rsd": 1359581.93
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/calido-maris-hotel?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=18367&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Calido Maris Hotel",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4115.72,
+        "old_price_rsd": null,
+        "price_eur": 3366.16,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room (SeaView, TypeB)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4209.9,
+        "old_price_rsd": null,
+        "price_eur": 3438.78,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4209.9,
+        "old_price_rsd": null,
+        "price_eur": 3438.78,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Large Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4272.59,
+        "old_price_rsd": null,
+        "price_eur": 3487.19,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 6255.17,
+        "old_price_rsd": null,
+        "price_eur": 5018.13,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/barut-hemera?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=152&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Barut Hemera",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Superior Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 913154.06,
+        "price_eur": null,
+        "price_rsd": 765244.9
+      },
+      {
+        "room_type": "Double Deluxe Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 978486.94,
+        "price_eur": null,
+        "price_rsd": 818733.24
+      },
+      {
+        "room_type": "Superior Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1011136.32,
+        "price_eur": null,
+        "price_rsd": 845476.75
+      },
+      {
+        "room_type": "Double Deluxe Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1066682.48,
+        "price_eur": null,
+        "price_rsd": 890950.13
+      },
+      {
+        "room_type": "Double Superior Room (With Jacuzzi)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1102583.95,
+        "price_eur": null,
+        "price_rsd": 920355.15
+      },
+      {
+        "room_type": "Deluxe Room (With Jacuzzi)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1183078.71,
+        "price_eur": null,
+        "price_rsd": 986249.29
+      },
+      {
+        "room_type": "Deluxe Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1406202.29,
+        "price_eur": null,
+        "price_rsd": 1168950.49
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1443917.55,
+        "price_eur": null,
+        "price_rsd": 1199841.19
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/trendy-hotels-aspendos-beach?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=18416&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Trendy Hotels Aspendos Beach",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 682471.77,
+        "price_eur": null,
+        "price_rsd": 592571.35
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 697293.76,
+        "price_eur": null,
+        "price_rsd": 605129.42
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 712111.78,
+        "price_eur": null,
+        "price_rsd": 617683.53
+      },
+      {
+        "room_type": "Bunkbed Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 907515.11,
+        "price_eur": null,
+        "price_rsd": 783098.17
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (LandscapeView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 975374.61,
+        "price_eur": null,
+        "price_rsd": 840540.39
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 997618.7,
+        "price_eur": null,
+        "price_rsd": 859372.2
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1019864.13,
+        "price_eur": null,
+        "price_rsd": 878205.35
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/ramada-resort-by-wyndham-side?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=18542&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Ramada Resort by Wyndham Side",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "8",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Without Balcony-Terrace Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": 3426.5,
+        "old_price_rsd": null,
+        "price_eur": 2586.78,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard Room (LandscapeView)",
+        "board": "All Inclusive",
+        "old_price_eur": 3457.27,
+        "old_price_rsd": null,
+        "price_eur": 2607.75,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard Room (PoolView)",
+        "board": "All Inclusive",
+        "old_price_eur": 3550.44,
+        "old_price_rsd": null,
+        "price_eur": 2670.68,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Superior Room (LandscapeView)",
+        "board": "All Inclusive",
+        "old_price_eur": 3643.33,
+        "old_price_rsd": null,
+        "price_eur": 2733.61,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Superior Room (PoolView)",
+        "board": "All Inclusive",
+        "old_price_eur": 3705.17,
+        "old_price_rsd": null,
+        "price_eur": 2775.57,
+        "price_rsd": null
+      },
+      {
+        "room_type": "MultipleBed Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": 5432,
+        "old_price_rsd": null,
+        "price_eur": 3945.06,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/diamond-elite-hotel---spa?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=12797&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Diamond Elite Hotel & Spa",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 3805.91,
+        "old_price_rsd": null,
+        "price_eur": 3403.27,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 3901.09,
+        "old_price_rsd": null,
+        "price_eur": 3485.57,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5439.3,
+        "old_price_rsd": null,
+        "price_eur": 4816.02,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/side-premium-hotel?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=9246&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Side Premium Hotel",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 741754.44,
+        "price_eur": null,
+        "price_rsd": 438881.89
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 763139.59,
+        "price_eur": null,
+        "price_rsd": 450227.07
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 773832.15,
+        "price_eur": null,
+        "price_rsd": 455899.64
+      },
+      {
+        "room_type": "Standard Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 773832.15,
+        "price_eur": null,
+        "price_rsd": 455899.64
+      },
+      {
+        "room_type": "Standard Room (Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 802345.68,
+        "price_eur": null,
+        "price_rsd": 471026.55
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1180149.89,
+        "price_eur": null,
+        "price_rsd": 671457.89
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/diamond-premium-hotel---spa?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=12798&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Diamond Premium Hotel & Spa",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (RiverView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 520305.68,
+        "price_eur": null,
+        "price_rsd": 463084.4
+      },
+      {
+        "room_type": "Double Standard Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 531458.62,
+        "price_eur": null,
+        "price_rsd": 472728.06
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 546318.71,
+        "price_eur": null,
+        "price_rsd": 485586.71
+      },
+      {
+        "room_type": "Junior Suite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 613783.94,
+        "price_eur": null,
+        "price_rsd": 543930.66
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 814094.9,
+        "price_eur": null,
+        "price_rsd": 717189.47
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom (2 Bathrooms)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 838625.33,
+        "price_eur": null,
+        "price_rsd": 738406.04
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/miramare-beach-hotel?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=15205&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "MIRAMARE BEACH HOTEL",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 640351.03,
+        "price_eur": null,
+        "price_rsd": 633788.96
+      },
+      {
+        "room_type": "Superior Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 651696.2,
+        "price_eur": null,
+        "price_rsd": 645134.12
+      },
+      {
+        "room_type": "Superior Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 667579.18,
+        "price_eur": null,
+        "price_rsd": 661017.1
+      },
+      {
+        "room_type": "Superior Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 678924.35,
+        "price_eur": null,
+        "price_rsd": 672362.28
+      },
+      {
+        "room_type": "Corner Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 825136.59,
+        "price_eur": null,
+        "price_rsd": 821855.55
+      },
+      {
+        "room_type": "Double Deluxe Room (GardenView, Private-Garden)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 929439.61,
+        "price_eur": null,
+        "price_rsd": 921237.01
+      },
+      {
+        "room_type": "Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1116068.19,
+        "price_eur": null,
+        "price_rsd": 1107865.6
+      },
+      {
+        "room_type": "2 ConnectingRooms Superior FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1189600.19,
+        "price_eur": null,
+        "price_rsd": 1186319.15
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/royal-alhambra-palace?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=1528&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Royal Alhambra Palace",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Superior Room (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 949540.39,
+        "price_eur": null,
+        "price_rsd": 674294.18
+      },
+      {
+        "room_type": "Double Superior Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 985867.71,
+        "price_eur": null,
+        "price_rsd": 698875.39
+      },
+      {
+        "room_type": "Double Superior Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1022129.4,
+        "price_eur": null,
+        "price_rsd": 723456.58
+      },
+      {
+        "room_type": "FamilyRoom (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1652767.6,
+        "price_eur": null,
+        "price_rsd": 1150555.64
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1652767.6,
+        "price_eur": null,
+        "price_rsd": 1150555.64
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1763910.27,
+        "price_eur": null,
+        "price_rsd": 1225836.57
+      },
+      {
+        "room_type": "FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1763910.27,
+        "price_eur": null,
+        "price_rsd": 1225836.57
+      },
+      {
+        "room_type": "Standard Junior Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1875066.68,
+        "price_eur": null,
+        "price_rsd": 1301114.85
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/tui-blue-xanthe?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=14152&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "TUI Blue Xanthe",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 728301.28,
+        "price_eur": null,
+        "price_rsd": 554603.17
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 735596.59,
+        "price_eur": null,
+        "price_rsd": 559897.05
+      },
+      {
+        "room_type": "Double Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1055093.33,
+        "price_eur": null,
+        "price_rsd": 791527.61
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1055076.92,
+        "price_eur": null,
+        "price_rsd": 791527.61
+      },
+      {
+        "room_type": "Superior Family Lodging",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1374557.26,
+        "price_eur": null,
+        "price_rsd": 1023158.18
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/liu-resort?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=14071&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "LIU RESORTS",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 978145.63,
+        "price_eur": null,
+        "price_rsd": 777346.15
+      },
+      {
+        "room_type": "Deluxe Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1014875.2,
+        "price_eur": null,
+        "price_rsd": 805709.07
+      },
+      {
+        "room_type": "Deluxe Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1051604.77,
+        "price_eur": null,
+        "price_rsd": 834072
+      },
+      {
+        "room_type": "Double Deluxe Suite (TypeB)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1330749.5,
+        "price_eur": null,
+        "price_rsd": 1049630.23
+      },
+      {
+        "room_type": "Deluxe Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1418900.47,
+        "price_eur": null,
+        "price_rsd": 1117701.25
+      },
+      {
+        "room_type": "Lagoon Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1492359.62,
+        "price_eur": null,
+        "price_rsd": 1174427.11
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1639277.9,
+        "price_eur": null,
+        "price_rsd": 1287878.81
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/monachus-family-resort-sorgun?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=15845&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "MONACHUS FAMILY RESORT SORGUN",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 768770.66,
+        "price_eur": null,
+        "price_rsd": 615677.46
+      },
+      {
+        "room_type": "Standard Bungalow (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 768770.66,
+        "price_eur": null,
+        "price_rsd": 615677.46
+      },
+      {
+        "room_type": "Standard Room (PoolView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 801843.69,
+        "price_eur": null,
+        "price_rsd": 641204.1
+      },
+      {
+        "room_type": "Standard Room (PoolView, Balcony)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 816535.51,
+        "price_eur": null,
+        "price_rsd": 652549.27
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 823881.42,
+        "price_eur": null,
+        "price_rsd": 658221.85
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1440938.22,
+        "price_eur": null,
+        "price_rsd": 1134719.02
+      },
+      {
+        "room_type": "Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1440938.22,
+        "price_eur": null,
+        "price_rsd": 1134719.02
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/dream-family-club?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=18368&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Dream Family Club",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "6",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": 3725.52,
+        "old_price_rsd": null,
+        "price_eur": 3199.96,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": 3788.63,
+        "old_price_rsd": null,
+        "price_eur": 3251.59,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": 5270.47,
+        "old_price_rsd": null,
+        "price_eur": 4465.05,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/diamond-de-luxe-hotel---spa?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=13516&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Diamond De Luxe Hotel & Spa",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 635506.75,
+        "price_eur": null,
+        "price_rsd": 562733.34
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 661551.26,
+        "price_eur": null,
+        "price_rsd": 585234.33
+      },
+      {
+        "room_type": "Comfort Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 728434.74,
+        "price_eur": null,
+        "price_rsd": 643094.96
+      },
+      {
+        "room_type": "Double Standard Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 747000.66,
+        "price_eur": null,
+        "price_rsd": 659167.29
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (2 Bathrooms)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1141709.94,
+        "price_eur": null,
+        "price_rsd": 1000543.31
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/lago-hotel?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=1449&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "LAGO HOTEL (EX AZURA SORGUN)",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 886338.1,
+        "price_eur": null,
+        "price_rsd": 706438.83
+      },
+      {
+        "room_type": "Double Superior Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 923067.67,
+        "price_eur": null,
+        "price_rsd": 734801.76
+      },
+      {
+        "room_type": "Double Superior Room (LandscapeView, SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1010156.6,
+        "price_eur": null,
+        "price_rsd": 844661.09
+      },
+      {
+        "room_type": "Double Superior Room (SeaView, SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1141887.88,
+        "price_eur": null,
+        "price_rsd": 1000704.85
+      },
+      {
+        "room_type": "Deluxe FamilyRoom (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1281156.38,
+        "price_eur": null,
+        "price_rsd": 1011340.29
+      },
+      {
+        "room_type": "Deluxe FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1336250.73,
+        "price_eur": null,
+        "price_rsd": 1053884.67
+      },
+      {
+        "room_type": "Duplex FamilyRoom (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1360133.16,
+        "price_eur": null,
+        "price_rsd": 1072320.58
+      },
+      {
+        "room_type": "Duplex FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1418900.47,
+        "price_eur": null,
+        "price_rsd": 1117701.25
+      },
+      {
+        "room_type": "FamilyRoom (LandscapeView, SwimUp-PoolTerrace Offer)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1466916.28,
+        "price_eur": null,
+        "price_rsd": 1218673.01
+      },
+      {
+        "room_type": "FamilyRoom (SeaView, SwimUp-PoolTerrace Offer)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1592993.62,
+        "price_eur": null,
+        "price_rsd": 1321914.32
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/seaden-sea-world-resort---spa?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=1363&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Seaden Sea World Resort & Spa",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 552148.81,
+        "price_eur": null,
+        "price_rsd": 478062.99
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 559562.38,
+        "price_eur": null,
+        "price_rsd": 484262.58
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 566978.6,
+        "price_eur": null,
+        "price_rsd": 490464.82
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 574363.33,
+        "price_eur": null,
+        "price_rsd": 496668.37
+      },
+      {
+        "room_type": "Double Comfort Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 585469.94,
+        "price_eur": null,
+        "price_rsd": 505970.41
+      },
+      {
+        "room_type": "Standard Suite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 693809.94,
+        "price_eur": null,
+        "price_rsd": 596674.84
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 860456.38,
+        "price_eur": null,
+        "price_rsd": 736219.9
+      },
+      {
+        "room_type": "Standard FamilyRoom (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 884909.96,
+        "price_eur": null,
+        "price_rsd": 756687.02
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/sentido-serra-resort?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=19705&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Sentido Serra Resort",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "8",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 681262.37,
+        "price_eur": null,
+        "price_rsd": 547396.05
+      },
+      {
+        "room_type": "Double Standard Room (Swim Up)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 791451.09,
+        "price_eur": null,
+        "price_rsd": 632484.84
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 975098.95,
+        "price_eur": null,
+        "price_rsd": 774299.47
+      },
+      {
+        "room_type": "Single Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1033866.25,
+        "price_eur": null,
+        "price_rsd": 819680.15
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/side-crown-serenity?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=10628&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Side Crown Serenity",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4570.31,
+        "old_price_rsd": null,
+        "price_eur": 2799.59,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4691.98,
+        "old_price_rsd": null,
+        "price_eur": 2864.14,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4844.06,
+        "old_price_rsd": null,
+        "price_eur": 2944.82,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 7611.95,
+        "old_price_rsd": null,
+        "price_eur": 4413.23,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 7878.17,
+        "old_price_rsd": null,
+        "price_eur": 4554.43,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/melas-resort-hotel?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=2275&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Melas Resort Hotel",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 676411.34,
+        "price_eur": null,
+        "price_rsd": 598092.98
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 698715.89,
+        "price_eur": null,
+        "price_rsd": 617378.97
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 717281.8,
+        "price_eur": null,
+        "price_rsd": 633451.3
+      },
+      {
+        "room_type": "Large Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 758896.87,
+        "price_eur": null,
+        "price_rsd": 669455.8
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/side-star-park?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=7040&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Side Star Park",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 553764.49,
+        "price_eur": null,
+        "price_rsd": 492015.37
+      },
+      {
+        "room_type": "Bunkbed Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 690900.45,
+        "price_eur": null,
+        "price_rsd": 610629.88
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 782328.12,
+        "price_eur": null,
+        "price_rsd": 689704.44
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/seaden-corolla-hotel?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=136&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Seaden Corolla Hotel",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "8",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": 3795.56,
+        "old_price_rsd": null,
+        "price_eur": 3312.28,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": 3858.57,
+        "old_price_rsd": null,
+        "price_eur": 3365.21,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room (PoolView)",
+        "board": "All Inclusive",
+        "old_price_eur": 3953.64,
+        "old_price_rsd": null,
+        "price_eur": 3444.6,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Comfort Room",
+        "board": "All Inclusive",
+        "old_price_eur": 4048.42,
+        "old_price_rsd": null,
+        "price_eur": 3523.98,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": 6134.25,
+        "old_price_rsd": null,
+        "price_eur": 5270.59,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/dream-world-palace?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=18435&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Dream World Palace",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 553764.49,
+        "price_eur": null,
+        "price_rsd": 492015.37
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 561177.47,
+        "price_eur": null,
+        "price_rsd": 498444.04
+      },
+      {
+        "room_type": "Double Standard Room (TypeB)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 723793.93,
+        "price_eur": null,
+        "price_rsd": 639077.54
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 839928.65,
+        "price_eur": null,
+        "price_rsd": 739528.91
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (LandscapeView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 886392.65,
+        "price_eur": null,
+        "price_rsd": 779709.72
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/vonresort-golden-coast?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=3010&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "VONRESORT Golden Coast",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 639706.52,
+        "price_eur": null,
+        "price_rsd": 516002.04
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 643395.88,
+        "price_eur": null,
+        "price_rsd": 518838.33
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 654403.04,
+        "price_eur": null,
+        "price_rsd": 527347.22
+      },
+      {
+        "room_type": "Bunkbed Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 834739.96,
+        "price_eur": null,
+        "price_rsd": 666610.24
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 916761.8,
+        "price_eur": null,
+        "price_rsd": 729939.54
+      },
+      {
+        "room_type": "Comfort Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1053446.08,
+        "price_eur": null,
+        "price_rsd": 835491.47
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/seaden-quality-resort---spa?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=13731&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Seaden Quality Resort & Spa",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 728401.67,
+        "price_eur": null,
+        "price_rsd": 671836.59
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 739596.37,
+        "price_eur": null,
+        "price_rsd": 682046.97
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 750823.88,
+        "price_eur": null,
+        "price_rsd": 692257.37
+      },
+      {
+        "room_type": "Double Standard Room (Pool-Sea View)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 758287.46,
+        "price_eur": null,
+        "price_rsd": 699064.73
+      },
+      {
+        "room_type": "Double Standard Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 840548.18,
+        "price_eur": null,
+        "price_rsd": 773943.13
+      },
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 877930.35,
+        "price_eur": null,
+        "price_rsd": 807978.64
+      },
+      {
+        "room_type": "2 ConnectingRooms Standard FamilyRoom (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1093250.94,
+        "price_eur": null,
+        "price_rsd": 1004023.13
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (LateralSeaView, 2 Bathrooms)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1157550.39,
+        "price_eur": null,
+        "price_rsd": 1062564.36
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/royal-dragon-hotel?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=156&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Royal Dragon Hotel",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Superior Room (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 954668.82,
+        "price_eur": null,
+        "price_rsd": 718729.43
+      },
+      {
+        "room_type": "Superior Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 991180.86,
+        "price_eur": null,
+        "price_rsd": 745201.5
+      },
+      {
+        "room_type": "Superior Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1027692.9,
+        "price_eur": null,
+        "price_rsd": 771673.56
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1662081.35,
+        "price_eur": null,
+        "price_rsd": 1231625.68
+      },
+      {
+        "room_type": "FamilyRoom (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1662081.35,
+        "price_eur": null,
+        "price_rsd": 1231625.68
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1773912.44,
+        "price_eur": null,
+        "price_rsd": 1312697.04
+      },
+      {
+        "room_type": "FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1773912.44,
+        "price_eur": null,
+        "price_rsd": 1312697.04
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/side-story-resort---spa?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=4675&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Side Story Resort & Spa",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "8",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Annex Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4178.69,
+        "old_price_rsd": null,
+        "price_eur": 3414.57,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4303.79,
+        "old_price_rsd": null,
+        "price_eur": 3511.39,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4429.17,
+        "old_price_rsd": null,
+        "price_eur": 3608.21,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Superior Room (Balcony or Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4554.55,
+        "old_price_rsd": null,
+        "price_eur": 3705.03,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/megasaray-resort-side?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=15896&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "MEGASARAY RESORT SIDE",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 619752.02,
+        "price_eur": null,
+        "price_rsd": 425645.86
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 645018.77,
+        "price_eur": null,
+        "price_rsd": 441528.84
+      },
+      {
+        "room_type": "Double Comfort Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 776693.94,
+        "price_eur": null,
+        "price_rsd": 524349.37
+      },
+      {
+        "room_type": "Family Junior Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 933618.14,
+        "price_eur": null,
+        "price_rsd": 623051.56
+      },
+      {
+        "room_type": "FamilyRoom (Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1083707.21,
+        "price_eur": null,
+        "price_rsd": 717445.03
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/side-star-beach?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=7039&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Side Star Beach",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 583483.35,
+        "price_eur": null,
+        "price_rsd": 517731.36
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 624386.62,
+        "price_eur": null,
+        "price_rsd": 553089.68
+      },
+      {
+        "room_type": "Suite (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 650398.32,
+        "price_eur": null,
+        "price_rsd": 575590.67
+      },
+      {
+        "room_type": "Double Junior Suite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 691270.1,
+        "price_eur": null,
+        "price_rsd": 610950.31
+      },
+      {
+        "room_type": "Suite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 717281.8,
+        "price_eur": null,
+        "price_rsd": 633451.3
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/trendy-hotels-palm-beach?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=18417&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Trendy Hotels Palm Beach",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Annex Room (LandscapeView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 589761.31,
+        "price_eur": null,
+        "price_rsd": 514100.59
+      },
+      {
+        "room_type": "Double Annex Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 597187.38,
+        "price_eur": null,
+        "price_rsd": 520378.3
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 612008.05,
+        "price_eur": null,
+        "price_rsd": 532935.06
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 626858.88,
+        "price_eur": null,
+        "price_rsd": 545489.15
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 652800.27,
+        "price_eur": null,
+        "price_rsd": 567460.49
+      },
+      {
+        "room_type": "Annex Superior FamilyRoom (LandscapeView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 772368.58,
+        "price_eur": null,
+        "price_rsd": 668687.8
+      },
+      {
+        "room_type": "Suite (LandscapeView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 792402.97,
+        "price_eur": null,
+        "price_rsd": 685638.02
+      },
+      {
+        "room_type": "Suite (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 812420.97,
+        "price_eur": null,
+        "price_rsd": 702588.25
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/dream-world-aqua?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=18433&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Dream World Aqua",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 553764.49,
+        "price_eur": null,
+        "price_rsd": 492015.37
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 561177.47,
+        "price_eur": null,
+        "price_rsd": 498444.04
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 839928.65,
+        "price_eur": null,
+        "price_rsd": 739528.91
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (2 Bathrooms)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 886392.65,
+        "price_eur": null,
+        "price_rsd": 779709.72
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/castival-hotel?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=14215&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Castival Hotel",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room (LandscapeView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 571292.41,
+        "price_eur": null,
+        "price_rsd": 440772.75
+      },
+      {
+        "room_type": "Double Standard Room (Seaside)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 607804.45,
+        "price_eur": null,
+        "price_rsd": 467244.82
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 644316.49,
+        "price_eur": null,
+        "price_rsd": 493716.88
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1042301.25,
+        "price_eur": null,
+        "price_rsd": 782262.65
+      },
+      {
+        "room_type": "Standard FamilyRoom (2 Bathrooms)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1170093.39,
+        "price_eur": null,
+        "price_rsd": 874914.88
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/seaden-valentine-resort---spa?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=10123&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Seaden Valentine Resort & Spa",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 492884.64,
+        "price_eur": null,
+        "price_rsd": 428445.07
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 500300.88,
+        "price_eur": null,
+        "price_rsd": 434647.32
+      },
+      {
+        "room_type": "Double Standard Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 511408.8,
+        "price_eur": null,
+        "price_rsd": 443950.67
+      },
+      {
+        "room_type": "Double Comfort Room (LateralSeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 522515.4,
+        "price_eur": null,
+        "price_rsd": 453252.71
+      },
+      {
+        "room_type": "Double Standard Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 544747.67,
+        "price_eur": null,
+        "price_rsd": 471859.43
+      },
+      {
+        "room_type": "Double Standard Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 544732.59,
+        "price_eur": null,
+        "price_rsd": 471860.75
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/club-hotel-turan-prince-world?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=143&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Club Hotel Turan Prince World",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 640233.57,
+        "price_eur": null,
+        "price_rsd": 516407.22
+      },
+      {
+        "room_type": "Double Club Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 647579.48,
+        "price_eur": null,
+        "price_rsd": 522079.81
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 665927.87,
+        "price_eur": null,
+        "price_rsd": 536261.28
+      },
+      {
+        "room_type": "Double Standard Room (Seaside)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 684309.05,
+        "price_eur": null,
+        "price_rsd": 550442.73
+      },
+      {
+        "room_type": "Select Villa",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 794648.77,
+        "price_eur": null,
+        "price_rsd": 753143.65
+      },
+      {
+        "room_type": "Duplex Club FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 950606.64,
+        "price_eur": null,
+        "price_rsd": 756073.95
+      },
+      {
+        "room_type": "Duplex MainBuilding FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 978145.63,
+        "price_eur": null,
+        "price_rsd": 777346.15
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1033239.98,
+        "price_eur": null,
+        "price_rsd": 819890.53
+      },
+      {
+        "room_type": "Select Junior Suite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1073837.76,
+        "price_eur": null,
+        "price_rsd": 1015747
+      },
+      {
+        "room_type": "Duplex Select Villa",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1143637.46,
+        "price_eur": null,
+        "price_rsd": 1081396.18
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/ozlem-garden-hotel?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=12799&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Ozlem Garden Hotel",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "6",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Annex Room (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": 3330.31,
+        "old_price_rsd": null,
+        "price_eur": 2991.79,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Bungalow",
+        "board": "All Inclusive",
+        "old_price_eur": 3488.75,
+        "old_price_rsd": null,
+        "price_eur": 3128.95,
+        "price_rsd": null
+      },
+      {
+        "room_type": "SingleUse Annex Room (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": 5209.34,
+        "old_price_rsd": null,
+        "price_eur": 4617.14,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/miramare-queen-hotel?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=15953&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "MIRAMARE QUEEN HOTEL",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 774375.79,
+        "price_eur": null,
+        "price_rsd": 489745.81
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 799468.08,
+        "price_eur": null,
+        "price_rsd": 504305.97
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 799484.48,
+        "price_eur": null,
+        "price_rsd": 504305.97
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 817414.21,
+        "price_eur": null,
+        "price_rsd": 514705.72
+      },
+      {
+        "room_type": "Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1113246.38,
+        "price_eur": null,
+        "price_rsd": 686301.41
+      },
+      {
+        "room_type": "Suite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1177802.69,
+        "price_eur": null,
+        "price_rsd": 723739.95
+      },
+      {
+        "room_type": "MainBuilding FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1282690.55,
+        "price_eur": null,
+        "price_rsd": 784579.89
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/flora-garden-beach-hotel?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=4512&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Flora Garden Beach Hotel",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Bungalow (GardenView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 640950.54,
+        "price_eur": null,
+        "price_rsd": 586747.81
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 714890.42,
+        "price_eur": null,
+        "price_rsd": 653305.35
+      },
+      {
+        "room_type": "Bungalow (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 714890.42,
+        "price_eur": null,
+        "price_rsd": 653305.35
+      },
+      {
+        "room_type": "Superior Room (Seaside)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 751844.61,
+        "price_eur": null,
+        "price_rsd": 686584.78
+      },
+      {
+        "room_type": "SeniorSuite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 788798.81,
+        "price_eur": null,
+        "price_rsd": 719864.21
+      },
+      {
+        "room_type": "Deluxe Lake Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 862738.68,
+        "price_eur": null,
+        "price_rsd": 786421.75
+      },
+      {
+        "room_type": "Room (SeaView, SwimUp-PoolTerrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 899692.87,
+        "price_eur": null,
+        "price_rsd": 819701.18
+      },
+      {
+        "room_type": "Romantic Room (PoolView, Balcony or Terrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 973601.25,
+        "price_eur": null,
+        "price_rsd": 886260.04
+      },
+      {
+        "room_type": "Villa (Private Pool )",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1699364.59,
+        "price_eur": null,
+        "price_rsd": 1539742.13
+      },
+      {
+        "room_type": "Presidential Villa",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 2062262,
+        "price_eur": null,
+        "price_rsd": 1866482.51
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/lusso-sorgun?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=18411&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Lusso Sorgun",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1191997.06,
+        "price_eur": null,
+        "price_rsd": 890797.85
+      },
+      {
+        "room_type": "Double Superior Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1265021.14,
+        "price_eur": null,
+        "price_rsd": 943741.98
+      },
+      {
+        "room_type": "Double Superior Room (SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1520605.41,
+        "price_eur": null,
+        "price_rsd": 1129046.43
+      },
+      {
+        "room_type": "Double Superior Room (SeaView, With Jacuzzi)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1615549.56,
+        "price_eur": null,
+        "price_rsd": 1197873.53
+      },
+      {
+        "room_type": "FamilyRoom (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1849213.75,
+        "price_eur": null,
+        "price_rsd": 1367295.01
+      },
+      {
+        "room_type": "Double Superior Room (SeaView, SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1849213.75,
+        "price_eur": null,
+        "price_rsd": 1367295.01
+      },
+      {
+        "room_type": "Deluxe Suite (LagoonView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1849213.75,
+        "price_eur": null,
+        "price_rsd": 1367295.01
+      },
+      {
+        "room_type": "Duplex Standard Suite (LagoonView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1966045.19,
+        "price_eur": null,
+        "price_rsd": 1452005.09
+      },
+      {
+        "room_type": "FamilyRoom (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1966045.19,
+        "price_eur": null,
+        "price_rsd": 1452005.09
+      },
+      {
+        "room_type": "Superior FamilySuite (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 2013517.92,
+        "price_eur": null,
+        "price_rsd": 1486419.29
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/sunmelia-beach-resort-spa---hotel?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=10200&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Sunmelia Beach Resort Spa & Hotel",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4626.01,
+        "old_price_rsd": null,
+        "price_eur": 3580.77,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Superior Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4688.28,
+        "old_price_rsd": null,
+        "price_eur": 3625.96,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Superior Room (Seaside)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4750.82,
+        "old_price_rsd": null,
+        "price_eur": 3671.14,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Superior Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4813.09,
+        "old_price_rsd": null,
+        "price_eur": 3716.33,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Bunkbed Superior Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5732.22,
+        "old_price_rsd": null,
+        "price_eur": 4382.76,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Bunkbed Superior Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5810.11,
+        "old_price_rsd": null,
+        "price_eur": 4439.23,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (LandscapeView, 2 Bathrooms)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 7972.52,
+        "old_price_rsd": null,
+        "price_eur": 6007.06,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (LateralSeaView, 2 Bathrooms)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 8087.88,
+        "old_price_rsd": null,
+        "price_eur": 6090.64,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (SeaView, 2 Bathrooms)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 8203.1,
+        "old_price_rsd": null,
+        "price_eur": 6174.22,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 9798.52,
+        "old_price_rsd": null,
+        "price_eur": 7330.88,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kizilot/calimera-serra-palace-102178?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=102178&P=2&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Calimera Serra Palace",
+    "location": "Turska - KizilotKızılot Beldesi 07600 Kızılot Manavgat Antalya",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 637186.89,
+        "price_eur": null,
+        "price_rsd": 513360.54
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 659224.63,
+        "price_eur": null,
+        "price_rsd": 530378.3
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 908985.71,
+        "price_eur": null,
+        "price_rsd": 723246.2
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/selectum-family-comfort-side?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=16196&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Selectum Family Comfort Side",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5369.79,
+        "old_price_rsd": null,
+        "price_eur": 4334.35,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5494.89,
+        "old_price_rsd": null,
+        "price_eur": 4431.17,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard Room (LakeSide)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5933.71,
+        "old_price_rsd": null,
+        "price_eur": 4770.03,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard Room (LakeSide, SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 6466.71,
+        "old_price_rsd": null,
+        "price_eur": 5181.51,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 7363.22,
+        "old_price_rsd": null,
+        "price_eur": 5873.76,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 Bedroom Family Lake House (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 9287.72,
+        "old_price_rsd": null,
+        "price_eur": 7359.92,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/royal-taj-mahal?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=4510&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Royal Taj Mahal",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 848796.77,
+        "price_eur": null,
+        "price_rsd": 641960.18
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 874349.42,
+        "price_eur": null,
+        "price_rsd": 660491.42
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 899900.76,
+        "price_eur": null,
+        "price_rsd": 679021.33
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1412901.99,
+        "price_eur": null,
+        "price_rsd": 1050954.37
+      },
+      {
+        "room_type": "FamilyRoom (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1412901.99,
+        "price_eur": null,
+        "price_rsd": 1050954.37
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1582668.78,
+        "price_eur": null,
+        "price_rsd": 1174048.41
+      },
+      {
+        "room_type": "Standard Junior Suite",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1703165.6,
+        "price_eur": null,
+        "price_rsd": 1261406.75
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/aydinbey-kings-palace-spa-resort?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=149&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Aydinbey Kings Palace SPA Resort",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 767735.31,
+        "price_eur": null,
+        "price_rsd": 614867.1
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 789777.74,
+        "price_eur": null,
+        "price_rsd": 631884.85
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 826502.62,
+        "price_eur": null,
+        "price_rsd": 660247.78
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1378935.96,
+        "price_eur": null,
+        "price_rsd": 1086846.31
+      },
+      {
+        "room_type": "2 Bedroom Superior FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1482914.87,
+        "price_eur": null,
+        "price_rsd": 1167133.79
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/dream-world-resort?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=18436&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Dream World Resort",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": 3977.7,
+        "old_price_rsd": null,
+        "price_eur": 3406.5,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard Room (SpecialPackage)",
+        "board": "All Inclusive",
+        "old_price_eur": 4009.12,
+        "old_price_rsd": null,
+        "price_eur": 3432.32,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": 4040.82,
+        "old_price_rsd": null,
+        "price_eur": 3458.14,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": 5648.75,
+        "old_price_rsd": null,
+        "price_eur": 4774.87,
+        "price_rsd": null
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": 5648.75,
+        "old_price_rsd": null,
+        "price_eur": 4774.87,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/vonresort-elite?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=11556&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "VONRESORT Elite",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 665405.5,
+        "price_eur": null,
+        "price_rsd": 535856.09
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 702163.2,
+        "price_eur": null,
+        "price_rsd": 564219.02
+      },
+      {
+        "room_type": "Superior Room (GardenView, Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 775608.28,
+        "price_eur": null,
+        "price_rsd": 620944.87
+      },
+      {
+        "room_type": "Bunkbed Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 864489.01,
+        "price_eur": null,
+        "price_rsd": 689583.94
+      },
+      {
+        "room_type": "Bunkbed Standard FamilyRoom (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 956312.93,
+        "price_eur": null,
+        "price_rsd": 760491.26
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/calyptus-kirman-premium?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=14213&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Calyptus Kirman Premium",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Standard Room (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 858172.72,
+        "price_eur": null,
+        "price_rsd": 648767.55
+      },
+      {
+        "room_type": "Standard Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 858172.72,
+        "price_eur": null,
+        "price_rsd": 648767.55
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 872764.67,
+        "price_eur": null,
+        "price_rsd": 659356.64
+      },
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 872764.67,
+        "price_eur": null,
+        "price_rsd": 659356.64
+      },
+      {
+        "room_type": "Double Superior Room (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 982300.79,
+        "price_eur": null,
+        "price_rsd": 738772.83
+      },
+      {
+        "room_type": "Double Superior Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 982300.79,
+        "price_eur": null,
+        "price_rsd": 738772.83
+      },
+      {
+        "room_type": "Double Superior Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1000556.81,
+        "price_eur": null,
+        "price_rsd": 752008.87
+      },
+      {
+        "room_type": "Double Superior Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1000556.81,
+        "price_eur": null,
+        "price_rsd": 752008.87
+      },
+      {
+        "room_type": "FamilyRoom (LandscapeView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1238941.11,
+        "price_eur": null,
+        "price_rsd": 924833.36
+      },
+      {
+        "room_type": "FamilyRoom (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1238941.11,
+        "price_eur": null,
+        "price_rsd": 924833.36
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/selectum-family-resort-side?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=146&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Selectum Family Resort Side",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5682.95,
+        "old_price_rsd": null,
+        "price_eur": 4576.39,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5808.61,
+        "old_price_rsd": null,
+        "price_eur": 4673.21,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Upper Floor Room (LakeSide)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 5996.68,
+        "old_price_rsd": null,
+        "price_eur": 4818.44,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Double Standard Room (LakeSide, SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 6937.02,
+        "old_price_rsd": null,
+        "price_eur": 5544.58,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Upper Floor Family Lake House",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 7806.66,
+        "old_price_rsd": null,
+        "price_eur": 6216.26,
+        "price_rsd": null
+      },
+      {
+        "room_type": "MainBuilding FamilyRoom (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 8112.37,
+        "old_price_rsd": null,
+        "price_eur": 6452.25,
+        "price_rsd": null
+      },
+      {
+        "room_type": "MainBuilding FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 8300.44,
+        "old_price_rsd": null,
+        "price_eur": 6597.48,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Family Lake House (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 8864.5,
+        "old_price_rsd": null,
+        "price_eur": 7033.16,
+        "price_rsd": null
+      },
+      {
+        "room_type": "MainBuilding Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 9052.71,
+        "old_price_rsd": null,
+        "price_eur": 7178.39,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Suite (LakeSide, SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 9993.05,
+        "old_price_rsd": null,
+        "price_eur": 7904.53,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/numa-club-side?SearchId=ff1c75a8-01dc-4ecb-839d-78d1e362cd4d&SearchType=1&Hotel=18872&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "Numa Club Side",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 4617.02,
+        "old_price_rsd": null,
+        "price_eur": 3502.06,
+        "price_rsd": null
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": 7082.06,
+        "old_price_rsd": null,
+        "price_eur": 5242.32,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/side/marvida-family-eco?SearchId=db5e0437-a787-4029-8b1a-53c9173fbfbb&SearchType=1&Hotel=15844&P=1&CheckIn=2026-07-18&Night=14&HpCode=SKVW26",
+    "title": "MARVIDA FAMILY ECO (EX OTIUM)",
+    "location": "TURSKA - SIDE",
+    "stars_raw": "10",
+    "departure_date_raw": "18.07.2026",
+    "nights": "14",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 626060.47,
+        "price_eur": null,
+        "price_rsd": 480480.85
+      },
+      {
+        "room_type": "Double Standard Room (LakeView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 640652.43,
+        "price_eur": null,
+        "price_rsd": 491069.95
+      },
+      {
+        "room_type": "Quad Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 662572.51,
+        "price_eur": null,
+        "price_rsd": 506952.92
+      },
+      {
+        "room_type": "Standard Villa",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 945540.81,
+        "price_eur": null,
+        "price_rsd": 712111.42
+      },
+      {
+        "room_type": "FamilySuite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1143617.5,
+        "price_eur": null,
+        "price_rsd": 855722.89
+      }
+    ]
+  }
+]

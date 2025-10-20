@@ -1,0 +1,385 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/didim/aquasis-de-luxe-resort---spa?SearchType=1&Hotel=6633&P=1&CheckIn=2026-06-03&Night=7&HpCode=DIDWOTS26K&ClId=300",
+    "title": "Aquasis De Luxe Resort & Spa",
+    "location": "TURSKA - DIDIM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room (Economy)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 293385.54,
+        "price_eur": null,
+        "price_rsd": 255899.69
+      },
+      {
+        "room_type": "Deluxe Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 293385.54,
+        "price_eur": null,
+        "price_rsd": 255899.69
+      },
+      {
+        "room_type": "Deluxe Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 298803.59,
+        "price_eur": null,
+        "price_rsd": 260317.03
+      },
+      {
+        "room_type": "Deluxe Lake Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 298803.59,
+        "price_eur": null,
+        "price_rsd": 260317.03
+      },
+      {
+        "room_type": "Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 298803.59,
+        "price_eur": null,
+        "price_rsd": 260317.03
+      },
+      {
+        "room_type": "Deluxe Lake Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 298803.59,
+        "price_eur": null,
+        "price_rsd": 260317.03
+      },
+      {
+        "room_type": "Sunset Room (Terrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 306039.45,
+        "price_eur": null,
+        "price_rsd": 266207.66
+      },
+      {
+        "room_type": "Deluxe Lake Room (PoolView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 306039.45,
+        "price_eur": null,
+        "price_rsd": 266207.66
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 306039.45,
+        "price_eur": null,
+        "price_rsd": 266207.66
+      },
+      {
+        "room_type": "Deluxe Lake Room (PoolView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 306039.45,
+        "price_eur": null,
+        "price_rsd": 266207.66
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/didim/maxeria-blue-didyma?SearchType=1&Hotel=14396&P=1&CheckIn=2026-06-03&Night=7&HpCode=DIDWOTS26K&ClId=300",
+    "title": "Maxeria Blue Didyma Hotel",
+    "location": "TURSKA - DIDIM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 294400.35,
+        "price_eur": null,
+        "price_rsd": 238463.35
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 299880.7,
+        "price_eur": null,
+        "price_rsd": 242434.43
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 305361.04,
+        "price_eur": null,
+        "price_rsd": 246405.49
+      },
+      {
+        "room_type": "Superior Junior Suite (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 323617.06,
+        "price_eur": null,
+        "price_rsd": 259641.52
+      },
+      {
+        "room_type": "Superior Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 327264.72,
+        "price_eur": null,
+        "price_rsd": 262288.47
+      },
+      {
+        "room_type": "Deluxe Room (SeaView, With Jacuzzi)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 380993.12,
+        "price_eur": null,
+        "price_rsd": 301240.48
+      },
+      {
+        "room_type": "FamilyRoom (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 404324.11,
+        "price_eur": null,
+        "price_rsd": 318162.9
+      },
+      {
+        "room_type": "FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 412543.98,
+        "price_eur": null,
+        "price_rsd": 324118.85
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/didim/duja-didim?SearchType=1&Hotel=6632&P=1&CheckIn=2026-06-03&Night=7&HpCode=DIDWOTS26K&ClId=300",
+    "title": "DUJA DIDIM",
+    "location": "TURSKA - DIDIM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double MainBuilding Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 262612.2,
+        "price_eur": null,
+        "price_rsd": 235248.35
+      },
+      {
+        "room_type": "MainBuilding Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 262612.2,
+        "price_eur": null,
+        "price_rsd": 235248.35
+      },
+      {
+        "room_type": "MainBuilding Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 267321.51,
+        "price_eur": null,
+        "price_rsd": 239219.43
+      },
+      {
+        "room_type": "Club Room (PoolSide)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 270477.01,
+        "price_eur": null,
+        "price_rsd": 241866.36
+      },
+      {
+        "room_type": "Club FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 333306.74,
+        "price_eur": null,
+        "price_rsd": 294680.73
+      },
+      {
+        "room_type": "Club Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 423057.18,
+        "price_eur": null,
+        "price_rsd": 370125.85
+      },
+      {
+        "room_type": "Standard Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 443691.5,
+        "price_eur": null,
+        "price_rsd": 387462.72
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/didim/anda-barut-collection?SearchType=1&Hotel=16572&P=1&CheckIn=2026-06-03&Night=7&HpCode=DIDWOTS26K&ClId=300",
+    "title": "ANDA BARUT COLLECTION",
+    "location": "TURSKA - DIDIM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room (SeaView, Adult zone)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 562175.14,
+        "price_eur": null,
+        "price_rsd": 384359.33
+      },
+      {
+        "room_type": "Deluxe Room (SeaView, Family Zone)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 562175.14,
+        "price_eur": null,
+        "price_rsd": 384359.33
+      },
+      {
+        "room_type": "Deluxe Room (SeaView, Community Zone)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 562175.14,
+        "price_eur": null,
+        "price_rsd": 384359.33
+      },
+      {
+        "room_type": "Deluxe Room (Seaside, SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 724086.01,
+        "price_eur": null,
+        "price_rsd": 454040.24
+      },
+      {
+        "room_type": "Couple Deluxe Room (Seaside, SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 724086.01,
+        "price_eur": null,
+        "price_rsd": 454040.24
+      },
+      {
+        "room_type": "Deluxe Room (Seaside, SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 724087.29,
+        "price_eur": null,
+        "price_rsd": 454041.52
+      },
+      {
+        "room_type": "Penthouse (SeaView, Adult zone)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 884446.46,
+        "price_eur": null,
+        "price_rsd": 506602.22
+      },
+      {
+        "room_type": "Deluxe FamilySuite (SeaView, Family Zone)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 986236.08,
+        "price_eur": null,
+        "price_rsd": 648404.08
+      },
+      {
+        "room_type": "2 Bedroom Penthouse Suite (SeaView, Community Zone)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1351189.71,
+        "price_eur": null,
+        "price_rsd": 751088
+      },
+      {
+        "room_type": "Deluxe FamilySuite (Seaside, SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1293871.62,
+        "price_eur": null,
+        "price_rsd": 780791.23
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/didim/long-beach-club-nature?SearchType=1&Hotel=14412&P=1&CheckIn=2026-06-03&Night=7&HpCode=DIDWOTS26K&ClId=300",
+    "title": "Long Beach Club Nature",
+    "location": "TURSKA - DIDIM",
+    "stars_raw": "10",
+    "departure_date_raw": "03.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 260753.17,
+        "price_eur": null,
+        "price_rsd": 238870.99
+      },
+      {
+        "room_type": "Standard Room (Offer)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 281981.71,
+        "price_eur": null,
+        "price_rsd": 257357.52
+      },
+      {
+        "room_type": "Family Loft (Offer)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 294712.84,
+        "price_eur": null,
+        "price_rsd": 268450.48
+      },
+      {
+        "room_type": "Family Loft",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 324422.4,
+        "price_eur": null,
+        "price_rsd": 294330.6
+      },
+      {
+        "room_type": "Family Loft (TypeB Offer)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 345652.23,
+        "price_eur": null,
+        "price_rsd": 312818.42
+      },
+      {
+        "room_type": "2 ConnectingRooms FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 371116.71,
+        "price_eur": null,
+        "price_rsd": 335003.03
+      }
+    ]
+  }
+]

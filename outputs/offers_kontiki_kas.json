@@ -1,0 +1,300 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kas/lures-hotel?SearchType=1&Hotel=18766&P=1&CheckIn=2026-06-14&Night=7&HpCode=KASWOTS26K&ClId=303",
+    "title": "Lures Hotel",
+    "location": "TURSKA - KAŠ",
+    "stars_raw": "8",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Superior Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 564060.55,
+        "price_eur": null,
+        "price_rsd": 429570.83
+      },
+      {
+        "room_type": "Deluxe Room (With Jacuzzi)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 605736.7,
+        "price_eur": null,
+        "price_rsd": 457794.73
+      },
+      {
+        "room_type": "Junior Suite",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 689082.1,
+        "price_eur": null,
+        "price_rsd": 514243.83
+      },
+      {
+        "room_type": "Penthouse Suite",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 689082.1,
+        "price_eur": null,
+        "price_rsd": 514243.83
+      },
+      {
+        "room_type": "SeniorSuite",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 689082.1,
+        "price_eur": null,
+        "price_rsd": 514243.83
+      },
+      {
+        "room_type": "Villa",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 855779.8,
+        "price_eur": null,
+        "price_rsd": 627140.73
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kas/rhapsody-hotel-and-spa?SearchType=1&Hotel=18768&P=1&CheckIn=2026-06-14&Night=7&HpCode=KASWOTS26K&ClId=303",
+    "title": "RHAPSODY HOTEL AND SPA",
+    "location": "TURSKA - KAŠ",
+    "stars_raw": "6",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Mountain View, Balcony)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 269297.12,
+        "price_eur": null,
+        "price_rsd": 247199.34
+      },
+      {
+        "room_type": "Superior Apartment (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 290503.26,
+        "price_eur": null,
+        "price_rsd": 264566.66
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 306410.51,
+        "price_eur": null,
+        "price_rsd": 277594.8
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kas/aquarius-hotel?SearchType=1&Hotel=18764&P=1&CheckIn=2026-06-14&Night=7&HpCode=KASWOTS26K&ClId=303",
+    "title": "AQUARIUS HOTEL",
+    "location": "TURSKA - KAŠ",
+    "stars_raw": "6",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Comfort Room (LateralSeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 225123.39
+      },
+      {
+        "room_type": "Twin Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 228905.11
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 237549.06
+      },
+      {
+        "room_type": "Comfort Room (LateralSeaView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 266722.35
+      },
+      {
+        "room_type": "Twin Standard Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 270504.08
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 279148.01
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kas/samira-resort-hotel-and-apartments?SearchType=1&Hotel=18770&P=1&CheckIn=2026-06-14&Night=7&HpCode=KASWOTS26K&ClId=303",
+    "title": "SAMIRA RESORT HOTEL AND APARTMENTS",
+    "location": "TURSKA - KAŠ",
+    "stars_raw": "6",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "1 Bedroom Standard Apartment",
+        "board": "Self Catering",
+        "old_price_eur": null,
+        "old_price_rsd": 180302.07,
+        "price_eur": null,
+        "price_rsd": 177352.65
+      },
+      {
+        "room_type": "1 Bedroom Standard Apartment (SeaView, TypeC)",
+        "board": "Self Catering",
+        "old_price_eur": null,
+        "old_price_rsd": 190319.84,
+        "price_eur": null,
+        "price_rsd": 186469.31
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 194862.58,
+        "price_eur": null,
+        "price_rsd": 190601.92
+      },
+      {
+        "room_type": "1 Bedroom Standard Apartment",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 198993.15,
+        "price_eur": null,
+        "price_rsd": 194370.4
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 199665.38,
+        "price_eur": null,
+        "price_rsd": 194978.19
+      },
+      {
+        "room_type": "1 Bedroom Standard Apartment (SeaView, TypeC)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 209010.92,
+        "price_eur": null,
+        "price_rsd": 203487.06
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kas/aqua-princess-hotel?SearchType=1&Hotel=18762&P=1&CheckIn=2026-06-14&Night=7&HpCode=KASWOTS26K&ClId=303",
+    "title": "AQUA PRINCESS HOTEL",
+    "location": "TURSKA - KAŠ",
+    "stars_raw": "6",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Twin Standard Room (LandscapeView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 241871.03
+      },
+      {
+        "room_type": "Twin Standard Room (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 256997.92
+      },
+      {
+        "room_type": "Standard Suite",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 262670.51
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kas/soothe-hotel?SearchType=1&Hotel=18771&P=1&CheckIn=2026-06-14&Night=7&HpCode=KASWOTS26K&ClId=303",
+    "title": "SOOTHE HOTEL",
+    "location": "TURSKA - KAŠ",
+    "stars_raw": "6",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 274358.71,
+        "price_eur": null,
+        "price_rsd": 233362.15
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 292505.96,
+        "price_eur": null,
+        "price_rsd": 245652.75
+      },
+      {
+        "room_type": "Deluxe Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 301571.39,
+        "price_eur": null,
+        "price_rsd": 251798.06
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 319718.64,
+        "price_eur": null,
+        "price_rsd": 264088.65
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 383242.23,
+        "price_eur": null,
+        "price_rsd": 307105.76
+      }
+    ]
+  }
+]

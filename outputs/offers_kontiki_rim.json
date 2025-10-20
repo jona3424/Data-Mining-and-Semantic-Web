@@ -1,0 +1,40 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/italija/rim/hotel-paris?SearchType=1&Hotel=14995&P=1&CheckIn=2025-10-23&Night=3&HpCode=KTRMOKT&ClId=274",
+    "title": "HOTEL PARIS",
+    "location": "ITALIJA - RIM",
+    "stars_raw": "6",
+    "departure_date_raw": null,
+    "nights": null,
+    "rooms": [
+      {
+        "room_type": "STANDARDNA SOBA",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1378,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/italija/rim/mariano?SearchId=94c5b017-844b-408a-ac4e-0a7022a5fd28&SearchType=1&Hotel=19484&P=1&CheckIn=2026-01-01&Night=3&HpCode=RONYKT",
+    "title": "MARIANO",
+    "location": "ITALIJA - RIM",
+    "stars_raw": "6",
+    "departure_date_raw": "01.01.2026",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "DOUBLE ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1398,
+        "price_rsd": null
+      }
+    ]
+  }
+]

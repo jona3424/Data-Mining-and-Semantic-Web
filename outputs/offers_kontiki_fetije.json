@@ -1,0 +1,1261 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/meri-hotel?SearchType=1&Hotel=4017&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWFG26K&ClId=297",
+    "title": "MERI HOTEL",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "8",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD LAND VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 2770.08,
+        "old_price_rsd": null,
+        "price_eur": 2289.88,
+        "price_rsd": null
+      },
+      {
+        "room_type": "STANDARD SEA VIEW",
+        "board": "ALL INCLUSIVE",
+        "old_price_eur": 3060.16,
+        "old_price_rsd": null,
+        "price_eur": 2507.44,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/club---hotel-letoonia?SearchType=1&Hotel=2751&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "Club & Hotel Letoonia",
+    "location": "TURSKA - FETIJEKaragözler Mahallesi Fevzi Çakmak Caddesi 82 Fethiye Muğla",
+    "stars_raw": "10",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Bungalow",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 429698.88,
+        "price_eur": null,
+        "price_rsd": 369459.04
+      },
+      {
+        "room_type": "MainBuilding Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 512829.87,
+        "price_eur": null,
+        "price_rsd": 437530.06
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/lykia-botanika-beach-hotel?SearchType=1&Hotel=16769&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "LYKIA BOTANIKA BEACH",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "8",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Annex Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 192999.6,
+        "price_eur": null,
+        "price_rsd": 186896.87
+      },
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 196948.47,
+        "price_eur": null,
+        "price_rsd": 190583.26
+      },
+      {
+        "room_type": "Bunkbed Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 196940.27,
+        "price_eur": null,
+        "price_rsd": 190583.26
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 271771.4,
+        "price_eur": null,
+        "price_rsd": 260640.48
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/karbel-sun?SearchType=1&Hotel=15176&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "Karbel Sun",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "6",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 172887.25,
+        "price_eur": null,
+        "price_rsd": 169146.86
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 184535.15,
+        "price_eur": null,
+        "price_rsd": 180220.59
+      },
+      {
+        "room_type": "Double Select Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 186478.1,
+        "price_eur": null,
+        "price_rsd": 182065.1
+      },
+      {
+        "room_type": "Large Superior Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 190364,
+        "price_eur": null,
+        "price_rsd": 185754.15
+      },
+      {
+        "room_type": "Executive Room (Private Jacuzzi Terrace)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 200067.63,
+        "price_eur": null,
+        "price_rsd": 194982.02
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 221417.84,
+        "price_eur": null,
+        "price_rsd": 215282.3
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 233065.75,
+        "price_eur": null,
+        "price_rsd": 226356.03
+      },
+      {
+        "room_type": "Double Select Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 235008.7,
+        "price_eur": null,
+        "price_rsd": 228200.54
+      },
+      {
+        "room_type": "Large Superior Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 238894.59,
+        "price_eur": null,
+        "price_rsd": 231889.58
+      },
+      {
+        "room_type": "Executive Room (Private Jacuzzi Terrace)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 248598.23,
+        "price_eur": null,
+        "price_rsd": 241117.46
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/liberty-signa?SearchType=1&Hotel=16578&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "LIBERTY SIGNA HOTEL",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "10",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Superior Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 440939.64,
+        "price_eur": null,
+        "price_rsd": 394512.96
+      },
+      {
+        "room_type": "Deluxe Room (With Jacuzzi)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 457668.38,
+        "price_eur": null,
+        "price_rsd": 408977.78
+      },
+      {
+        "room_type": "Superior Room (Pool Access Via Stairs)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 502262.4,
+        "price_eur": null,
+        "price_rsd": 447551.1
+      },
+      {
+        "room_type": "Deluxe Room (Pool Access Via Stairs)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 533851.23,
+        "price_eur": null,
+        "price_rsd": 474874.58
+      },
+      {
+        "room_type": "Superior Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 569162.28,
+        "price_eur": null,
+        "price_rsd": 505411.73
+      },
+      {
+        "room_type": "Corner Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 615618.08,
+        "price_eur": null,
+        "price_rsd": 545592.54
+      },
+      {
+        "room_type": "FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 733155.95,
+        "price_eur": null,
+        "price_rsd": 647250.2
+      },
+      {
+        "room_type": "2 ConnectingRooms Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 819096.79,
+        "price_eur": null,
+        "price_rsd": 721584.37
+      },
+      {
+        "room_type": "Family Lake House",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1097831.57,
+        "price_eur": null,
+        "price_rsd": 962669.24
+      },
+      {
+        "room_type": "Junior Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 1104335.49,
+        "price_eur": null,
+        "price_rsd": 968295.49
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/xo-cape-arnna-fethiye?SearchType=1&Hotel=18482&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "XO CAPE ARNNA FETHIYE",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "10",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Deluxe Room (Adult zone)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 644855.52,
+        "price_eur": null,
+        "price_rsd": 494255.91
+      },
+      {
+        "room_type": "Double Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 644855.52,
+        "price_eur": null,
+        "price_rsd": 494255.91
+      },
+      {
+        "room_type": "Double Deluxe Room (SeaFront, Adult zone)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 672239.56,
+        "price_eur": null,
+        "price_rsd": 514109.97
+      },
+      {
+        "room_type": "Triple Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 672239.56,
+        "price_eur": null,
+        "price_rsd": 514109.97
+      },
+      {
+        "room_type": "Triple Comfort Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 686847.91,
+        "price_eur": null,
+        "price_rsd": 524699.05
+      },
+      {
+        "room_type": "Double Deluxe Room (Swim-up-Pool Terrace Adult Zone)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 701448.07,
+        "price_eur": null,
+        "price_rsd": 535288.14
+      },
+      {
+        "room_type": "Triple Room (Swim Up)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 701448.07,
+        "price_eur": null,
+        "price_rsd": 535288.14
+      },
+      {
+        "room_type": "Double Junior Suite (Adult zone)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 732487.96,
+        "price_eur": null,
+        "price_rsd": 557789.13
+      },
+      {
+        "room_type": "Double Suite ( Jacuzzi Adult Zone)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 748911.29,
+        "price_eur": null,
+        "price_rsd": 569701.04
+      },
+      {
+        "room_type": "Double Suite (Pool Access, Adult zone)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 765344.14,
+        "price_eur": null,
+        "price_rsd": 581614.26
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/hilton-dalaman-sarigerme-resort---spa?SearchType=1&Hotel=12831&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "Hilton Dalaman Sarigerme Resort & Spa",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "10",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (GardenView, Balcony)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 483680.08,
+        "price_eur": null,
+        "price_rsd": 431478.77
+      },
+      {
+        "room_type": "Standard Room (RiverView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 505985.95,
+        "price_eur": null,
+        "price_rsd": 450766.1
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 517138.88,
+        "price_eur": null,
+        "price_rsd": 460409.75
+      },
+      {
+        "room_type": "Standard Room (SeaView, SwimUp-PoolTerrace)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 550579.96,
+        "price_eur": null,
+        "price_rsd": 489339.4
+      },
+      {
+        "room_type": "Deluxe Room (SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 604473.35,
+        "price_eur": null,
+        "price_rsd": 535948.89
+      },
+      {
+        "room_type": "Large Upper Floor Room (Pool Access)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 660220.3,
+        "price_eur": null,
+        "price_rsd": 584165.86
+      },
+      {
+        "room_type": "Large Lower Floor Room (Pool Access)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 749409.66,
+        "price_eur": null,
+        "price_rsd": 661313.81
+      },
+      {
+        "room_type": "Standard FamilyRoom (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 870202.94,
+        "price_eur": null,
+        "price_rsd": 765783.93
+      },
+      {
+        "room_type": "Corner Suite (SeaView, SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1003993.19,
+        "price_eur": null,
+        "price_rsd": 881503.87
+      },
+      {
+        "room_type": "Duplex FamilySuite (GardenView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 1063455.5,
+        "price_eur": null,
+        "price_rsd": 932935.84
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/oludeniz-beach-resort-otel?SearchType=1&Hotel=11734&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "Oludeniz Beach Resort by Z Hotels",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "8",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 253262.88,
+        "price_eur": null,
+        "price_rsd": 232182.21
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 256986.44,
+        "price_eur": null,
+        "price_rsd": 235397.21
+      },
+      {
+        "room_type": "Bunkbed Comfort Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 260700.46,
+        "price_eur": null,
+        "price_rsd": 238610.88
+      },
+      {
+        "room_type": "Duplex Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 392816.42,
+        "price_eur": null,
+        "price_rsd": 352886.2
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/manaspark-deluxe-hotel?SearchType=1&Hotel=6727&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "Manaspark Deluxe Hotel SPECIAL CLASS",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": null,
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 341294.43,
+        "price_eur": null,
+        "price_rsd": 297066.05
+      },
+      {
+        "room_type": "Deluxe Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 365701.22,
+        "price_eur": null,
+        "price_rsd": 317055.15
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 377914.14,
+        "price_eur": null,
+        "price_rsd": 327051.04
+      },
+      {
+        "room_type": "Deluxe Room (Terrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 432829.86,
+        "price_eur": null,
+        "price_rsd": 372025.21
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 524378.18,
+        "price_eur": null,
+        "price_rsd": 446984.37
+      },
+      {
+        "room_type": "Privilege Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 583910.3
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/oludeniz-turquoise-hotel?SearchType=1&Hotel=14188&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "OLUDENIZ TURQUOISE",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "8",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 230704.49,
+        "price_eur": null,
+        "price_rsd": 212665.82
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 297468.09,
+        "price_eur": null,
+        "price_rsd": 270411.25
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/sundia-exclusive-by-liberty-fethiye?SearchType=1&Hotel=14410&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "Sundia Exclusive by Liberty Fethiye",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "10",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 321467.97,
+        "price_eur": null,
+        "price_rsd": 301388.02
+      },
+      {
+        "room_type": "Deluxe Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 343890.17,
+        "price_eur": null,
+        "price_rsd": 321808.79
+      },
+      {
+        "room_type": "Large Deluxe Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 349504.59,
+        "price_eur": null,
+        "price_rsd": 326914.65
+      },
+      {
+        "room_type": "Double Deluxe Deluxe Room (SeaView, Rooftop)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 356984.57,
+        "price_eur": null,
+        "price_rsd": 333722.02
+      },
+      {
+        "room_type": "Suite (SeaView, Rooftop)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 356984.57,
+        "price_eur": null,
+        "price_rsd": 333722.02
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 370061.23,
+        "price_eur": null,
+        "price_rsd": 345633.91
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/marcan-beach-hotel?SearchType=1&Hotel=10542&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "Marcan Beach Hotel",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "6",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 164997.69,
+        "price_eur": null,
+        "price_rsd": 161437.77
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/jiva-beach-resort?SearchType=1&Hotel=3884&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "Jiva Beach Resort",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "10",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Attic)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 354332.15
+      },
+      {
+        "room_type": "Double Standard Room (PoolView, Rooftop)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 363786.46
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 380804.22
+      },
+      {
+        "room_type": "Standard Room (PoolView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 395931.11
+      },
+      {
+        "room_type": "Standard Room (SwimUp-PoolTerrace)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 484801.61
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 593526.16
+      },
+      {
+        "room_type": "FamilySuite (Balcony)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 664433.47
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/sahra-su-holiday-village---spa?SearchType=1&Hotel=17101&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "SAHRA SU HOLIDAY VILLAGE HOLIDAY VILLAGE HV1",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": null,
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 225397.61,
+        "price_eur": null,
+        "price_rsd": 208073.73
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 229104.75,
+        "price_eur": null,
+        "price_rsd": 211288.72
+      },
+      {
+        "room_type": "Standard Room (SwimUp-PoolTerrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 243979.93,
+        "price_eur": null,
+        "price_rsd": 224146.06
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 328060.3,
+        "price_eur": null,
+        "price_rsd": 296874.05
+      },
+      {
+        "room_type": "Standard Family Bungalow",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 379069.27,
+        "price_eur": null,
+        "price_rsd": 340992.84
+      },
+      {
+        "room_type": "Deluxe Suite (Terrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 401921.43,
+        "price_eur": null,
+        "price_rsd": 360760.81
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/liberty-lykia---adults-only?SearchType=1&Hotel=3880&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "LIBERTY LYKIA ADULTS ONLY 16+",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "10",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 405644.97,
+        "price_eur": null,
+        "price_rsd": 363975.8
+      },
+      {
+        "room_type": "Deluxe Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 437232.48,
+        "price_eur": null,
+        "price_rsd": 391297.96
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 470683.09,
+        "price_eur": null,
+        "price_rsd": 420228.94
+      },
+      {
+        "room_type": "Deluxe Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 489265.41,
+        "price_eur": null,
+        "price_rsd": 436301.27
+      },
+      {
+        "room_type": "Deluxe Suite (With Jacuzzi)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 509701.3,
+        "price_eur": null,
+        "price_rsd": 453981.09
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/liberty-lykia?SearchType=1&Hotel=3879&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "Liberty Lykia HOLIDAY VILLAGE HV1",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": null,
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 374056.14,
+        "price_eur": null,
+        "price_rsd": 336652.32
+      },
+      {
+        "room_type": "Deluxe Room (LandscapeView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 403791.4,
+        "price_eur": null,
+        "price_rsd": 362368.31
+      },
+      {
+        "room_type": "Deluxe Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 418650.16,
+        "price_eur": null,
+        "price_rsd": 375225.64
+      },
+      {
+        "room_type": "Double Deluxe Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 435380.23,
+        "price_eur": null,
+        "price_rsd": 389691.79
+      },
+      {
+        "room_type": "Double Deluxe Room (SeaView, With Jacuzzi)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 452100.77,
+        "price_eur": null,
+        "price_rsd": 404156.61
+      },
+      {
+        "room_type": "Large Deluxe Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 470683.09,
+        "price_eur": null,
+        "price_rsd": 420228.94
+      },
+      {
+        "room_type": "Large Deluxe Room (LateralSeaView, Balcony or Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 489265.41,
+        "price_eur": null,
+        "price_rsd": 436301.27
+      },
+      {
+        "room_type": "Large Deluxe Room (SeaView, Balcony or Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 509701.3,
+        "price_eur": null,
+        "price_rsd": 453981.09
+      },
+      {
+        "room_type": "FamilyRoom (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 581710.17,
+        "price_eur": null,
+        "price_rsd": 516261.68
+      },
+      {
+        "room_type": "Deluxe FamilyRoom (GardenView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 633741.77,
+        "price_eur": null,
+        "price_rsd": 561263.66
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/mendos-garden-exclusive-hotel?SearchType=1&Hotel=3900&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "Mendos Garden Exclusive Hotel",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "6",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 156645.46,
+        "price_eur": null,
+        "price_rsd": 148606.92
+      },
+      {
+        "room_type": "Double Deluxe Room (With Jacuzzi)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 236542.33,
+        "price_eur": null,
+        "price_rsd": 217717.38
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/montebello-resort-hotel?SearchType=1&Hotel=3888&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "Montebello Resort Hotel",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "8",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Superior Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 267352.51
+      },
+      {
+        "room_type": "Superior Room (SwimUp-PoolTerrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 295715.43
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/marcan-resort-hotel?SearchType=1&Hotel=15800&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "Marcan Resort Hotel",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "8",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 191327.1,
+        "price_eur": null,
+        "price_rsd": 180762.16
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 261950.08,
+        "price_eur": null,
+        "price_rsd": 243453.24
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/aymes-hotel?SearchType=1&Hotel=6792&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "Aymes Hotel",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "6",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 171504.22,
+        "price_eur": null,
+        "price_rsd": 161464.25
+      },
+      {
+        "room_type": "Standard Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 204945.3,
+        "price_eur": null,
+        "price_rsd": 190393.9
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/sundia-by-liberty-oludeniz?SearchType=1&Hotel=16055&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "SUNDIA BY LIBERTY OLUDENIZ",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "8",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Superior Room (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 287816.92,
+        "price_eur": null,
+        "price_rsd": 270755.53
+      },
+      {
+        "room_type": "2 Bedroom Superior FamilyRoom (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 478476.63,
+        "price_eur": null,
+        "price_rsd": 444337.43
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/club-tuana-fethiye?SearchType=1&Hotel=3903&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "Club Tuana Fethiye",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "10",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Club Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 310031.95
+      },
+      {
+        "room_type": "Deluxe FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 416460.46
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/sundia-by-liberty-suncity?SearchType=1&Hotel=3885&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "SUNDIA BY LIBERTY SUNCITY",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "8",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 271009.13,
+        "price_eur": null,
+        "price_rsd": 255440.6
+      },
+      {
+        "room_type": "Standard Room (With Jacuzzi)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 280346.47,
+        "price_eur": null,
+        "price_rsd": 263949.48
+      },
+      {
+        "room_type": "Large Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 344458.71,
+        "price_eur": null,
+        "price_rsd": 322319.91
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 792476.21,
+        "price_eur": null,
+        "price_rsd": 730234.93
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/liberty-fabay?SearchType=1&Hotel=13846&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "Liberty Fabay",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "10",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 422357.32,
+        "price_eur": null,
+        "price_rsd": 378440.63
+      },
+      {
+        "room_type": "Standard Room (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 470674.89,
+        "price_eur": null,
+        "price_rsd": 420228.94
+      },
+      {
+        "room_type": "Standard Room (Pool Access)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 489257.21,
+        "price_eur": null,
+        "price_rsd": 436301.27
+      },
+      {
+        "room_type": "Standard Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 524568.27,
+        "price_eur": null,
+        "price_rsd": 466838.42
+      },
+      {
+        "room_type": "Large Room (Pool Access)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 563594.69,
+        "price_eur": null,
+        "price_rsd": 500590.57
+      },
+      {
+        "room_type": "Large Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 587744.6,
+        "price_eur": null,
+        "price_rsd": 521484.06
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 666257.39,
+        "price_eur": null,
+        "price_rsd": 589390.89
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 750811.49,
+        "price_eur": null,
+        "price_rsd": 662518.78
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom (Pool Access)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 783327.1,
+        "price_eur": null,
+        "price_rsd": 690646
+      },
+      {
+        "room_type": "2 Bedroom FamilyRoom (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 845118.02,
+        "price_eur": null,
+        "price_rsd": 744086.68
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/fetije/club-belcekiz-beach-hotel?SearchType=1&Hotel=3881&P=1&CheckIn=2026-06-14&Night=7&HpCode=FETWOTS26K&ClId=297",
+    "title": "CLUB BELCEKIZ BEACH",
+    "location": "TURSKA - FETIJE",
+    "stars_raw": "10",
+    "departure_date_raw": "14.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 337331.13,
+        "price_eur": null,
+        "price_rsd": 293824.57
+      },
+      {
+        "room_type": "Double Deluxe Room (Balcony Type C)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 374278.23,
+        "price_eur": null,
+        "price_rsd": 324078.36
+      }
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/spanija/tenerife/h10-conquistador-hotel?SearchType=1&Hotel=6449&P=1&CheckIn=2025-11-11&Night=7&HpCode=NOVTEN2025&ClId=179",
+    "title": "H10 CONQUISTADOR HOTEL",
+    "location": "SPANIJA - TENERIFE",
+    "stars_raw": "8",
+    "departure_date_raw": "11.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3420,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/spanija/tenerife/gf-victoria?SearchType=1&Hotel=13429&P=1&CheckIn=2025-11-11&Night=7&HpCode=NOVTEN2025&ClId=179",
+    "title": "GF VICTORIA",
+    "location": "SPANIJA - TENERIFE",
+    "stars_raw": "10",
+    "departure_date_raw": "11.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "SENIOR SUITE",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3720,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/spanija/tenerife/hovima-jardin-caleta?SearchType=1&Hotel=14642&P=1&CheckIn=2025-11-11&Night=7&HpCode=NOVTEN2025&ClId=179",
+    "title": "HOVIMA JARDIN CALETA",
+    "location": "SPANIJA - TENERIFE",
+    "stars_raw": "6",
+    "departure_date_raw": "11.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "COMFORT ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2660,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/spanija/tenerife/h10-costa-adeje-palace?SearchType=1&Hotel=14252&P=1&CheckIn=2025-11-11&Night=7&HpCode=NOVTEN2025&ClId=179",
+    "title": "H10 COSTA ADEJE PALACE",
+    "location": "SPANIJA - TENERIFE",
+    "stars_raw": "8",
+    "departure_date_raw": "11.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3220,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/spanija/tenerife/alexandre-hotel-troya?SearchType=1&Hotel=14250&P=1&CheckIn=2025-11-11&Night=7&HpCode=NOVTEN2025&ClId=179",
+    "title": "ALEXANDRE HOTEL TROYA",
+    "location": "SPANIJA - TENERIFE",
+    "stars_raw": "8",
+    "departure_date_raw": "11.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 2680,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/spanija/tenerife/los-olivos-beach-resort?SearchType=1&Hotel=17148&P=1&CheckIn=2025-11-11&Night=7&HpCode=NOVTEN2025&ClId=179",
+    "title": "LOS OLIVOS BEACH RESORT",
+    "location": "SPANIJA - TENERIFE",
+    "stars_raw": "6",
+    "departure_date_raw": "11.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "JUNIOR SUITE",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3020,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/spanija/tenerife/iberostar-selection-sabila?SearchType=1&Hotel=11026&P=1&CheckIn=2025-11-11&Night=7&HpCode=NOVTEN2025&ClId=179",
+    "title": "IBEROSTAR SELECTION SABILA",
+    "location": "SPANIJA - TENERIFE",
+    "stars_raw": "10",
+    "departure_date_raw": "11.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 3760,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/spanija/tenerife/adrian-jardines-de-nivaria?SearchType=1&Hotel=13428&P=1&CheckIn=2025-11-11&Night=7&HpCode=NOVTEN2025&ClId=179",
+    "title": "ADRIAN JARDINES DE NIVARIA",
+    "location": "SPANIJA - TENERIFE",
+    "stars_raw": "10",
+    "departure_date_raw": "11.11.2025",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "DOUBLE ROOM COMFORT",
+        "board": "HALF BOARD",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 4320,
+        "price_rsd": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/spanija/malaga/tent-hotel---torremolinos?SearchType=1&Hotel=17807&P=1&CheckIn=2025-12-11&Night=3&HpCode=AGP25DECKT&ClId=284",
+    "title": "TENT HOTEL - TORREMOLINOS",
+    "location": "SPANIJA - MALAGA",
+    "stars_raw": "6",
+    "departure_date_raw": "11.12.2025",
+    "nights": "3",
+    "rooms": [
+      {
+        "room_type": "STANDARD ROOM",
+        "board": "BED & BREAKFAST",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": 1398,
+        "price_rsd": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,1047 @@
+[
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/arora-hotel?SearchType=1&Hotel=6629&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "ARORA HOTEL",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "8",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 177327.94,
+        "price_eur": null,
+        "price_rsd": 137971.9
+      },
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 184518.76,
+        "price_eur": null,
+        "price_rsd": 142357.43
+      },
+      {
+        "room_type": "Duplex Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 238517.88,
+        "price_eur": null,
+        "price_rsd": 175259.48
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/ramada-resort-by-wydham-kusadasi---golf?SearchType=1&Hotel=8940&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "Ramada Resort by Wydham Kusadasi & Golf",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Superior Room (LateralSeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 246516.19,
+        "price_eur": null,
+        "price_rsd": 215723.66
+      },
+      {
+        "room_type": "Standard Junior Suite (LateralSeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 331487.44,
+        "price_eur": null,
+        "price_rsd": 285306.84
+      },
+      {
+        "room_type": "FamilySuite (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 373973.06,
+        "price_eur": null,
+        "price_rsd": 320098.43
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/derici?SearchType=1&Hotel=11546&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "Derici",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "8",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 147161.69,
+        "price_eur": null,
+        "price_rsd": 137630.28
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/infinity-by-yelken?SearchType=1&Hotel=13112&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "INFINITY BY YELKEN AQUAPARK RESORT",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (FrenchBalcony Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 278568.61,
+        "price_eur": null,
+        "price_rsd": 232552.06
+      },
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 284086.25,
+        "price_eur": null,
+        "price_rsd": 236806.5
+      },
+      {
+        "room_type": "Standard Room (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 289587.48,
+        "price_eur": null,
+        "price_rsd": 241060.94
+      },
+      {
+        "room_type": "Large Standard Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 356710.3,
+        "price_eur": null,
+        "price_rsd": 292894.12
+      },
+      {
+        "room_type": "Large Standard Room (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 364144.11,
+        "price_eur": null,
+        "price_rsd": 298638.21
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilyRoom (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 396103.24,
+        "price_eur": null,
+        "price_rsd": 323313.43
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/ephesia-resort-hotel?SearchType=1&Hotel=3997&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "Ephesia Resort Hotel",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "8",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 204030.57,
+        "price_eur": null,
+        "price_rsd": 180932.07
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView, Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 211409.35,
+        "price_eur": null,
+        "price_rsd": 186982.03
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/charisma-de-luxe-hotel?SearchType=1&Hotel=16659&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "CHARISMA DE LUXE HOTEL",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (SeaView, Without Balcony-Terrace Economy)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 232643.9,
+        "price_eur": null,
+        "price_rsd": 211563.23
+      },
+      {
+        "room_type": "Superior Room (Balcony)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 232643.9,
+        "price_eur": null,
+        "price_rsd": 211563.23
+      },
+      {
+        "room_type": "Superior Room (LateralSeaView, Balcony)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 240073.28,
+        "price_eur": null,
+        "price_rsd": 217991.9
+      },
+      {
+        "room_type": "Superior Room (SeaView, Balcony)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 249372.64,
+        "price_eur": null,
+        "price_rsd": 226028.06
+      },
+      {
+        "room_type": "Superior Room (Balcony)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 251226.22,
+        "price_eur": null,
+        "price_rsd": 227635.56
+      },
+      {
+        "room_type": "Standard Room (SeaView, Without Balcony-Terrace Economy)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 251226.22,
+        "price_eur": null,
+        "price_rsd": 227635.56
+      },
+      {
+        "room_type": "Superior Room (LateralSeaView, Balcony)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 258655.6,
+        "price_eur": null,
+        "price_rsd": 234064.22
+      },
+      {
+        "room_type": "Superior Room (SeaView, Balcony)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 267954.96,
+        "price_eur": null,
+        "price_rsd": 242100.38
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/grand-blue-sky-international?SearchType=1&Hotel=4009&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "The Grand Blue Sky International",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "8",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (GardenView, Balcony)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 262763.82,
+        "price_eur": null,
+        "price_rsd": 211563.23
+      },
+      {
+        "room_type": "Standard Room (SeaView, Balcony)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 271891.82,
+        "price_eur": null,
+        "price_rsd": 218181.25
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/korumar-hotel-de-luxe?SearchType=1&Hotel=3996&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "Korumar Hotel De Luxe",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Balcony - Promotion)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 302434.63,
+        "price_eur": null,
+        "price_rsd": 250987.97
+      },
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 309780.55,
+        "price_eur": null,
+        "price_rsd": 256660.55
+      },
+      {
+        "room_type": "Large Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 315298.18,
+        "price_eur": null,
+        "price_rsd": 260914.98
+      },
+      {
+        "room_type": "Standard Room (SeaView, Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 320799.41,
+        "price_eur": null,
+        "price_rsd": 265169.42
+      },
+      {
+        "room_type": "Large Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 324472.37,
+        "price_eur": null,
+        "price_rsd": 268005.72
+      },
+      {
+        "room_type": "Executive Room (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 379583.13,
+        "price_eur": null,
+        "price_rsd": 310550.11
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/batihan-beach-resort---spa?SearchType=1&Hotel=3999&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "Batihan Beach Resort & Spa",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "8",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 221169.94,
+        "price_eur": null,
+        "price_rsd": 204945.21
+      },
+      {
+        "room_type": "Comfort Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 225649.58,
+        "price_eur": null,
+        "price_rsd": 208916.29
+      },
+      {
+        "room_type": "Select Room (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 233104.26,
+        "price_eur": null,
+        "price_rsd": 215534.31
+      },
+      {
+        "room_type": "Comfort Room (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 240558.94,
+        "price_eur": null,
+        "price_rsd": 222152.32
+      },
+      {
+        "room_type": "Select FamilyRoom (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 334858.59,
+        "price_eur": null,
+        "price_rsd": 305870.62
+      },
+      {
+        "room_type": "Comfort FamilyRoom (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 347163.63,
+        "price_eur": null,
+        "price_rsd": 316789.43
+      },
+      {
+        "room_type": "Select FamilyRoom (Pool Front)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 373999.1,
+        "price_eur": null,
+        "price_rsd": 340614.55
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/flora-garden-ephesus?SearchType=1&Hotel=8945&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "FLORA GARDEN EPHESUS",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 255468.5,
+        "price_eur": null,
+        "price_rsd": 206269.35
+      },
+      {
+        "room_type": "Deluxe Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 277372.18,
+        "price_eur": null,
+        "price_rsd": 222152.32
+      },
+      {
+        "room_type": "Deluxe Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 299275.86,
+        "price_eur": null,
+        "price_rsd": 238035.3
+      },
+      {
+        "room_type": "Deluxe Superior Room",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 310236.56,
+        "price_eur": null,
+        "price_rsd": 245977.45
+      },
+      {
+        "room_type": "Standard Room (SwimUp-PoolTerrace)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 310236.56,
+        "price_eur": null,
+        "price_rsd": 245977.45
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 377780.29,
+        "price_eur": null,
+        "price_rsd": 294950.51
+      },
+      {
+        "room_type": "Standard FamilyRoom (LateralSeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 410644.67,
+        "price_eur": null,
+        "price_rsd": 318775.63
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/pine-bay-holiday-resort?SearchType=1&Hotel=4004&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "PINE BAY HOLIDAY RESORT",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 284383.43,
+        "price_eur": null,
+        "price_rsd": 245896.87
+      },
+      {
+        "room_type": "Standard Room (LateralSeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 293419.41,
+        "price_eur": null,
+        "price_rsd": 253259.51
+      },
+      {
+        "room_type": "Standard Room (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 297037.33,
+        "price_eur": null,
+        "price_rsd": 256204.82
+      },
+      {
+        "room_type": "Junior Club Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 357120.74,
+        "price_eur": null,
+        "price_rsd": 305166.69
+      },
+      {
+        "room_type": "Superior Room (SeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 374202.76,
+        "price_eur": null,
+        "price_rsd": 319082.51
+      },
+      {
+        "room_type": "2 Bedroom Club FamilyRoom",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 429862.62,
+        "price_eur": null,
+        "price_rsd": 364435.23
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/ramada-hotel---suites-by-wyndham-kusadasi?SearchType=1&Hotel=13629&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "RAMADA RESORT SUITES BY WYNDHAM KUSADASI",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "8",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Superior Room (LateralSeaView, Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 231740.89,
+        "price_eur": null,
+        "price_rsd": 203622.41
+      },
+      {
+        "room_type": "Superior Room (SeaView, Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 239119.68,
+        "price_eur": null,
+        "price_rsd": 209672.38
+      },
+      {
+        "room_type": "Standard Junior Suite (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 279765.04,
+        "price_eur": null,
+        "price_rsd": 242951.8
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilySuite (Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 328727.05,
+        "price_eur": null,
+        "price_rsd": 283038.6
+      },
+      {
+        "room_type": "2 Bedroom Standard FamilySuite (SeaView, Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 340724.22,
+        "price_eur": null,
+        "price_rsd": 292870.29
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/elite-world-kusadasi-(ex--marina-hotel)?SearchType=1&Hotel=18484&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "ELITE WORLD KUSADASI",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "8",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 208916.29
+      },
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 227824.91
+      },
+      {
+        "room_type": "Standard Room (SeaView, Balcony)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 237279.21
+      },
+      {
+        "room_type": "Superior Room (Balcony)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 246733.53
+      },
+      {
+        "room_type": "Double Standard Room (Economy)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 246733.53
+      },
+      {
+        "room_type": "Superior Room (SeaView, Balcony)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 265642.15
+      },
+      {
+        "room_type": "Standard Room (Balcony)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 265642.15
+      },
+      {
+        "room_type": "Standard Room (SeaView, Balcony)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 275096.45
+      },
+      {
+        "room_type": "Superior Room (Balcony)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 284550.76
+      },
+      {
+        "room_type": "Superior Room (SeaView, Balcony)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 303459.38
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/liberty-kusadasi?SearchType=1&Hotel=16775&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "Liberty Kusadasi",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room (LateralSeaView, Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 317599.01,
+        "price_eur": null,
+        "price_rsd": 261542.49
+      },
+      {
+        "room_type": "Corner Suite (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 330182.6,
+        "price_eur": null,
+        "price_rsd": 271205.96
+      },
+      {
+        "room_type": "Standard Junior Suite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 342782.61,
+        "price_eur": null,
+        "price_rsd": 280869.44
+      },
+      {
+        "room_type": "Deluxe Suite (LateralSeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 355374.41,
+        "price_eur": null,
+        "price_rsd": 290532.91
+      },
+      {
+        "room_type": "Deluxe Suite (SeaView)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 369765.04,
+        "price_eur": null,
+        "price_rsd": 301576.89
+      },
+      {
+        "room_type": "King Suite",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 627449.61,
+        "price_eur": null,
+        "price_rsd": 499333.31
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/ponz-hotel?SearchType=1&Hotel=13114&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "Ponz Hotel",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "6",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 152131.51,
+        "price_eur": null,
+        "price_rsd": 122618.58
+      },
+      {
+        "room_type": "Double Standard Room",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 161125.45,
+        "price_eur": null,
+        "price_rsd": 128101.81
+      },
+      {
+        "room_type": "Standard FamilyRoom (Balcony)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 189925.5,
+        "price_eur": null,
+        "price_rsd": 145647.9
+      },
+      {
+        "room_type": "Standard FamilyRoom (Balcony)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 203417.08,
+        "price_eur": null,
+        "price_rsd": 153873.42
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/hotel-roxx-royal?SearchType=1&Hotel=15390&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWFG26K&ClId=301",
+    "title": "ROXX ROYAL HOTEL",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "6",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "STANDARD",
+        "board": "HALF BOARD",
+        "old_price_eur": 1013.8,
+        "old_price_rsd": null,
+        "price_eur": 972.94,
+        "price_rsd": null
+      },
+      {
+        "room_type": "FAMILY ROOM",
+        "board": "HALF BOARD",
+        "old_price_eur": 1265.8,
+        "old_price_rsd": null,
+        "price_eur": 1194.7,
+        "price_rsd": null
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/tusan-beach-resort?SearchType=1&Hotel=4003&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "Tusan Beach Resort",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Deluxe Room",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 258928.18,
+        "price_eur": null,
+        "price_rsd": 234294.62
+      },
+      {
+        "room_type": "Double Deluxe Room (SeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 264503.98,
+        "price_eur": null,
+        "price_rsd": 239115.79
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/grand-belish-hotel?SearchType=1&Hotel=15268&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "Grand Belish Hotel",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 218370.6
+      },
+      {
+        "room_type": "2 Rooms Superior Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 289277.92
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/hotel-karaaslan-inn?SearchType=1&Hotel=16657&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "HOTEL BY KARAASLAN INN",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "8",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (SeaView, Balcony)",
+        "board": "Breakfast",
+        "old_price_eur": null,
+        "old_price_rsd": 156123.1,
+        "price_eur": null,
+        "price_rsd": 149003.25
+      },
+      {
+        "room_type": "Double Standard Room (SeaView, Balcony)",
+        "board": "Half Board",
+        "old_price_eur": null,
+        "old_price_rsd": 172948.63,
+        "price_eur": null,
+        "price_rsd": 164319.5
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/fantasia-hotel-de-luxe-kusadasi?SearchType=1&Hotel=4555&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "Fantasia Hotel De Luxe Kusadasi",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room (LateralSeaView)",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 234493.12,
+        "price_eur": null,
+        "price_rsd": 198516.55
+      },
+      {
+        "room_type": "Standard FamilyRoom",
+        "board": "All Inclusive Plus",
+        "old_price_eur": null,
+        "old_price_rsd": 313469.91,
+        "price_eur": null,
+        "price_rsd": 259496.85
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/kustur-club-holiday-village?SearchType=1&Hotel=4002&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "KUSTUR CLUB HOLIDAY VILLAGE HV1",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Bungalow (Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 263622.63,
+        "price_eur": null,
+        "price_rsd": 221004.3
+      },
+      {
+        "room_type": "Superior Room (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 269123.87,
+        "price_eur": null,
+        "price_rsd": 225258.74
+      },
+      {
+        "room_type": "Standard FamilyRoom (Balcony)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 399243.54,
+        "price_eur": null,
+        "price_rsd": 325736.59
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/signature-blue-resort?SearchType=1&Hotel=15194&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "Signature Blue Resort",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Standard Room (Balcony Economy)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 241700.62,
+        "price_eur": null,
+        "price_rsd": 188400.17
+      },
+      {
+        "room_type": "Deluxe Room (SeaView, Balcony)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 245324.31,
+        "price_eur": null,
+        "price_rsd": 190859.1
+      },
+      {
+        "room_type": "Corner Room (SeaView)",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 248946.67,
+        "price_eur": null,
+        "price_rsd": 193316.68
+      },
+      {
+        "room_type": "Junior Suite",
+        "board": "All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": 328798.13,
+        "price_eur": null,
+        "price_rsd": 247395.6
+      }
+    ]
+  },
+  {
+    "site": "kontiki",
+    "url": "https://kontiki.rs/sr/hotel/turska/kusadasi/omer-prime-holiday-resort?SearchType=1&Hotel=4012&P=1&CheckIn=2026-06-10&Night=7&HpCode=KUSWOTS26K&ClId=301",
+    "title": "OMER PRIME HOLIDAY RESORT",
+    "location": "TURSKA - KUŠADASI",
+    "stars_raw": "10",
+    "departure_date_raw": "10.06.2026",
+    "nights": "7",
+    "rooms": [
+      {
+        "room_type": "Double Standard Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 234852.89
+      },
+      {
+        "room_type": "Club Room (Balcony or Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 242215.54
+      },
+      {
+        "room_type": "Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 251418.84
+      },
+      {
+        "room_type": "Club FamilyRoom (Balcony or Terrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 325045.32
+      },
+      {
+        "room_type": "Standard Room (SwimUp-PoolTerrace)",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 338850.29
+      },
+      {
+        "room_type": "SingleUse Superior Room",
+        "board": "Ultra All Inclusive",
+        "old_price_eur": null,
+        "old_price_rsd": null,
+        "price_eur": null,
+        "price_rsd": 373822.86
+      }
+    ]
+  }
+]
