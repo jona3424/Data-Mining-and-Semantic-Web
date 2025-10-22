@@ -261,9 +261,11 @@ HTML_HIST = """
 
 
 def set_seed(seed: int = 42):
+    """Postavlja seed za random i numpy radi reproduktivnosti."""
     random.seed(seed); np.random.seed(seed)
 
 def connect_db():
+    """Vraca MySQL konekciju koristeci env promenljive ili DATABASE_URL."""
     if DATABASE_URL:
         parsed = urlparse(DATABASE_URL)
         user = parsed.username or DB_USER
@@ -275,6 +277,7 @@ def connect_db():
     return mysql.connector.connect(host=DB_HOST, user=DB_USER, password=DB_PASS, database=DB_NAME)
 
 def fetch_all(sql: str, params: Optional[tuple] = None) -> list:
+    """Izvrsava SELECT i vraca listu tuple-ova (bez kljuceva)."""
     cnx = connect_db()
     try:
         cur = cnx.cursor(); cur.execute(sql, params or ()); rows = cur.fetchall(); cur.close(); return rows
@@ -282,6 +285,7 @@ def fetch_all(sql: str, params: Optional[tuple] = None) -> list:
         cnx.close()
 
 def fetch_dict(sql: str, params: Optional[tuple] = None) -> list:
+    """Izvrsava SELECT i vraca listu dict-ova (kolone kao kljucevi)."""
     cnx = connect_db()
     try:
         cur = cnx.cursor(dictionary=True); cur.execute(sql, params or ()); rows = cur.fetchall(); cur.close(); return rows
@@ -289,7 +293,7 @@ def fetch_dict(sql: str, params: Optional[tuple] = None) -> list:
         cnx.close()
 
 def exec_write(sql: str, params: tuple) -> int:
-    """Execute INSERT/UPDATE/DELETE, return lastrowid if any."""
+    """Izvrsava INSERT/UPDATE/DELETE, vraca lastrowid ako postoji."""
     cnx = connect_db()
     try:
         cur = cnx.cursor()
@@ -302,12 +306,15 @@ def exec_write(sql: str, params: tuple) -> int:
         cnx.close()
 
 def table_exists(db: str, table: str) -> bool:
+    """Proverava postojanje tabele u datoj semi baze."""
     return len(fetch_all("SELECT 1 FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA=%s AND TABLE_NAME=%s", (db, table)))>0
 
 def list_columns(db: str, table: str) -> List[str]:
+    """Vraca listu imena kolona za zadatu tabelu."""
     return [r[0] for r in fetch_all("SELECT COLUMN_NAME FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_SCHEMA=%s AND TABLE_NAME=%s", (db, table))]
 
 def has_non_null(table: str, col: str) -> bool:
+    """Vraca True ako kolona u tabeli ima bar jednu nenull vrednost."""
     try:
         rows = fetch_all(f"SELECT COUNT(1) FROM `{table}` WHERE `{col}` IS NOT NULL LIMIT 1")
         return (rows[0][0] if rows else 0) > 0
@@ -315,11 +322,13 @@ def has_non_null(table: str, col: str) -> bool:
         return False
 
 def current_db_name() -> str:
+    """Vraca ime aktivne baze (database) iz konekcije."""
     cnx = connect_db()
     try: return cnx.database
     finally: cnx.close()
 
 def pick_table_and_target() -> Tuple[str, str]:
+    """Automatski bira (tabela, target) za cenu prateci pravila i kandidate."""
     db = current_db_name()
     need = {"city","board","nights","stars","departure_date","title"}
     if TABLE_NAME_OVERRIDE and table_exists(db, TABLE_NAME_OVERRIDE):
@@ -356,6 +365,7 @@ BOARD_MAP_PATTERNS = [
 ]
 
 def normalize_board(board: Optional[str]) -> str:
+    """Mapira sirove opisne vrednosti usluge na standardne kategorije (BOARD_*)."""
     s = (board or "").strip().lower()
     if not s: return "BOARD_OTHER"
     for pat, lab in BOARD_MAP_PATTERNS:
@@ -363,6 +373,7 @@ def normalize_board(board: Optional[str]) -> str:
     return "BOARD_OTHER"
 
 def normalize_room(room: Optional[str]) -> str:
+    """Grupise opis sobe u nekoliko standardnih kategorija (ROOM_*)."""
     if not room: return "ROOM_OTHER"
     s = str(room).lower()
     if "suite" in s: return "ROOM_SUITE"
@@ -374,20 +385,24 @@ def normalize_room(room: Optional[str]) -> str:
     return "ROOM_OTHER"
 
 def safe_dt(x):
+    """Bezbedno parsira vrednost u datetime ili vraca None ako nije moguce."""
     if x is None: return None
     if isinstance(x, datetime): return x
     try: return datetime.fromisoformat(str(x))
     except: return None
 
 def winsorize_array(values: np.ndarray, low=2, high=98):
+    """Klipsuje vrednosti na zadate percentile; vraca (clip, lo, hi)."""
     lo, hi = np.percentile(values, [low, high])
     return np.clip(values, lo, hi), float(lo), float(hi)
 
 def rare_bucket(vals: List[str], min_freq: int, other_token: str) -> List[str]:
+    """Zamenjuje retke kategorije (frekv. < min_freq) sa other_token."""
     cnt = Counter(vals)
     return [ (v if cnt[v] >= min_freq else other_token) for v in vals ]
 
 def compute_smoothed_mean(rows: List[Dict[str,Any]], key: str, price_key: str, m: float, global_mean: float) -> Dict[str, float]:
+    """Racuna smoothed srednju cenu po kljucu: (sum + m*global)/(n+m)."""
     by = defaultdict(list)
     for r in rows: by[str(r.get(key,""))].append(r[price_key])
     means={}
@@ -399,6 +414,7 @@ def compute_smoothed_mean(rows: List[Dict[str,Any]], key: str, price_key: str, m
 
 
 def fetch_rows(table: str, target: str) -> List[Dict[str,Any]]:
+    """Ucitava i priprema redove iz baze: ciscenje, konverzije i osnovne featur-e."""
     cols = "title, city, place, board, room_type, stars, nights, departure_date, created_at, transport_mode, is_air, `{}` AS price".format(target)
     sql=f"""
       SELECT {cols}
@@ -436,12 +452,15 @@ def fetch_rows(table: str, target: str) -> List[Dict[str,Any]]:
 
 
 class OneHotEncoderManual:
+    """Rucni One-Hot enkoder: pravi vokabular po koloni i OHE matricu."""
     def __init__(self): self.vocabs: Dict[str,List[str]] = {}
     def fit(self, rows: List[Dict[str,Any]], cols: List[str]):
+        """Gradi vokabular vrednosti za svaku kategoricku kolonu iz train skupa."""
         for c in cols:
             vals = sorted({str(r.get(c,"")).strip() for r in rows})
             self.vocabs[c] = list(vals)
     def transform(self, rows: List[Dict[str,Any]], cols: List[str]) -> np.ndarray:
+        """Transformise redove u OHE matricu po ranije istreniranom vokabularu."""
         parts=[]
         for c in cols:
             vocab = self.vocabs.get(c, [])
@@ -453,6 +472,7 @@ class OneHotEncoderManual:
             parts.append(M)
         return np.concatenate(parts, axis=1) if parts else np.zeros((len(rows),0),dtype=float)
     def names(self, cols: List[str]) -> List[str]:
+        """Vraca listu imena OHE kolona (kolona=vrednost)."""
         out=[]
         for c in cols:
             for v in self.vocabs.get(c, []):
@@ -460,8 +480,10 @@ class OneHotEncoderManual:
         return out
 
 class StandardScalerManual:
+    """Rucni standardizator: pamti (mean, std) i skalira numericke kolone."""
     def __init__(self): self.means={}; self.stds={}
     def fit(self, rows: List[Dict[str,Any]], cols: List[str]):
+        """Racuna mean/std po koloni na osnovu train skupa."""
         for c in cols:
             arr = np.array([float(r.get(c,0.0)) for r in rows], dtype=float)
             mu = float(arr.mean()) if arr.size else 0.0
@@ -469,6 +491,7 @@ class StandardScalerManual:
             if sd <= 1e-12: sd = 1.0
             self.means[c], self.stds[c] = mu, sd
     def transform(self, rows: List[Dict[str,Any]], cols: List[str]) -> np.ndarray:
+        """Vrsi (x - mean)/std po svakoj numerickoj koloni."""
         X = np.zeros((len(rows), len(cols)), dtype=float)
         for j,c in enumerate(cols):
             mu = self.means.get(c,0.0); sd = self.stds.get(c,1.0)
@@ -479,14 +502,18 @@ class StandardScalerManual:
 
 #  MODEL (GD + early-stop po val MAE EUR)
 class LinearRegressionGD:
+    """Linearni model treniran mini-batch gradijentnim spustom sa L2 i early-stop."""
     def __init__(self, lr=0.05, epochs=800, batch_size=128, l2_lambda=1e-3, patience=40, lr_decay=1.0, verbose=False):
         self.lr=lr; self.epochs=epochs; self.batch=batch_size
         self.l2=l2_lambda; self.patience=patience; self.lr_decay=lr_decay
         self.verbose=verbose
         self.w: Optional[np.ndarray]=None
     @staticmethod
-    def _add_bias(X): return np.hstack([X, np.ones((X.shape[0],1),dtype=float)])
+    def _add_bias(X):
+        """Dodaje bias kolonu jedinica u dizajn matricu."""
+        return np.hstack([X, np.ones((X.shape[0],1),dtype=float)])
     def fit(self, X: np.ndarray, y: np.ndarray, eval_fn=None):
+        """Trenira model; opcioni eval_fn vraca val skor za early-stop (manje je bolje)."""
         Xb=self._add_bias(X); n,d=Xb.shape; self.w=np.zeros(d,dtype=float)
         best=float("inf"); best_w=self.w.copy(); patience=self.patience; lr=self.lr
         for ep in range(self.epochs):
@@ -506,20 +533,29 @@ class LinearRegressionGD:
                     if self.verbose: print(f"[early stop] epoch={ep} best={best:.4f}")
                     break
         self.w=best_w
-    def predict(self,X): return self._add_bias(X)@self.w
+    def predict(self,X):
+        """Vraca vektor predikcija za datu matricu X."""
+        return self._add_bias(X)@self.w
 
 #  METRIKE
-def mae(y,yh): return float(np.mean(np.abs(y-yh)))
-def rmse(y,yh): return float(np.sqrt(np.mean((y-yh)**2)))
+def mae(y,yh):
+    """Mean Absolute Error u istoj jedinici kao y (valuta)."""
+    return float(np.mean(np.abs(y-yh)))
+def rmse(y,yh):
+    """Root Mean Squared Error; jace kaznjava velike greske."""
+    return float(np.sqrt(np.mean((y-yh)**2)))
 def mape(y,yh, min_y=50.0):
+    """MAPE (%), sa minimalnim imeniteljem da se izbegnu ekstremi na malim cenama."""
     denom = np.maximum(np.abs(y), min_y)
     return float(np.mean(np.abs((y-yh)/denom)) * 100.0)
 def r2_score(y,yh):
+    """Koeficijent determinacije R^2 (1 je perfektno, <0 losije od proseka)."""
     ss_res=float(np.sum((y-yh)**2)); ss_tot=float(np.sum((y-np.mean(y))**2))
     return 1.0-(ss_res/ss_tot if ss_tot>1e-12 else 0.0)
 
 
 class Pipeline:
+    """Kraj-do-kraja pipelajn: priprema podataka, encoding, skaliranje, trening, evaluacija, predikcija."""
     def __init__(self, table: str, target: str):
         self.table=table; self.target=target
         # kategorije (posle bucketa)
@@ -539,6 +575,7 @@ class Pipeline:
         self._hotel_means={}; self._city_means={}; self._global_mean=0.0
 
     def _pre_bucket(self, rows: List[Dict[str,Any]]):
+        """Smanjuje retke kategorije na OTHER_* prema pragovima u konfiguraciji."""
         cities  = rare_bucket([r["city"] for r in rows],  CITY_MIN_FREQ,  "OTHER_CITY")
         places  = rare_bucket([r["place"] for r in rows], CITY_MIN_FREQ,  "OTHER_PLACE")
         rooms   = rare_bucket([r["room_group"] for r in rows], ROOM_MIN_FREQ,"ROOM_OTHER")
@@ -550,6 +587,7 @@ class Pipeline:
             r["hotel_title"]=hotels[i]
 
     def _add_derived(self, rows: List[Dict[str,Any]]):
+        """Dodaje izvedene feature-e (sezonalnost, kvadrati, interakcije)."""
         for r in rows:
             ang=2*math.pi*((int(r["month"])%12)/12.0)
             r["month_sin"]=math.sin(ang); r["month_cos"]=math.cos(ang)
@@ -559,6 +597,7 @@ class Pipeline:
             r["nights_x_stars"]=r["nights"]*r["stars"]
 
     def _fit_means(self, rows_train: List[Dict[str,Any]]):
+        """Racuna winsorizovane globalne i smoothed proseke po hotelu i gradu (train-only)."""
         prices = np.array([r["price"] for r in rows_train], dtype=float)
         prices_clip, lo, hi = winsorize_array(prices, P_LOW, P_HIGH)
         self._winsor_lohi=(lo,hi)
@@ -570,12 +609,14 @@ class Pipeline:
         self._city_means  = compute_smoothed_mean(temp, "city",        "price_clip", m=50.0, global_mean=self._global_mean)
 
     def _attach_means(self, rows: List[Dict[str,Any]]):
+        """Dodaje feature-e hotel_mean_price i city_mean_price koristeci ranije izracunate mape."""
         g=self._global_mean if self._global_mean>0 else float(np.mean([r["price"] for r in rows]))
         for r in rows:
             r["hotel_mean_price"]=float(self._hotel_means.get(r["hotel_title"], g))
             r["city_mean_price"] =float(self._city_means.get(r["city"], g))
 
     def _build_Xy(self, rows: List[Dict[str,Any]], log_target: bool) -> Tuple[np.ndarray,np.ndarray,np.ndarray]:
+        """Gradi X (OHE+skalirano), y_t (target, log opciono) i y_clip (winsor)."""
         y_raw = np.array([float(r["price"]) for r in rows], dtype=float)
         if self._winsor_lohi is None:
             y_clip, lo, hi = winsorize_array(y_raw, P_LOW, P_HIGH); self._winsor_lohi=(lo,hi)
@@ -589,6 +630,7 @@ class Pipeline:
         return X, y_t, y_clip
 
     def fit(self, rows: List[Dict[str,Any]], log_target: bool, temporal_split: bool):
+        """Kompletan trening: bucket/feature-i, split, encoding/skaliranje, early-stop, metrike."""
         self._pre_bucket(rows)
         self._add_derived(rows)
 
@@ -650,6 +692,7 @@ class Pipeline:
         return metrics, rows_train, rows_test
 
     def predict_one(self, form: Dict[str,Any], log_target: bool) -> float:
+        """Predvidja cenu za jedan unos iz forme koristeci istrenirani pipeline."""
         row={
             "title": str(form.get("hotel") or "ANY_HOTEL"),
             "city": str(form["city"]).strip(),
@@ -692,6 +735,7 @@ class Pipeline:
 HIST_TABLE = "prediction_history"
 
 def ensure_history_table():
+    """Kreira tabelu istorije predikcija ako ne postoji."""
     db = current_db_name()
     if table_exists(db, HIST_TABLE):
         return
@@ -729,12 +773,14 @@ def ensure_history_table():
     exec_write(sql, ())
 
 def get_client_ip() -> str:
+    """Ekstrahuje IP adresu klijenta (X-Forwarded-For ili remote_addr)."""
     xf = request.headers.get("X-Forwarded-For", "")
     if xf:
         return xf.split(",")[0].strip()
     return request.remote_addr or ""
 
 def insert_history_row(form: Dict[str, Any], prediction: float, currency: str, metrics: Dict[str, Any], meta: Dict[str, Any]) -> int:
+    """Upisuje jednu predikciju u istoriju i vraca ID reda."""
     ua = request.headers.get("User-Agent", "")[:512]
     ip = get_client_ip()[:64]
     sql = f"""
@@ -757,6 +803,7 @@ def insert_history_row(form: Dict[str, Any], prediction: float, currency: str, m
     return exec_write(sql, params)
 
 def build_history_filters(args) -> Tuple[str, list]:
+    """Gradi WHERE klauzulu i parametre za filtere istorije (city, month, board)."""
     where = []
     params: list = []
     city = args.get("city")
@@ -777,6 +824,7 @@ def build_history_filters(args) -> Tuple[str, list]:
     return clause, params
 
 def query_history(args, page: int, per: int):
+    """Vrsi upit nad istorijom sa filtrima, paginacijom i vraca total/pages/page/rows."""
     clause, params = build_history_filters(args)
     # total
     total = fetch_all(f"SELECT COUNT(*) FROM `{HIST_TABLE}` {clause}", tuple(params))[0][0]
@@ -800,6 +848,7 @@ META={"table":"?","target":"?","log_target":USE_LOG_TARGET,"temporal":USE_TEMPOR
 
 @app.route("/", methods=["GET"])
 def home():
+    """Pocetna stranica: forma za unos i pregled metrika/evaluacije."""
     return render_template_string(
         HTML_TPL,
         cities=CHOICES["cities"], boards=CHOICES["boards"], transports=CHOICES["transports"],
@@ -810,6 +859,7 @@ def home():
 
 @app.route("/predict", methods=["POST"])
 def predict():
+    """Obradjuje unos iz forme, racuna predikciju i belezi je u istoriju."""
     form = {
         "city": request.form.get("city"),
         "hotel": request.form.get("hotel"),
@@ -837,6 +887,7 @@ def predict():
 
 @app.route("/history", methods=["GET"])
 def history_page():
+    """Stranica sa istorijom predikcija, filtriranjem i paginacijom."""
     # filteri / paginacija
     try:
         per = min(max(1, int(request.args.get("per") or HIST_DEFAULT_PER)), HIST_MAX_PER)
@@ -894,6 +945,7 @@ def history_page():
 
 @app.route("/history.csv", methods=["GET"])
 def history_csv():
+    """CSV izvoz istorije predikcija (limit do 10k)."""
     try:
         per = min(int(request.args.get("limit") or 10000), 10000)
     except:
@@ -930,6 +982,7 @@ def history_csv():
 
 @app.route("/api/history", methods=["GET"])
 def history_api():
+    """JSON API za preuzimanje istorije sa paginacijom i filtrima."""
     try:
         per = min(max(1, int(request.args.get("limit") or HIST_DEFAULT_PER)), HIST_MAX_PER)
     except:
@@ -966,6 +1019,7 @@ def history_api():
 
 
 def main():
+    """Ulazna tacka: konekcija na bazu, izbor tabele/targeta, trening pipeline-a i start Flask-a."""
     try:
         cnx=connect_db(); db=cnx.database; cnx.close()
     except Error as e:

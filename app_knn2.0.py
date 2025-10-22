@@ -375,10 +375,12 @@ HTML_HIST = """
 
 
 def set_random_seed(seed=42):
+    """Postavlja seed za random i numpy radi reproduktivnosti rezultata."""
     random.seed(seed)
     np.random.seed(seed)
 
 def get_db_connection():
+    """Vraća MySQL konekciju koristeći env promenljive ili `DATABASE_URL`."""
     if DATABASE_URL:
         parsed = urlparse(DATABASE_URL)
         username = parsed.username or DB_USER
@@ -534,7 +536,7 @@ BOARD_NORMALIZATION_PATTERNS = [
 ]
 
 def normalize_board_type(board_value: Optional[str]) -> str:
-    """Normalize board type strings to standard categories"""
+    """Normalizuje opis usluge (board) u standardne kategorije (BOARD_*)."""
     if not board_value:
         return "BOARD_OTHER"
     
@@ -542,7 +544,7 @@ def normalize_board_type(board_value: Optional[str]) -> str:
     if not normalized:
         return "BOARD_OTHER"
     
-    # Check each pattern
+    # Proveri regex obrasce i mapiraj na odgovarajuću etiketu
     for pattern, label in BOARD_NORMALIZATION_PATTERNS:
         if re.search(pattern, normalized, re.IGNORECASE):
             return label
@@ -550,7 +552,7 @@ def normalize_board_type(board_value: Optional[str]) -> str:
     return "BOARD_OTHER"
 
 def normalize_room_type(room_value: Optional[str]) -> str:
-    """Normalize room type strings to standard categories"""
+    """Normalizuje opis tipa sobe u nekoliko standardnih kategorija (ROOM_*)."""
     if not room_value:
         return "ROOM_OTHER"
     
@@ -572,7 +574,7 @@ def normalize_room_type(room_value: Optional[str]) -> str:
         return "ROOM_OTHER"
 
 def safe_parse_datetime(value):
-    """Safely parse datetime from various input formats"""
+    """Bezbedno parsira datetime iz različitih ulaza; vraća None ako ne uspe."""
     if value is None:
         return None
     if isinstance(value, datetime):
@@ -585,7 +587,7 @@ def safe_parse_datetime(value):
 
 
 def load_data_from_database(table_name: str, target_column: str) -> List[Dict[str, Any]]:
-    """Load and preprocess data from the database"""
+    """Učitava i predobrađuje podatke iz baze (čišćenje, normalizacije, ciljna klasa)."""
     
     # Build the SELECT query
     column_list = """
@@ -609,49 +611,49 @@ def load_data_from_database(table_name: str, target_column: str) -> List[Dict[st
     processed_rows = []
     for row in raw_rows:
         try:
-            # Basic type conversions and validation
+            # Osnovne konverzije tipova i validacija
             processed_row = {}
             processed_row["price"] = float(row["price"])
             processed_row["nights"] = int(row["nights"])  
             processed_row["stars"] = int(row["stars"])
             
-            # String field processing
+            # Obrada tekstualnih polja
             processed_row["title"] = str(row.get("title") or "").strip() or "OTHER_HOTEL"
             processed_row["city"] = str(row.get("city") or "").strip()
             processed_row["place"] = str(row.get("place") or "").strip() or "OTHER_PLACE"
             
-            # Normalize categorical fields
+            # Normalizacija kategorija (board/room)
             processed_row["board_cat"] = normalize_board_type(row.get("board"))
             processed_row["room_group"] = normalize_room_type(row.get("room_type"))
             
-            # Transport processing
+            # Obrada transporta
             transport_raw = str(row.get("transport_mode") or "").strip().lower()
             processed_row["transport_mode"] = transport_raw if transport_raw else "other"
             processed_row["is_air"] = int(row.get("is_air")) if row.get("is_air") is not None else 1
             
-            # Date processing
+            # Obrada datuma (mesec, lead_time)
             departure_date = safe_parse_datetime(row.get("departure_date"))
             processed_row["month"] = int(departure_date.month) if departure_date else 0
             
             created_date = safe_parse_datetime(row.get("created_at"))
             processed_row["created_at"] = created_date
             
-            # Lead time calculation
+            # Izračun lead_time (ograničen na LEAD_TIME_MAX)
             processed_row["lead_time"] = 0
             if departure_date and created_date:
                 days_diff = (departure_date - created_date).days
                 processed_row["lead_time"] = max(0, min(LEAD_TIME_MAX, days_diff))
             
-            # Stars feature engineering
+            # Dodatni atributi vezani za zvezdice
             processed_row["stars_unknown"] = 1 if (processed_row["stars"] == 0) else 0
             
             processed_rows.append(processed_row)
             
         except Exception as e:
-            # Skip rows that can't be processed - maybe log this in production
+            # Preskoči redove koji ne mogu da se obrade (u produkciji logovati)
             continue
     
-    # Add price class targets (EUR-based thresholds)
+    # Dodaj ciljnu klasu cene (na osnovu EUR pragova)
     def price_to_class(price_eur):
         if price_eur <= 500:
             return 0
@@ -669,19 +671,19 @@ def load_data_from_database(table_name: str, target_column: str) -> List[Dict[st
 
 
 class ManualOneHotEncoder:
-    """Simple one-hot encoder implementation"""
+    """Jednostavna implementacija one-hot enkodera (uči vokabular i pravi OHE)."""
     
     def __init__(self):
         self.vocabularies: Dict[str, List[str]] = {}
     
     def fit(self, data_rows: List[Dict[str, Any]], column_names: List[str]):
-        """Learn vocabularies from training data"""
+        """Uči vokabular vrednosti po koloni na osnovu trening podataka."""
         for col in column_names:
             unique_values = sorted(set(str(row.get(col, "")).strip() for row in data_rows))
             self.vocabularies[col] = list(unique_values)
     
     def transform(self, data_rows: List[Dict[str, Any]], column_names: List[str]) -> np.ndarray:
-        """Transform data to one-hot encoded features"""
+        """Transformiše podatke u one-hot matricu po naučenom vokabularu."""
         feature_matrices = []
         
         for col in column_names:
@@ -703,14 +705,14 @@ class ManualOneHotEncoder:
             return np.zeros((len(data_rows), 0), dtype=float)
 
 class ManualStandardScaler:
-    """Simple standard scaler implementation"""
+    """Jednostavna implementacija standardnog skalera ((x-mean)/std)."""
     
     def __init__(self):
         self.feature_means = {}
         self.feature_stds = {}
     
     def fit(self, data_rows: List[Dict[str, Any]], column_names: List[str]):
-        """Learn scaling parameters from training data"""
+        """Uči parametre skaliranja (srednja vrednost i std) iz trening skupa."""
         for col in column_names:
             values = np.array([float(row.get(col, 0.0)) for row in data_rows], dtype=float)
             
@@ -724,7 +726,7 @@ class ManualStandardScaler:
             self.feature_stds[col] = std_val
     
     def transform(self, data_rows: List[Dict[str, Any]], column_names: List[str]) -> np.ndarray:
-        """Apply standard scaling to data"""
+        """Primena standardizacije na podatke po kolonama."""
         scaled_matrix = np.zeros((len(data_rows), len(column_names)), dtype=float)
         
         for col_idx, col in enumerate(column_names):
@@ -795,6 +797,7 @@ class KNearestNeighbors:
 
 
 def calculate_accuracy(y_true, y_predicted):
+    """Tačnost (Accuracy) = udeo tačnih klasifikacija."""
     y_true = np.asarray(y_true)
     y_predicted = np.asarray(y_predicted) 
     
@@ -851,7 +854,7 @@ def create_confusion_matrix(y_true, y_predicted, num_classes=4):
 
 
 class FeaturePipeline:
-    """Complete feature engineering pipeline"""
+    """Kompletan pipeline inženjeringa osobina (bucketizacija, izvedene, OHE+skaliranje)."""
     
     def __init__(self):
         # Define which columns to use for each encoder
@@ -867,6 +870,7 @@ class FeaturePipeline:
         self.numerical_scaler = ManualStandardScaler()
     
     def preprocess_rare_categories(self, data_rows: List[Dict[str, Any]]):
+        """Bucketizuje retke kategorije u OTHER_* prema zadatim pragovima."""
         
         # Extract values for each categorical column
         city_values = [row["city"] for row in data_rows]
